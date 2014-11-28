@@ -66,17 +66,16 @@ The data you can see here is what we were working with. These are recordings fro
 </aside>
 </section><section class="slide level2">
 
-<!---
-![Example graph of data after feature extraction.]()
---->
-
+<figure>
+<img src="images/F8.large.jpg" alt="Stand-in example spectrogram(Queiroz et al., 2009)." /><figcaption>Stand-in example spectrogram<span class="citation" data-cites="queiroz_dynamics_2009">(Queiroz et al., 2009)</span>.</figcaption>
+</figure>
 <aside class="notes">
 These graphs show some of what was produced from the raw data. We ended up with a vast array of different pre-processing options I'll describe later in the presentation but this should give you an idea of what they are.
 </aside>
 </section><section class="slide level2">
 
 <figure>
-<img src="images/hsspectralclass.png" alt="Example graph after dimensionality reduction." /><figcaption>Example graph after dimensionality reduction.</figcaption>
+<img src="images/hsspectralclass.png" alt="Coloured by class." /><figcaption>Coloured by class.</figcaption>
 </figure>
 <aside class="notes">
 <p>This is a spectral embedding.</p>
@@ -88,7 +87,7 @@ This graph illustrates why generalisation in this problem was so difficult. You 
 </section><section class="slide level2">
 
 <figure>
-<img src="images/hsspectralhour.png" alt="Another example graph after dimensionality reduction." /><figcaption>Another example graph after dimensionality reduction.</figcaption>
+<img src="images/hsspectralhour.png" alt="Coloured by hour." /><figcaption>Coloured by hour.</figcaption>
 </figure>
 <aside class="notes">
 
@@ -190,6 +189,8 @@ There are many, many more of these options which Scott managed to create, all ar
 <li>Recursive feature elimination</li>
 <li>...</li>
 </ul>
+</section><section class="slide level2">
+
 <h3 id="organising-the-project">Organising the project</h3>
 <ul>
 <li>Teamwork with git experience</li>
@@ -205,7 +206,7 @@ We were also able to put some time into learning development techniques which we
 <section><section id="tips-and-tricks-in-seizure-prediction" class="titleslide slide level1"><h1>Tips and tricks in seizure prediction</h1></section><section id="our-process" class="slide level2">
 <h1>Our process</h1>
 <figure>
-<img src="images/hsflow.svg" alt="Our data flow chart." /><figcaption>Our data flow chart.</figcaption>
+<img src="images/hsflow_scaled.svg" alt="Our data flow chart." /><figcaption>Our data flow chart.</figcaption>
 </figure>
 <aside class="notes">
 <p>We did our preprocessing in Matlab and it seemed like the best way to get this data from Matlab into Python would be to write it to HDF5s for each preprocessing operation and load them into Python as required.</p>
@@ -243,7 +244,7 @@ Including some other high performing submissions we were able to jump up several
 </div>
 </section><section id="repository" class="slide level2">
 <h1>Repository</h1>
-<p>Our repository can be found at... TODO</p>
+<p>Our repository can be found at: https://github.com/Neuroglycerin/hail-seizure</p>
 </section></section>
 <section><section id="competitive-data-science" class="titleslide slide level1"><h1>Competitive Data Science</h1></section><section id="conclusions" class="slide level2">
 <h1>Conclusions</h1>
@@ -297,6 +298,7 @@ Kaggle Inc (2014) American epilepsy society seizure prediction challenge. Availa
 <div class="references">
 <p>Hill M (2014) Github - michaelHills/seizure-prediction. Available from: <a href="https://github.com/MichaelHills/seizure-prediction">https://github.com/MichaelHills/seizure-prediction</a>.</p>
 <p><span>Kaggle Inc</span> (2014) American epilepsy society seizure prediction challenge. Available from: <a href="https://www.kaggle.com/c/seizure-prediction">https://www.kaggle.com/c/seizure-prediction</a>.</p>
+<p>Queiroz CM, Gorter JA, Silva FHL da, et al. (2009) Dynamics of evoked local field potentials in the hippocampus of epileptic rats with spontaneous seizures. <em>Journal of Neurophysiology</em>, 101(3), 1588–1597, Available from: <a href="http://jn.physiology.org/content/101/3/1588">http://jn.physiology.org/content/101/3/1588</a> (accessed 28 November 2014).</p>
 </div>
 </section></section>
     </div>
