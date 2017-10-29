@@ -39,7 +39,7 @@
 							<article id="me" class="panel">
 								<header>
 									<h1>Gavin Gray</h1>
-									<p>Neuroinformatician</p>
+									<p>Neuroinformatics Researcher?</p>
 								</header>
 								<a href="#work" class="jumplink pic">
 									<span class="arrow icon fa-chevron-right"><span>See my work</span></span>
@@ -50,24 +50,40 @@
 						<!-- Work -->
 							<article id="work" class="panel">
 								<header>
-									<h2>Work</h2>
+									<h2>About</h2>
 								</header>
 								<p>
-                                Organising an information processing system is a pretty boring task.
-                                You have to make sure the connections are going to the right places,
-                                and that each part is receiving the correct error signals. I'm lazy,
-                                and I'd prefer it if that system organised itself.
+                                I've never felt that publishing papers was all that essential to research.
+                                You might be looking around this website trying to find a list of 
+                                published work. Don't worry, you didn't miss it, there isn't any.
                                 </p>
                                 <p>
-                                I like the introspected system that implies, and in general I'm 
-                                interested in feedback and recursion. My research generally focuses
-                                on learning, inference, probabilistic modeling and deep learning.
-                                My supervisor is <a href="http://homepages.inf.ed.ac.uk/amos/">Amos Storkey</a>.
+                                Despite this, I've spent a lot of time thinking about things, and 
+                                trying ideas that later turned out not to work very well. 
+                                My supervisor is <a href="http://homepages.inf.ed.ac.uk/amos/">Amos Storkey</a>,
+                                and we have worked on many ideas we later decided weren't worth publishing.
+                                </p>
+                                <p>
+                                So far, we've worked on dropout, I replicated the 
+                                <a href="https://github.com/gngdb/variational-dropout">variational dropout scheme of Kingma et al</a>.
+                                We were working on adaptive dropout schemes for selection, and thanks to it's
+                                Bayesian reasoning and efficient algorithm, I thought it pretty much closed
+                                the book on learning which units or weights are important. Then 
+                                <a href="It turns out://github.com/ars-ashuha/variational-dropout-sparsifies-dnn">sparsifying variational dropout came along</a>
+                                so I replicated <a href="https://github.com/BayesWatch/tf-variational-dropout">that as well</a>.
+                                </p>
+                                <p>
+                                After we worked on the value of nodes in an information processing graph,
+                                but made no progress dealing with the factorial complexity of 
+                                evaluating the Shapley Value. So, we gave up on that, and decided to
+                                look at Bayesian modeling for context-specific importance measures at
+                                test time, submitted to
+                                <a href="https://sites.google.com/site/wildml2016nips/schedule">reliable machine learning in the wild at NIPS 2016</a>
+                                (the paper is not available).
                                 </p>
                                 <p>
 								I've also worked on two Kaggle competitions in my spare time: the 
-                                AES seizure prediction challenge (about which I wrote a  
-                                <a href="./jcpresentation.html">casual talk</a>) and the first 
+                                AES seizure prediction challenge and the first 
                                 <a href="https://www.kaggle.com/c/datasciencebowl">National Data Science Bowl</a>.
                                 In both, our team name was <a href="https://github.com/Neuroglycerin">Neuroglycerin</a>, 
                                 and in both we achieved scores in the top 10%.
