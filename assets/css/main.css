@@ -1582,3 +1582,56 @@
 					}
 
 	}
+
+/* Blog Specific Styles */
+
+
+.blog-container {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent white */
+}
+
+.blog-post h1 {
+    font-size: 2em;
+}
+
+.date {
+    color: #666;
+    font-style: italic;
+}
+
+.bibliography h2 {
+    margin-top: 40px;
+}
+
+.bibliography ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.bibliography li {
+    margin-bottom: 10px;
+}
+
+.blog-index {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent white */
+}
+
+.blog-index ul {
+    list-style: none;
+    padding: 0;
+}
+
+.blog-index li {
+    margin-bottom: 10px;
+}
+
+.blog-index a {
+    text-decoration: none;
+    color: #0366d6; /* Example color - you can choose any */
+}
