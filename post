@@ -1,0 +1,140 @@
+#!/usr/bin/env python3
+"""
+Microblog posting script
+Usage: ./post [--commit] [--message "Your post content"]
+"""
+import sys
+import re
+import subprocess
+import argparse
+from datetime import datetime
+from pathlib import Path
+
+def get_next_post_id():
+    """Find the next available post ID by examining existing posts"""
+    microblog_path = Path("microblog.html")
+    if not microblog_path.exists():
+        return 1
+    
+    content = microblog_path.read_text()
+    # Find all existing post IDs
+    post_ids = re.findall(r'id="post-(\d+)"', content)
+    if not post_ids:
+        return 1
+    
+    # Return the highest ID + 1
+    return max(int(pid) for pid in post_ids) + 1
+
+def escape_html(text):
+    """Escape HTML characters in post content"""
+    return (text.replace('&', '&amp;')
+               .replace('<', '&lt;')
+               .replace('>', '&gt;')
+               .replace('"', '&quot;')
+               .replace("'", '&#x27;'))
+
+def format_post_content(content, post_id):
+    """Format the new post HTML"""
+    now = datetime.now()
+    date_str = now.strftime("%B %d, %Y")
+    time_str = now.strftime("%-I:%M %p")  # Remove leading zero from hour
+    
+    escaped_content = escape_html(content.strip())
+    
+    return f'''			<div class="microblog-post" id="post-{post_id}">
+				<div class="post-content">
+					{escaped_content}
+				</div>
+				<div class="post-meta">
+					<span class="post-date">{date_str}</span> • <span class="post-time">{time_str}</span>
+					<div class="post-actions">
+						<button class="repost-btn" onclick="copyPostLink('post-{post_id}')">🔗 Share</button>
+					</div>
+				</div>
+			</div>
+			
+'''
+
+def add_post_to_microblog(content):
+    """Add a new post to the microblog HTML file"""
+    microblog_path = Path("microblog.html")
+    if not microblog_path.exists():
+        print("Error: microblog.html not found")
+        sys.exit(1)
+    
+    post_id = get_next_post_id()
+    new_post = format_post_content(content, post_id)
+    
+    # Read the current file
+    html_content = microblog_path.read_text()
+    
+    # Find the insertion point (after the header div)
+    insertion_point = html_content.find('</div>\n			\n			<div class="microblog-post"')
+    if insertion_point == -1:
+        # Fallback: look for first post
+        insertion_point = html_content.find('<div class="microblog-post"')
+        if insertion_point == -1:
+            print("Error: Could not find insertion point in microblog.html")
+            sys.exit(1)
+        insert_before = insertion_point
+    else:
+        insert_before = insertion_point + 7  # After </div>\n
+    
+    # Insert the new post
+    updated_content = (html_content[:insert_before] + 
+                      '\n			' + new_post + 
+                      html_content[insert_before:])
+    
+    # Write back to file
+    microblog_path.write_text(updated_content)
+    
+    print(f"✅ Added new post with ID: post-{post_id}")
+    return post_id
+
+def git_commit_changes(post_id):
+    """Commit the changes to git"""
+    try:
+        # Add the microblog file
+        subprocess.run(['git', 'add', 'microblog.html'], check=True, capture_output=True)
+        
+        # Commit with a descriptive message
+        commit_msg = f"Add microblog post #{post_id}"
+        subprocess.run(['git', 'commit', '-m', commit_msg], check=True, capture_output=True)
+        
+        print(f"✅ Committed changes to git")
+        return True
+    except subprocess.CalledProcessError as e:
+        print(f"❌ Git commit failed: {e}")
+        return False
+
+def main():
+    parser = argparse.ArgumentParser(description='Add a new microblog post')
+    parser.add_argument('--commit', action='store_true', 
+                       help='Automatically commit the changes to git')
+    parser.add_argument('--message', '-m', type=str,
+                       help='Post content (if not provided, will prompt)')
+    
+    args = parser.parse_args()
+    
+    # Get post content
+    if args.message:
+        content = args.message
+    else:
+        print("Enter your post content (press Ctrl+D when finished):")
+        content = sys.stdin.read().strip()
+    
+    if not content:
+        print("❌ No content provided")
+        sys.exit(1)
+    
+    # Add the post
+    post_id = add_post_to_microblog(content)
+    
+    # Optionally commit
+    if args.commit:
+        git_commit_changes(post_id)
+    
+    print(f"🎉 Post added successfully! View at: microblog.html#post-{post_id}")
+
+if __name__ == '__main__':
+    main()

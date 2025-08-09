@@ -1,0 +1,311 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Microblog | Gavia Gray</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+		<style>
+			.microblog-container {
+				max-width: 600px;
+				margin: 2em auto;
+				padding: 2em;
+				background: rgba(255, 255, 255, 0.1);
+				border-radius: 8px;
+			}
+			
+			.microblog-header {
+				text-align: center;
+				margin-bottom: 2em;
+				border-bottom: 2px solid rgba(255, 255, 255, 0.2);
+				padding-bottom: 1em;
+			}
+			
+			.microblog-header h1 {
+				color: #fff;
+				margin-bottom: 0.5em;
+			}
+			
+			.microblog-header .back-link {
+				color: rgba(255, 255, 255, 0.7);
+				text-decoration: none;
+				font-size: 0.9em;
+			}
+			
+			.microblog-header .back-link:hover {
+				color: #fff;
+			}
+			
+			.microblog-post {
+				background: rgba(0, 0, 0, 0.3);
+				border: 1px solid rgba(255, 255, 255, 0.1);
+				border-radius: 8px;
+				padding: 1.5em;
+				margin-bottom: 1.5em;
+				color: #fff;
+			}
+			
+			.microblog-post:hover {
+				background: rgba(0, 0, 0, 0.4);
+				border-color: rgba(255, 255, 255, 0.2);
+			}
+			
+			.post-content {
+				font-size: 1.1em;
+				line-height: 1.5;
+				margin-bottom: 1em;
+			}
+			
+			.post-meta {
+				font-size: 0.9em;
+				color: rgba(255, 255, 255, 0.6);
+				border-top: 1px solid rgba(255, 255, 255, 0.1);
+				padding-top: 0.8em;
+			}
+			
+			.post-date {
+				font-weight: bold;
+			}
+			
+			.post-actions {
+				margin-top: 0.8em;
+				display: flex;
+				gap: 1em;
+			}
+			
+			.repost-btn {
+				background: none;
+				border: 1px solid rgba(255, 255, 255, 0.2);
+				color: rgba(255, 255, 255, 0.7);
+				padding: 0.3em 0.8em;
+				border-radius: 15px;
+				font-size: 0.8em;
+				cursor: pointer;
+				transition: all 0.2s ease;
+			}
+			
+			.repost-btn:hover {
+				border-color: rgba(255, 255, 255, 0.4);
+				color: #fff;
+				background: rgba(255, 255, 255, 0.05);
+			}
+			
+			.repost-btn:active {
+				transform: scale(0.95);
+			}
+			
+			.microblog-post:target {
+				border-color: rgba(255, 255, 255, 0.5);
+				background: rgba(0, 0, 0, 0.5);
+				box-shadow: 0 0 20px rgba(255, 255, 255, 0.1);
+			}
+			
+			.copy-feedback {
+				position: fixed;
+				top: 20px;
+				right: 20px;
+				background: rgba(0, 0, 0, 0.8);
+				color: #fff;
+				padding: 1em 1.5em;
+				border-radius: 5px;
+				border: 1px solid rgba(255, 255, 255, 0.2);
+				z-index: 1000;
+				opacity: 0;
+				transition: opacity 0.3s ease;
+			}
+			
+			.copy-feedback.show {
+				opacity: 1;
+			}
+		</style>
+	</head>
+	<body>
+		<div class="microblog-container">
+			<div class="microblog-header">
+				<h1>Microblog</h1>
+				<a href="index.html" class="back-link">← Back to Home</a>
+			</div>
+			
+			<div class="microblog-post" id="post-1">
+				<div class="post-content">
+					Just set up this microblog! Planning to share random thoughts, quick updates, and mini-rants here. Think Twitter but with more control and less algorithm nonsense.
+				</div>
+				<div class="post-meta">
+					<span class="post-date">August 9, 2025</span> • <span class="post-time">3:15 PM</span>
+					<div class="post-actions">
+						<button class="repost-btn" onclick="copyPostLink('post-1')">🔗 Share</button>
+					</div>
+				</div>
+			</div>
+			
+			<div class="microblog-post" id="post-2">
+				<div class="post-content">
+					Working on some interesting ML research at Cerebras. The scale of these models never ceases to amaze me. Sometimes I wonder if we're overthinking the complexity though 🤔
+				</div>
+				<div class="post-meta">
+					<span class="post-date">August 8, 2025</span> • <span class="post-time">11:42 AM</span>
+					<div class="post-actions">
+						<button class="repost-btn" onclick="copyPostLink('post-2')">🔗 Share</button>
+					</div>
+				</div>
+			</div>
+			
+			<div class="microblog-post" id="post-3">
+				<div class="post-content">
+					Hot take: Static sites are underrated. Fast, secure, and you actually own your content. No database drama, no server crashes, just files that work.
+				</div>
+				<div class="post-meta">
+					<span class="post-date">August 7, 2025</span> • <span class="post-time">2:30 PM</span>
+					<div class="post-actions">
+						<button class="repost-btn" onclick="copyPostLink('post-3')">🔗 Share</button>
+					</div>
+				</div>
+			</div>
+			
+			<div class="microblog-post" id="post-4">
+				<div class="post-content">
+					Edinburgh University memories flooding back while reviewing some old research papers. That city shaped so much of my thinking about ML and research in general.
+				</div>
+				<div class="post-meta">
+					<span class="post-date">August 6, 2025</span> • <span class="post-time">9:15 AM</span>
+					<div class="post-actions">
+						<button class="repost-btn" onclick="copyPostLink('post-4')">🔗 Share</button>
+					</div>
+				</div>
+			</div>
+			
+			<div class="microblog-post" id="post-5">
+				<div class="post-content">
+					Coffee shop productivity is real. Something about the background noise and caffeine just makes the code flow better. Currently debugging some training loops ☕
+				</div>
+				<div class="post-meta">
+					<span class="post-date">August 5, 2025</span> • <span class="post-time">4:22 PM</span>
+					<div class="post-actions">
+						<button class="repost-btn" onclick="copyPostLink('post-5')">🔗 Share</button>
+					</div>
+				</div>
+			</div>
+			
+			<div class="microblog-post" id="post-6">
+				<div class="post-content">
+					Reading papers on resource-efficient ML again. It's wild how much the field has evolved since my PhD days, but the core problems remain fascinatingly stubborn.
+				</div>
+				<div class="post-meta">
+					<span class="post-date">August 4, 2025</span> • <span class="post-time">7:45 PM</span>
+					<div class="post-actions">
+						<button class="repost-btn" onclick="copyPostLink('post-6')">🔗 Share</button>
+					</div>
+				</div>
+			</div>
+			
+			<div class="microblog-post" id="post-7">
+				<div class="post-content">
+					Quick reminder: if your model takes 3 days to train, you're probably doing something wrong. Or you're training GPT-5. Hard to tell these days.
+				</div>
+				<div class="post-meta">
+					<span class="post-date">August 3, 2025</span> • <span class="post-time">1:10 PM</span>
+					<div class="post-actions">
+						<button class="repost-btn" onclick="copyPostLink('post-7')">🔗 Share</button>
+					</div>
+				</div>
+			</div>
+			
+			<div class="microblog-post" id="post-8">
+				<div class="post-content">
+					Stumbled across an old Bandcamp release I made years ago. The nostalgia hit different. Maybe I should get back into music production between research projects 🎵
+				</div>
+				<div class="post-meta">
+					<span class="post-date">August 2, 2025</span> • <span class="post-time">10:33 AM</span>
+					<div class="post-actions">
+						<button class="repost-btn" onclick="copyPostLink('post-8')">🔗 Share</button>
+					</div>
+				</div>
+			</div>
+			
+			<div class="microblog-post" id="post-9">
+				<div class="post-content">
+					Vector Institute days were something special. The collaborative energy, the brilliant minds, the late-night debugging sessions. Good times in Toronto.
+				</div>
+				<div class="post-meta">
+					<span class="post-date">August 1, 2025</span> • <span class="post-time">6:18 PM</span>
+					<div class="post-actions">
+						<button class="repost-btn" onclick="copyPostLink('post-9')">🔗 Share</button>
+					</div>
+				</div>
+			</div>
+			
+			<div class="microblog-post" id="post-10">
+				<div class="post-content">
+					First post! Testing out this microblog setup. It's basically just a long HTML page with styled posts. Simple, effective, mine. What more do you need?
+				</div>
+				<div class="post-meta">
+					<span class="post-date">July 31, 2025</span> • <span class="post-time">8:00 AM</span>
+					<div class="post-actions">
+						<button class="repost-btn" onclick="copyPostLink('post-10')">🔗 Share</button>
+					</div>
+				</div>
+			</div>
+		</div>
+		
+		<div id="copy-feedback" class="copy-feedback">Link copied to clipboard!</div>
+		
+		<script>
+			function copyPostLink(postId) {
+				const url = window.location.origin + window.location.pathname + '#' + postId;
+				
+				if (navigator.clipboard && window.isSecureContext) {
+					navigator.clipboard.writeText(url).then(() => {
+						showFeedback();
+					}).catch(() => {
+						fallbackCopyTextToClipboard(url);
+					});
+				} else {
+					fallbackCopyTextToClipboard(url);
+				}
+			}
+			
+			function fallbackCopyTextToClipboard(text) {
+				const textArea = document.createElement('textarea');
+				textArea.value = text;
+				textArea.style.position = 'fixed';
+				textArea.style.left = '-999999px';
+				textArea.style.top = '-999999px';
+				document.body.appendChild(textArea);
+				textArea.focus();
+				textArea.select();
+				
+				try {
+					document.execCommand('copy');
+					showFeedback();
+				} catch (err) {
+					console.error('Could not copy text: ', err);
+					alert('Unable to copy to clipboard. Please copy manually: ' + text);
+				}
+				
+				document.body.removeChild(textArea);
+			}
+			
+			function showFeedback() {
+				const feedback = document.getElementById('copy-feedback');
+				feedback.classList.add('show');
+				
+				setTimeout(() => {
+					feedback.classList.remove('show');
+				}, 2000);
+			}
+			
+			// Smooth scroll to target when page loads with hash
+			window.addEventListener('load', function() {
+				if (window.location.hash) {
+					const target = document.querySelector(window.location.hash);
+					if (target) {
+						setTimeout(() => {
+							target.scrollIntoView({ behavior: 'smooth', block: 'center' });
+						}, 100);
+					}
+				}
+			});
+		</script>
+	</body>
+</html>
