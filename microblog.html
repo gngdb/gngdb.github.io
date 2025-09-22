@@ -141,6 +141,18 @@
 			.copy-feedback.show {
 				opacity: 1;
 			}
+			
+			.post-react {
+				font-size: 1em;
+				margin: 0.2em;
+				padding: 0.2em 0.4em;
+				background: rgba(255, 255, 255, 0.05);
+				border-radius: 8px;
+				border: 1px solid rgba(255, 255, 255, 0.1);
+				display: inline-block;
+				font-family: monospace;
+				white-space: nowrap;
+			}
 		</style>
 	</head>
 	<body>
@@ -421,6 +433,48 @@ However, we need not reiterate the situation, please just present your argument 
 		<div id="copy-feedback" class="copy-feedback">Link copied to clipboard!</div>
 		
 		<script>
+			// Simple react emojis
+			const reactEmojis = ['❤️', '🤔', '😭'];
+			
+			function getRandomNumber() {
+				// Generate random numbers with different ranges for chaos
+				const ranges = [
+					() => Math.floor(Math.random() * 10), // 0-9
+					() => Math.floor(Math.random() * 100), // 0-99
+					() => Math.floor(Math.random() * 1000), // 0-999
+					() => Math.floor(Math.random() * 42) + 1, // 1-42
+					() => Math.floor(Math.random() * 9000) + 1000, // 1000-9999
+					() => Math.floor(Math.random() * 7) + 1, // 1-7
+					() => Math.floor(Math.random() * 420) + 69, // 69-488
+				];
+				const randomRange = ranges[Math.floor(Math.random() * ranges.length)];
+				return randomRange();
+			}
+			
+			function getRandomReact() {
+				const emoji = reactEmojis[Math.floor(Math.random() * reactEmojis.length)];
+				const number = getRandomNumber();
+				return `${emoji} ${number}`;
+			}
+			
+			function addRandomReacts() {
+				const posts = document.querySelectorAll('.microblog-post');
+				posts.forEach(post => {
+					const metaDiv = post.querySelector('.post-meta');
+					if (metaDiv && !metaDiv.querySelector('.post-react')) {
+						// Add 1-4 random reacts per post for maximum chaos
+						const numReacts = Math.floor(Math.random() * 4) + 1;
+						
+						for (let i = 0; i < numReacts; i++) {
+							const reactSpan = document.createElement('span');
+							reactSpan.className = 'post-react';
+							reactSpan.textContent = getRandomReact();
+							metaDiv.appendChild(reactSpan);
+						}
+					}
+				});
+			}
+			
 			function copyPostLink(postId) {
 				const url = window.location.origin + window.location.pathname + '#' + postId;
 				
@@ -467,6 +521,9 @@ However, we need not reiterate the situation, please just present your argument 
 			
 			// Smooth scroll to target when page loads with hash
 			window.addEventListener('load', function() {
+				// Add random reacts to all posts
+				addRandomReacts();
+				
 				if (window.location.hash) {
 					const target = document.querySelector(window.location.hash);
 					if (target) {
