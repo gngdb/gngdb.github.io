@@ -124,6 +124,50 @@
 				line-height: 1.6;
 				margin-bottom: 2em;
 			}
+
+			/* Show schedule */
+			.show-card {
+				background: rgba(0, 0, 0, 0.2);
+				border: 1px solid rgba(255, 255, 255, 0.1);
+				border-radius: 6px;
+				padding: 0.9em 1em;
+				margin-bottom: 0.8em;
+				display: flex;
+				align-items: center;
+				gap: 1em;
+				flex-wrap: wrap;
+			}
+			.show-card:last-child { margin-bottom: 0; }
+			.show-badge {
+				flex-shrink: 0;
+				font-size: 0.72em;
+				padding: 0.3em 0.8em;
+				border-radius: 12px;
+				font-weight: bold;
+				text-transform: uppercase;
+				letter-spacing: 0.06em;
+				min-width: 5em;
+				text-align: center;
+			}
+			.show-badge.live {
+				background: rgba(255, 70, 70, 0.25);
+				border: 1px solid rgba(255, 70, 70, 0.5);
+				color: #ff9090;
+				animation: live-pulse 2s ease-in-out infinite;
+			}
+			.show-badge.soon {
+				background: rgba(100, 180, 100, 0.15);
+				border: 1px solid rgba(100, 180, 100, 0.3);
+				color: rgba(140, 210, 140, 0.9);
+			}
+			@keyframes live-pulse {
+				0%, 100% { opacity: 1; }
+				50% { opacity: 0.5; }
+			}
+			.show-info { flex: 1; min-width: 150px; }
+			.show-name { font-weight: bold; color: #fff; font-size: 1.05em; }
+			.show-meta { color: rgba(255,255,255,0.55); font-size: 0.83em; margin-top: 0.25em; }
+			.schedule-footer { color: rgba(255,255,255,0.3); font-size: 0.75em; margin: 0.8em 0 0; text-align: right; }
 		</style>
 	</head>
 	<body>
@@ -133,8 +177,15 @@
 				<a href="index.html" class="back-link">← Back to Home</a>
 			</div>
 
+			<div class="radio-section">
+				<h2>Shows I Like</h2>
+				<div id="shows-list"><p style="color:rgba(255,255,255,0.5)">Loading schedule...</p></div>
+				<p class="schedule-footer" id="schedule-footer"></p>
+			</div>
+
 			<div class="intro-text">
 				<p>Over 60 university radio stations across six continents stream online. This guide provides verified streaming URLs for easy listening. For more comprehensive lists, check out <a href="https://35000watts.com/college-radio-database/" style="color: #8ac4ff;">35000 Watts</a>, <a href="https://radio.garden" style="color: #8ac4ff;">Radio Garden</a>, or <a href="https://campus-fm.com" style="color: #8ac4ff;">Campus FM</a>.</p>
+			<p>All links go direct to browser streams — even the radio aggregator apps like TuneIn have enshittified, so streaming straight from the station's own page is the way to go.</p>
 			</div>
 
 			<div class="radio-section">
@@ -429,5 +480,143 @@
 			</div>
 
 		</div>
+	<script>
+		// -------------------------------------------------------
+		// Shows schedule — add your shows here.
+		// days: 0=Sun, 1=Mon, 2=Tue, 3=Wed, 4=Thu, 5=Fri, 6=Sat
+		// timezone: IANA timezone string
+		// -------------------------------------------------------
+		const shows = [
+			{
+				name: "Venus Radio",
+				station: "CKUT 90.3 — McGill, Montreal",
+				desc: "Feminist, queer, and gender non-conforming perspectives through music. On air since 1996.",
+				days: [4], // Thursday
+				startHour: 12, startMin: 0,
+				endHour: 14,   endMin: 0,
+				timezone: "America/Montreal",
+				streamUrl: "https://ckut.ca"
+			}
+		];
+
+		const DAY_SHORT = ['Sun','Mon','Tue','Wed','Thu','Fri','Sat'];
+		const DAY_LONG  = ['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'];
+
+		function getZoneTime(tz) {
+			const parts = new Intl.DateTimeFormat('en-US', {
+				timeZone: tz,
+				weekday: 'short',
+				hour:    '2-digit',
+				minute:  '2-digit',
+				hour12:  false
+			}).formatToParts(new Date());
+			const p = {};
+			parts.forEach(x => p[x.type] = x.value);
+			const dayMap = {Sun:0,Mon:1,Tue:2,Wed:3,Thu:4,Fri:5,Sat:6};
+			return {
+				day:    dayMap[p.weekday],
+				hour:   parseInt(p.hour) % 24,   // handle "24" edge case
+				minute: parseInt(p.minute)
+			};
+		}
+
+		function isLive(show) {
+			const t = getZoneTime(show.timezone);
+			if (!show.days.includes(t.day)) return false;
+			const now   = t.hour * 60 + t.minute;
+			const start = show.startHour * 60 + show.startMin;
+			const end   = show.endHour   * 60 + show.endMin;
+			return now >= start && now < end;
+		}
+
+		// Returns { minsUntil, nextDay, daysAhead } or null
+		function nextAiring(show) {
+			const t      = getZoneTime(show.timezone);
+			const nowMin = t.hour * 60 + t.minute;
+			const start  = show.startHour * 60 + show.startMin;
+
+			// Later today?
+			if (show.days.includes(t.day) && nowMin < start) {
+				return { minsUntil: start - nowMin, nextDay: t.day, daysAhead: 0 };
+			}
+			// Coming days
+			for (let i = 1; i <= 7; i++) {
+				const d = (t.day + i) % 7;
+				if (show.days.includes(d)) {
+					const minsUntil = (24 * 60 - nowMin) + (i - 1) * 24 * 60 + start;
+					return { minsUntil, nextDay: d, daysAhead: i };
+				}
+			}
+			return null;
+		}
+
+		function fmtDuration(mins) {
+			const h = Math.floor(mins / 60), m = mins % 60;
+			if (h === 0)  return `${m}m`;
+			if (m === 0)  return `${h}h`;
+			return `${h}h ${m}m`;
+		}
+
+		function fmtTime(h, m) {
+			return `${String(h).padStart(2,'0')}:${String(m).padStart(2,'0')}`;
+		}
+
+		function tzLabel(tz) {
+			// "America/Montreal" → "Montreal"
+			return tz.split('/').pop().replace(/_/g, ' ');
+		}
+
+		function renderShows() {
+			const list   = document.getElementById('shows-list');
+			const footer = document.getElementById('schedule-footer');
+			if (!list) return;
+
+			list.innerHTML = shows.map(show => {
+				const live = isLive(show);
+				let badgeClass, badgeText;
+
+				if (live) {
+					const t   = getZoneTime(show.timezone);
+					const end = show.endHour * 60 + show.endMin;
+					const rem = end - (t.hour * 60 + t.minute);
+					badgeClass = 'live';
+					badgeText  = `🔴 On Air`;
+				} else {
+					const next = nextAiring(show);
+					badgeClass = 'soon';
+					if (!next) {
+						badgeText = 'Schedule TBC';
+					} else if (next.daysAhead === 0) {
+						badgeText = `in ${fmtDuration(next.minsUntil)}`;
+					} else if (next.daysAhead === 1) {
+						badgeText = `Tomorrow`;
+					} else {
+						badgeText = DAY_LONG[next.nextDay];
+					}
+				}
+
+				const daysStr = show.days.map(d => DAY_SHORT[d]).join('/');
+				const timeStr = `${fmtTime(show.startHour, show.startMin)}–${fmtTime(show.endHour, show.endMin)}`;
+
+				return `<div class="show-card">
+					<div class="show-badge ${badgeClass}">${badgeText}</div>
+					<div class="show-info">
+						<div class="show-name">${show.name}</div>
+						<div class="show-meta">${show.station} &middot; ${daysStr} ${timeStr} ${tzLabel(show.timezone)} time</div>
+						${show.desc ? `<div class="show-meta" style="margin-top:0.3em;opacity:0.75">${show.desc}</div>` : ''}
+					</div>
+					<a href="${show.streamUrl}" class="stream-link" target="_blank">🎵 Listen</a>
+				</div>`;
+			}).join('');
+
+			if (footer) {
+				const now = new Date();
+				footer.textContent = `Updated ${now.toLocaleTimeString([], {hour:'2-digit', minute:'2-digit'})}`;
+			}
+		}
+
+		renderShows();
+		setInterval(renderShows, 60000); // refresh every minute
+	</script>
 	</body>
 </html>
