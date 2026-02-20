@@ -44,7 +44,7 @@ This is a static personal website for Gavia Gray, built using the HTML5 UP "Astr
 - CSS compilation would require a SASS processor
 
 ### Content Updates
-- **Microblog**: Add new posts directly to `microblog.html` following the existing pattern
+- **Microblog**: Use the `./post` script to add new posts. Run `python3 post "content"` from the repo root. Supports plain text and HTML in the content string, plus an optional `-i <image_path>` flag for images. It auto-increments the post ID and inserts at the top of microblog.html.
 - **Portfolio**: Update content in `index.html`
 - **Blog**: Update `blog.html` index and create individual post files
 
