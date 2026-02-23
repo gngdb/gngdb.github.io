@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>yarr feeds export</title>
+    <dateCreated>Mon, 23 Feb 2026 00:28:37 +0000</dateCreated>
+  </head>
+  <body>
+    <outline text="comics" title="comics">
+      <outline type="rss" text="Dinosaur Comics!" title="Dinosaur Comics!" xmlUrl="https://qwantz.com/rssfeed.php" htmlUrl="http://www.qwantz.com" description="A long-running webcomic by Ryan North featuring the same six-panel clip-art dinosaur illustrations in every strip, with T-Rex and friends delivering witty, philosophical, and science-minded dialogue." />
+    </outline>
+    <outline text="youtube" title="youtube">
+      <outline type="rss" text="Applied Science" title="Applied Science" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCivA7_KLKWo43tFcCkFvydw" htmlUrl="https://www.youtube.com/channel/UCivA7_KLKWo43tFcCkFvydw" description="Ben Krasnow's channel covering advanced DIY science and engineering projects, including electron microscopy, X-ray systems, aerogel synthesis, and other high-tech electromechanical and chemistry experiments." />
+      <outline type="rss" text="Camille Cooke" title="Camille Cooke" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC-oTbS-PARG-kASUBRoCIUQ" htmlUrl="https://www.youtube.com/channel/UC-oTbS-PARG-kASUBRoCIUQ" description="A Film &amp; Animation channel featuring experimental and creative short films." />
+      <outline type="rss" text="Extractions&amp;Ire" title="Extractions&amp;Ire" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCvFApMFo_AafXbHRyEJefjA" htmlUrl="https://www.youtube.com/channel/UCvFApMFo_AafXbHRyEJefjA" description="The second channel of the Explosions&amp;Fire creator, focused on detailed organic chemistry synthesis videos including projects like cubane synthesis, tetrazoles, and air-free chemistry techniques." />
+      <outline type="rss" text="KaiserBeamz" title="KaiserBeamz" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCcxN_gfAE_43Wj6-UWC16bw" htmlUrl="https://www.youtube.com/channel/UCcxN_gfAE_43Wj6-UWC16bw" description="A video essay channel devoted to in-depth analysis and history of classic anime, primarily from the 1980s and 1990s." />
+      <outline type="rss" text="Sheafification of G" title="Sheafification of G" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC6_J0wZdqcoRVs0Mck922SQ" htmlUrl="https://www.youtube.com/channel/UC6_J0wZdqcoRVs0Mck922SQ" description="A mathematics channel covering advanced and category-theoretic topics such as limits, sheaves, and other concepts from pure mathematics." />
+      <outline type="rss" text="hazel" title="hazel" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCjNErCQgCndSOl6t33m1-nQ" htmlUrl="https://www.youtube.com/channel/UCjNErCQgCndSOl6t33m1-nQ" description="A video essay channel exploring anime, manga, video games, and internet/fandom history, with a focus on niche and overlooked media from the 1990s and 2000s." />
+    </outline>
+  </body>
+</opml>

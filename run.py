@@ -15,7 +15,7 @@ from summarize import get_client, summarize
 from generate import generate_feed
 
 POSTS_PATH = "posts.json"
-MAX_NEW_POSTS_PER_RUN = 20  # Cost control
+MAX_NEW_POSTS_PER_RUN = 110  # Cost control
 
 
 def load_posts() -> list[dict]:
@@ -64,7 +64,7 @@ def main():
     new_posts = []
     for item in new_items:
         try:
-            text = summarize(item["title"], item["description"], client)
+            text = summarize(item["title"], item["description"], item.get("source_context", ""), client)
             new_posts.append({
                 "id": item["id"],
                 "text": text,
@@ -76,8 +76,9 @@ def main():
         except Exception as e:
             print(f"  Error summarizing {item['id']}: {e}")
 
-    # Prepend new posts (newest first) and save
+    # Merge and sort all posts newest-first by timestamp
     posts = new_posts + posts
+    posts.sort(key=lambda p: p["timestamp"], reverse=True)
     save_posts(posts)
     print(f"Saved {len(posts)} total posts")
 

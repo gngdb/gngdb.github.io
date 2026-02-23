@@ -12,36 +12,41 @@ def get_client() -> anthropic.Anthropic:
     return anthropic.Anthropic(api_key=api_key)
 
 
-def summarize(title: str, description: str, client: anthropic.Anthropic = None) -> str:
+def summarize(title: str, description: str, source_context: str = "", client: anthropic.Anthropic = None) -> str:
     """
-    Summarize an article to 140 characters or fewer.
+    Summarize a feed item to 140 characters or fewer.
 
     Args:
-        title: Article title
+        title: Article/video title
         description: Article description/summary
+        source_context: What this feed/channel is about
         client: Anthropic client (created if not provided)
 
     Returns:
         A punchy 140-char summary
     """
+    import re
+
     if client is None:
         client = get_client()
 
-    content = f"{title}. {description}".strip()
+    # Strip HTML tags
+    description = re.sub(r"<[^>]+>", "", description)
+    content = f"{title}. {description}".strip().rstrip(".")
 
-    # Strip HTML tags from content
-    import re
-    content = re.sub(r"<[^>]+>", "", content)
+    context_line = f"Background (do not repeat this in your summary): {source_context}\n\n" if source_context else ""
 
     message = client.messages.create(
         model="claude-haiku-4-5-20251001",
-        max_tokens=100,
+        max_tokens=40,
         messages=[{
             "role": "user",
             "content": (
-                "Summarize the following article in 140 characters or fewer. "
-                "Write one punchy, informative sentence. "
-                "Do not use hashtags. Return only the summary, nothing else.\n\n"
+                "Describe this specific item in around 15 tokens (a very short phrase). "
+                "The reader already knows the source — focus only on what makes this particular item distinct. "
+                "Do your best even if only a title is available. "
+                "Do not use hashtags. Return only the description, nothing else.\n\n"
+                f"{context_line}"
                 f"{content}"
             )
         }]
