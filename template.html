@@ -1,0 +1,153 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Feed | Gavia Gray</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+		<style>
+			.feed-container {
+				max-width: 600px;
+				margin: 1em auto;
+				padding: 1em;
+				background: rgba(255, 255, 255, 0.1);
+				border-radius: 8px;
+			}
+
+			@media (max-width: 768px) {
+				.feed-container {
+					margin: 0.5em;
+					padding: 0.8em;
+					border-radius: 4px;
+				}
+			}
+
+			.feed-header {
+				text-align: center;
+				margin-bottom: 1.5em;
+				border-bottom: 2px solid rgba(255, 255, 255, 0.2);
+				padding-bottom: 0.8em;
+			}
+
+			@media (max-width: 768px) {
+				.feed-header {
+					margin-bottom: 1em;
+					padding-bottom: 0.6em;
+				}
+			}
+
+			.feed-header h1 {
+				color: #fff;
+				margin-bottom: 0.5em;
+			}
+
+			.feed-header .back-link {
+				color: rgba(255, 255, 255, 0.7);
+				text-decoration: none;
+				font-size: 0.9em;
+			}
+
+			.feed-header .back-link:hover {
+				color: #fff;
+			}
+
+			.feed-post {
+				background: rgba(0, 0, 0, 0.3);
+				border: 1px solid rgba(255, 255, 255, 0.1);
+				border-radius: 8px;
+				padding: 1.2em;
+				margin-bottom: 1.2em;
+				color: #fff;
+			}
+
+			@media (max-width: 768px) {
+				.feed-post {
+					padding: 1em;
+					margin-bottom: 1em;
+					border-radius: 4px;
+				}
+			}
+
+			.feed-post:hover {
+				background: rgba(0, 0, 0, 0.4);
+				border-color: rgba(255, 255, 255, 0.2);
+			}
+
+			.post-header {
+				display: flex;
+				justify-content: space-between;
+				align-items: baseline;
+				margin-bottom: 0.8em;
+				flex-wrap: wrap;
+				gap: 0.5em;
+			}
+
+			.post-source {
+				font-weight: bold;
+				color: #fff;
+				font-size: 1em;
+			}
+
+			.post-timestamp {
+				font-size: 0.85em;
+				color: rgba(255, 255, 255, 0.5);
+			}
+
+			.post-content {
+				font-size: 1.1em;
+				line-height: 1.5;
+				margin-bottom: 0.8em;
+			}
+
+			.post-link {
+				font-size: 0.9em;
+			}
+
+			.post-link a {
+				color: rgba(255, 255, 255, 0.7);
+				text-decoration: none;
+			}
+
+			.post-link a:hover {
+				color: #fff;
+				text-decoration: underline;
+			}
+
+			.empty-feed {
+				text-align: center;
+				color: rgba(255, 255, 255, 0.5);
+				padding: 2em;
+			}
+		</style>
+	</head>
+	<body>
+		<div class="feed-container">
+			<div class="feed-header">
+				<h1>Feed</h1>
+				<a href="index.html" class="back-link">← Back to Home</a>
+			</div>
+
+			{% if posts %}
+			{% for post in posts %}
+			<div class="feed-post">
+				<div class="post-header">
+					<span class="post-source">{{ post.source }}</span>
+					<span class="post-timestamp">{{ post.timestamp[:10] }}</span>
+				</div>
+				<div class="post-content">
+					{{ post.text }}
+				</div>
+				<div class="post-link">
+					<a href="{{ post.url }}" target="_blank" rel="noopener">→ original</a>
+				</div>
+			</div>
+			{% endfor %}
+			{% else %}
+			<div class="empty-feed">
+				No posts yet. The feed will update automatically.
+			</div>
+			{% endif %}
+		</div>
+	</body>
+</html>
