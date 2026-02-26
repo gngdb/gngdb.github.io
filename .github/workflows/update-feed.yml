@@ -7,6 +7,7 @@ on:
 
 jobs:
   update:
+    if: false  # disabled until ANTHROPIC_API_KEY secret is added
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
