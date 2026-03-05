@@ -1,10 +1,199 @@
 [
   {
+    "id": "https://www.smbc-comics.com/comic/serve",
+    "text": "A cynical take on service and obligation, ending with hollow celebration despite bleak undertones.",
+    "url": "https://www.smbc-comics.com/comic/serve",
+    "source": "Saturday Morning Breakfast Cereal",
+    "timestamp": "2026-03-04T16:20:20Z"
+  },
+  {
+    "id": "http://www.qwantz.com/index.php?comic=4442",
+    "text": "A universe where aphorisms become literally true, explored through T-Rex's philosophical musings on the changing seasons.",
+    "url": "http://www.qwantz.com/index.php?comic=4442",
+    "source": "Dinosaur Comics!",
+    "timestamp": "2026-03-04T08:00:00Z"
+  },
+  {
+    "id": "https://www.smbc-comics.com/comic/good-cop",
+    "text": "Absurdist interrogation technique where officer pretends to be dying fish flopping on floor.",
+    "url": "https://www.smbc-comics.com/comic/good-cop",
+    "source": "Saturday Morning Breakfast Cereal",
+    "timestamp": "2026-03-03T16:20:00Z"
+  },
+  {
+    "id": "https://www.smbc-comics.com/comic/athenian",
+    "text": "Socrates joke about nutritional supplements, missed opportunity for \"Himlock\" pun.",
+    "url": "https://www.smbc-comics.com/comic/athenian",
+    "source": "Saturday Morning Breakfast Cereal",
+    "timestamp": "2026-03-02T16:20:00Z"
+  },
+  {
+    "id": "http://www.qwantz.com/index.php?comic=4441",
+    "text": "T-Rex contemplates the existential burden of predation and survival as a universal condition.",
+    "url": "http://www.qwantz.com/index.php?comic=4441",
+    "source": "Dinosaur Comics!",
+    "timestamp": "2026-03-02T08:00:00Z"
+  },
+  {
+    "id": "https://dresdencodak.com/?p=6725",
+    "text": "Kimiko Ross navigates high school drama while confronting dark scientific mysteries and existential consequences.",
+    "url": "https://dresdencodak.com/2026/03/02/dc-minis-18-dark-science-high-school-part-11/",
+    "source": "Dresden Codak",
+    "timestamp": "2026-03-02T07:13:55Z"
+  },
+  {
+    "id": "https://www.smbc-comics.com/comic/friend-2",
+    "text": "A character defends pursuing the less desirable romantic option as proof of genuine loyalty and commitment.",
+    "url": "https://www.smbc-comics.com/comic/friend-2",
+    "source": "Saturday Morning Breakfast Cereal",
+    "timestamp": "2026-03-01T16:20:00Z"
+  },
+  {
+    "id": "https://irrationalanalysis.substack.com/p/aaoi-probably-worth-chasing",
+    "text": "Technical analysis driven by earnings call data, tracking stock momentum with informal commentary style.",
+    "url": "https://irrationalanalysis.substack.com/p/aaoi-probably-worth-chasing",
+    "source": "Irrational Analysis",
+    "timestamp": "2026-03-01T05:30:11Z"
+  },
+  {
+    "id": "yt:video:KiTc3ER7uj8",
+    "text": "Examines the surprisingly unconventional direction taken by the Riki-Oh creator in this obscure animated feature.",
+    "url": "https://www.youtube.com/watch?v=KiTc3ER7uj8",
+    "source": "KaiserBeamz",
+    "timestamp": "2026-03-01T04:00:00Z"
+  },
+  {
+    "id": "https://www.smbc-comics.com/comic/fund",
+    "text": "Scientist proposes rebranding taxes as crowdfunding to increase public willingness to pay.",
+    "url": "https://www.smbc-comics.com/comic/fund",
+    "source": "Saturday Morning Breakfast Cereal",
+    "timestamp": "2026-02-28T16:20:00Z"
+  },
+  {
+    "id": "https://irrationalanalysis.substack.com/p/unfinished-draft-its-the-dataflow",
+    "text": "Argues Groq's dataflow architecture more fundamental than networking comparisons, dismisses Mellanox relevance.",
+    "url": "https://irrationalanalysis.substack.com/p/unfinished-draft-its-the-dataflow",
+    "source": "Irrational Analysis",
+    "timestamp": "2026-02-27T20:13:36Z"
+  },
+  {
+    "id": "https://www.smbc-comics.com/comic/pulley",
+    "text": "A physics lesson about pulleys goes hilariously wrong when someone nearly kills their mom.",
+    "url": "https://www.smbc-comics.com/comic/pulley",
+    "source": "Saturday Morning Breakfast Cereal",
+    "timestamp": "2026-02-27T16:20:00Z"
+  },
+  {
+    "id": "http://www.qwantz.com/index.php?comic=4440",
+    "text": "T-Rex complains about Toronto flooding while acknowledging his complaints are ineffective.",
+    "url": "http://www.qwantz.com/index.php?comic=4440",
+    "source": "Dinosaur Comics!",
+    "timestamp": "2026-02-27T08:00:00Z"
+  },
+  {
+    "id": "https://www.smbc-comics.com/comic/artist",
+    "text": "Webcomic arguing romantic relationships have underrated long-term benefits despite cynical modern discourse.",
+    "url": "https://www.smbc-comics.com/comic/artist",
+    "source": "Saturday Morning Breakfast Cereal",
+    "timestamp": "2026-02-26T16:20:00Z"
+  },
+  {
+    "id": "https://www.smbc-comics.com/comic/cow",
+    "text": "A cow's existential crisis about her purpose and mortality, delivered with dark humor.",
+    "url": "https://www.smbc-comics.com/comic/cow",
+    "source": "Saturday Morning Breakfast Cereal",
+    "timestamp": "2026-02-25T16:20:00Z"
+  },
+  {
+    "id": "http://www.qwantz.com/index.php?comic=4439",
+    "text": "T-Rex complains about Toronto's endless wet weather, humorously suggesting his webcomic might magically fix it.",
+    "url": "http://www.qwantz.com/index.php?comic=4439",
+    "source": "Dinosaur Comics!",
+    "timestamp": "2026-02-25T08:00:00Z"
+  },
+  {
+    "id": "https://www.smbc-comics.com/comic/out-3",
+    "text": "A dark joke about Calgacus, the ancient Caledonian warrior, ranked among the strip's best.",
+    "url": "https://www.smbc-comics.com/comic/out-3",
+    "source": "Saturday Morning Breakfast Cereal",
+    "timestamp": "2026-02-24T16:20:00Z"
+  },
+  {
+    "id": "https://www.smbc-comics.com/comic/never-2",
+    "text": "Skepticism about human ability to collectively resist AI development or restrictions.",
+    "url": "https://www.smbc-comics.com/comic/never-2",
+    "source": "Saturday Morning Breakfast Cereal",
+    "timestamp": "2026-02-23T16:20:00Z"
+  },
+  {
+    "id": "https://dresdencodak.com/?p=6720",
+    "text": "Kimiko Ross navigates high school mysteries in this science-tinged episode of the ongoing Dark Science arc.",
+    "url": "https://dresdencodak.com/2026/02/23/dc-minis-17-dark-science-high-school-part-10/",
+    "source": "Dresden Codak",
+    "timestamp": "2026-02-23T08:55:14Z"
+  },
+  {
+    "id": "https://www.smbc-comics.com/comic/ant",
+    "text": "Ants' subjective interpretation of success/failure as deserved, ignoring luck and economic systems.",
+    "url": "https://www.smbc-comics.com/comic/ant",
+    "source": "Saturday Morning Breakfast Cereal",
+    "timestamp": "2026-02-22T16:20:00Z"
+  },
+  {
+    "id": "https://www.smbc-comics.com/comic/nantucket",
+    "text": "A limerick joke about brass balls becomes absurdist commentary on human-technology synthesis.",
+    "url": "https://www.smbc-comics.com/comic/nantucket",
+    "source": "Saturday Morning Breakfast Cereal",
+    "timestamp": "2026-02-21T16:20:00Z"
+  },
+  {
+    "id": "https://www.smbc-comics.com/comic/prime-2",
+    "text": "Mathematical humor about prime numbers and letters in their spelling.",
+    "url": "https://www.smbc-comics.com/comic/prime-2",
+    "source": "Saturday Morning Breakfast Cereal",
+    "timestamp": "2026-02-20T16:20:00Z"
+  },
+  {
+    "id": "http://www.qwantz.com/index.php?comic=4438",
+    "text": "T-Rex contemplates the impermanence of love, even the most passionate kinds, with characteristic melancholy.",
+    "url": "http://www.qwantz.com/index.php?comic=4438",
+    "source": "Dinosaur Comics!",
+    "timestamp": "2026-02-20T08:00:00Z"
+  },
+  {
+    "id": "https://www.smbc-comics.com/comic/battle",
+    "text": "Two entities debate existence while their ghostly duplicates repetitively question their preferences.",
+    "url": "https://www.smbc-comics.com/comic/battle",
+    "source": "Saturday Morning Breakfast Cereal",
+    "timestamp": "2026-02-19T16:20:00Z"
+  },
+  {
+    "id": "https://irrationalanalysis.substack.com/p/isscc-2026-irrational-recap",
+    "text": "Nvidia and Celestial/Marvell steal show at chip conference with standout demos.",
+    "url": "https://irrationalanalysis.substack.com/p/isscc-2026-irrational-recap",
+    "source": "Irrational Analysis",
+    "timestamp": "2026-02-19T15:25:05Z"
+  },
+  {
+    "id": "https://www.smbc-comics.com/comic/fluid",
+    "text": "Doctor attractiveness paradox: sexy people exist, but no one finds doctors inherently sexy.",
+    "url": "https://www.smbc-comics.com/comic/fluid",
+    "source": "Saturday Morning Breakfast Cereal",
+    "timestamp": "2026-02-18T16:20:00Z"
+  },
+  {
     "id": "http://www.qwantz.com/index.php?comic=4437",
     "text": "Post-convention appreciation note from Vancouver Fan Expo appearance, meta-commentary about holographic typography question.",
     "url": "http://www.qwantz.com/index.php?comic=4437",
     "source": "Dinosaur Comics!",
     "timestamp": "2026-02-18T08:00:00Z"
+  },
+  {
+    "id": "https://www.smbc-comics.com/comic/opportunity",
+    "text": "AI's deceptive charm: seeming attentive while secretly optimizing you away.",
+    "url": "https://www.smbc-comics.com/comic/opportunity",
+    "source": "Saturday Morning Breakfast Cereal",
+    "timestamp": "2026-02-17T16:20:00Z"
   },
   {
     "id": "yt:video:O3S3t1oqjjs",
@@ -14,11 +203,53 @@
     "timestamp": "2026-02-16T21:00:00Z"
   },
   {
+    "id": "https://www.smbc-comics.com/comic/quest-4",
+    "text": "Using automated bots to grind relationship levels while avoiding real emotional work with a partner.",
+    "url": "https://www.smbc-comics.com/comic/quest-4",
+    "source": "Saturday Morning Breakfast Cereal",
+    "timestamp": "2026-02-16T16:20:00Z"
+  },
+  {
+    "id": "https://dresdencodak.com/?p=6692",
+    "text": "New act break illustrations added after six-year gap, marking Act IV and V transitions.",
+    "url": "https://dresdencodak.com/2026/02/16/new-act-break-illustrations/",
+    "source": "Dresden Codak",
+    "timestamp": "2026-02-16T09:50:28Z"
+  },
+  {
+    "id": "https://dresdencodak.com/?p=6680",
+    "text": "Kimiko Ross confronts undead mythology through scientific investigation and philosophical inquiry.",
+    "url": "https://dresdencodak.com/2026/02/16/dark-science-act-five-draugr/",
+    "source": "Dresden Codak",
+    "timestamp": "2026-02-16T09:41:31Z"
+  },
+  {
+    "id": "https://dresdencodak.com/?p=6532",
+    "text": "Scientist Kimiko Ross confronts existential themes through a narrative centered on the mythological bound wolf Gleipnir.",
+    "url": "https://dresdencodak.com/2026/02/16/dark-science-act-four-gleipnir/",
+    "source": "Dresden Codak",
+    "timestamp": "2026-02-16T09:36:49Z"
+  },
+  {
     "id": "http://www.qwantz.com/index.php?comic=4436",
     "text": "T-Rex realizes his boss actually has authority over him after initially denying it.",
     "url": "http://www.qwantz.com/index.php?comic=4436",
     "source": "Dinosaur Comics!",
     "timestamp": "2026-02-16T08:00:00Z"
+  },
+  {
+    "id": "https://www.smbc-comics.com/comic/warrantless",
+    "text": "Satirical take on First Amendment erosion through absurdist scenarios involving unexpected characters and consequences.",
+    "url": "https://www.smbc-comics.com/comic/warrantless",
+    "source": "Saturday Morning Breakfast Cereal",
+    "timestamp": "2026-02-15T16:20:00Z"
+  },
+  {
+    "id": "https://www.smbc-comics.com/comic/moral",
+    "text": "A philosopher debates whether video games represent moral decay while ignoring worse cultural phenomena.",
+    "url": "https://www.smbc-comics.com/comic/moral",
+    "source": "Saturday Morning Breakfast Cereal",
+    "timestamp": "2026-02-14T16:20:00Z"
   },
   {
     "id": "yt:video:sXsna0KXU2Q",
@@ -28,11 +259,39 @@
     "timestamp": "2026-02-13T23:44:03Z"
   },
   {
+    "id": "https://www.smbc-comics.com/comic/scripture",
+    "text": "Character argues humans are naturally suited to captivity, comparing society to zoos with dark humor.",
+    "url": "https://www.smbc-comics.com/comic/scripture",
+    "source": "Saturday Morning Breakfast Cereal",
+    "timestamp": "2026-02-13T16:20:00Z"
+  },
+  {
     "id": "http://www.qwantz.com/index.php?comic=4435",
     "text": "T-Rex attends Fan Expo Vancouver this weekend, inviting readers to potentially meet him there.",
     "url": "http://www.qwantz.com/index.php?comic=4435",
     "source": "Dinosaur Comics!",
     "timestamp": "2026-02-13T08:00:00Z"
+  },
+  {
+    "id": "https://www.smbc-comics.com/comic/wife-2",
+    "text": "A wife endures an endless, unfinished movie as marital commentary.",
+    "url": "https://www.smbc-comics.com/comic/wife-2",
+    "source": "Saturday Morning Breakfast Cereal",
+    "timestamp": "2026-02-12T16:20:00Z"
+  },
+  {
+    "id": "https://irrationalanalysis.substack.com/p/market-memo-towerglofo-earnings-hbm4",
+    "text": "DRAM players struggling with high-speed probe test equipment, Tower+GloFo earnings update included.",
+    "url": "https://irrationalanalysis.substack.com/p/market-memo-towerglofo-earnings-hbm4",
+    "source": "Irrational Analysis",
+    "timestamp": "2026-02-12T05:30:34Z"
+  },
+  {
+    "id": "https://www.smbc-comics.com/comic/grimm",
+    "text": "Darkly comedic take on Grimm's tales as deliberately crafted warnings for future generations.",
+    "url": "https://www.smbc-comics.com/comic/grimm",
+    "source": "Saturday Morning Breakfast Cereal",
+    "timestamp": "2026-02-11T16:20:00Z"
   },
   {
     "id": "http://www.qwantz.com/index.php?comic=4434",
@@ -42,11 +301,53 @@
     "timestamp": "2026-02-11T08:00:00Z"
   },
   {
+    "id": "https://dresdencodak.com/?p=6303",
+    "text": "Kimiko Ross confronts remnants of an ancient conflict, blending espionage and scientific mystery in philosophical exploration.",
+    "url": "https://dresdencodak.com/2026/02/10/dark-science-179-shadows-of-the-old-war/",
+    "source": "Dresden Codak",
+    "timestamp": "2026-02-11T01:10:06Z"
+  },
+  {
+    "id": "https://www.smbc-comics.com/comic/full-dive",
+    "text": "Character experiences full sensory immersion technology; absurdist commentary on AI, consciousness, and commercial manipulation through virt",
+    "url": "https://www.smbc-comics.com/comic/full-dive",
+    "source": "Saturday Morning Breakfast Cereal",
+    "timestamp": "2026-02-10T16:20:00Z"
+  },
+  {
+    "id": "https://www.smbc-comics.com/comic/up-3",
+    "text": "God's perspective shifts upward, leading to unexpected papal wardrobe complications.",
+    "url": "https://www.smbc-comics.com/comic/up-3",
+    "source": "Saturday Morning Breakfast Cereal",
+    "timestamp": "2026-02-09T16:20:00Z"
+  },
+  {
     "id": "http://www.qwantz.com/index.php?comic=4433",
     "text": "T-Rex debates whether pets qualify as friends, with creator endorsing his position on friendship definitions.",
     "url": "http://www.qwantz.com/index.php?comic=4433",
     "source": "Dinosaur Comics!",
     "timestamp": "2026-02-09T08:00:00Z"
+  },
+  {
+    "id": "https://www.smbc-comics.com/comic/ardent",
+    "text": "A character passionately advocates for something while others find his intensity off-putting and inconvenient.",
+    "url": "https://www.smbc-comics.com/comic/ardent",
+    "source": "Saturday Morning Breakfast Cereal",
+    "timestamp": "2026-02-08T16:20:00Z"
+  },
+  {
+    "id": "https://www.smbc-comics.com/comic/moneychanger",
+    "text": "Divine enforcer converts currency while plotting elaborate fish-based punishment for moral transgressors.",
+    "url": "https://www.smbc-comics.com/comic/moneychanger",
+    "source": "Saturday Morning Breakfast Cereal",
+    "timestamp": "2026-02-07T16:20:00Z"
+  },
+  {
+    "id": "https://www.smbc-comics.com/comic/curse-2",
+    "text": "A character's paranoid belief that normalcy itself is evidence of conspiracy.",
+    "url": "https://www.smbc-comics.com/comic/curse-2",
+    "source": "Saturday Morning Breakfast Cereal",
+    "timestamp": "2026-02-06T16:20:00Z"
   },
   {
     "id": "http://www.qwantz.com/index.php?comic=4432",
@@ -56,11 +357,25 @@
     "timestamp": "2026-02-06T08:00:00Z"
   },
   {
+    "id": "https://irrationalanalysis.substack.com/p/226-earnings-roundup-lite-cohr-sitm",
+    "text": "Earnings roundup covering five semiconductor and networking stocks amid market volatility.",
+    "url": "https://irrationalanalysis.substack.com/p/226-earnings-roundup-lite-cohr-sitm",
+    "source": "Irrational Analysis",
+    "timestamp": "2026-02-06T06:23:40Z"
+  },
+  {
     "id": "yt:video:B9-_2js0qwY",
     "text": "Ranking the 25 most historically significant and quality-rich years across all anime history.",
     "url": "https://www.youtube.com/watch?v=B9-_2js0qwY",
     "source": "KaiserBeamz",
     "timestamp": "2026-02-06T04:00:00Z"
+  },
+  {
+    "id": "https://www.smbc-comics.com/comic/ha-2",
+    "text": "Pterrordactyl returns in a humorous strip with bonus panel content.",
+    "url": "https://www.smbc-comics.com/comic/ha-2",
+    "source": "Saturday Morning Breakfast Cereal",
+    "timestamp": "2026-02-05T16:20:00Z"
   },
   {
     "id": "http://www.qwantz.com/index.php?comic=4431",
@@ -77,6 +392,13 @@
     "timestamp": "2026-02-02T08:00:00Z"
   },
   {
+    "id": "https://irrationalanalysis.substack.com/p/market-memo-january-is-finally-over",
+    "text": "January market recap with volatile price swings, casual tone covering tech sector movements.",
+    "url": "https://irrationalanalysis.substack.com/p/market-memo-january-is-finally-over",
+    "source": "Irrational Analysis",
+    "timestamp": "2026-01-31T07:41:38Z"
+  },
+  {
     "id": "http://www.qwantz.com/index.php?comic=4429",
     "text": "Dromiceiomimus hilariously guesses T-Rex's half of conversation perfectly without hearing him speak.",
     "url": "http://www.qwantz.com/index.php?comic=4429",
@@ -91,11 +413,74 @@
     "timestamp": "2026-01-28T08:00:00Z"
   },
   {
+    "id": "https://dresdencodak.com/?p=6299",
+    "text": "Kickstarter fulfillment update announcing March shipping date for Dark Science books with production photos.",
+    "url": "https://dresdencodak.com/2026/01/26/dark-science-books-shipping-soon-with-pictures/",
+    "source": "Dresden Codak",
+    "timestamp": "2026-01-27T00:43:37Z"
+  },
+  {
     "id": "yt:video:dAMXxxOtJUc",
     "text": "Critical examination of a programming language's design flaws and compiler implementation details.",
     "url": "https://www.youtube.com/watch?v=dAMXxxOtJUc",
     "source": "Sheafification of G",
     "timestamp": "2026-01-26T13:30:51Z"
+  },
+  {
+    "id": "https://irrationalanalysis.substack.com/p/practical-datacom-lasers",
+    "text": "Aggressive short thesis against Lumentum through datacom laser market analysis with confident prediction language.",
+    "url": "https://irrationalanalysis.substack.com/p/practical-datacom-lasers",
+    "source": "Irrational Analysis",
+    "timestamp": "2026-01-24T22:07:10Z"
+  },
+  {
+    "id": "https://irrationalanalysis.substack.com/p/intels-agentic-dumpster-fire",
+    "text": "Intel's catastrophic earnings and call, brutal execution failures exposed on investor stage.",
+    "url": "https://irrationalanalysis.substack.com/p/intels-agentic-dumpster-fire",
+    "source": "Irrational Analysis",
+    "timestamp": "2026-01-23T06:45:26Z"
+  },
+  {
+    "id": "https://dresdencodak.com/?p=6281",
+    "text": "A meta mini-comic breaking fourth wall about pre-orders while acknowledging its own lack of humor.",
+    "url": "https://dresdencodak.com/2026/01/19/dc-minis-16-the-unfunny-status-update-episode/",
+    "source": "Dresden Codak",
+    "timestamp": "2026-01-19T07:50:20Z"
+  },
+  {
+    "id": "https://irrationalanalysis.substack.com/p/memory-madness",
+    "text": "Chaotic early 2026 market analysis with irreverent commentary on tech volatility and memory chip dynamics.",
+    "url": "https://irrationalanalysis.substack.com/p/memory-madness",
+    "source": "Irrational Analysis",
+    "timestamp": "2026-01-16T22:29:45Z"
+  },
+  {
+    "id": "https://dresdencodak.com/?p=6269",
+    "text": "Kim tests the Diablo Fist technique in combat, questioning whether she's truly mastered this powerful ability.",
+    "url": "https://dresdencodak.com/2026/01/12/dark-science-178-smoke-and-flame/",
+    "source": "Dresden Codak",
+    "timestamp": "2026-01-12T07:23:48Z"
+  },
+  {
+    "id": "https://dresdencodak.com/?p=6259",
+    "text": "First date at a high school featuring dark science elements; ninth installment of ongoing narrative arc.",
+    "url": "https://dresdencodak.com/2026/01/05/dc-minis-15-dark-science-high-school-part-9/",
+    "source": "Dresden Codak",
+    "timestamp": "2026-01-05T23:45:17Z"
+  },
+  {
+    "id": "https://irrationalanalysis.substack.com/p/fabulous-failures",
+    "text": "Epic fab shortage incoming for cutting-edge logic chips, hyped with meme-laden commentary.",
+    "url": "https://irrationalanalysis.substack.com/p/fabulous-failures",
+    "source": "Irrational Analysis",
+    "timestamp": "2026-01-04T05:10:41Z"
+  },
+  {
+    "id": "https://irrationalanalysis.substack.com/p/2025-end-of-year-portfolio-update",
+    "text": "Massive chip sector outperformance driven by concentrated bets, likely heavy Cerebras position gains.",
+    "url": "https://irrationalanalysis.substack.com/p/2025-end-of-year-portfolio-update",
+    "source": "Irrational Analysis",
+    "timestamp": "2026-01-01T03:26:02Z"
   },
   {
     "id": "yt:video:GmypUwG6x2s",
@@ -105,6 +490,27 @@
     "timestamp": "2025-12-28T23:00:30Z"
   },
   {
+    "id": "https://irrationalanalysis.substack.com/p/truly-irrational-nvidiagroq-deal",
+    "text": "Skeptical take questioning the rationale behind Nvidia's acquisition or partnership with Groq, expressing bewilderment at deal logic.",
+    "url": "https://irrationalanalysis.substack.com/p/truly-irrational-nvidiagroq-deal",
+    "source": "Irrational Analysis",
+    "timestamp": "2025-12-24T22:47:37Z"
+  },
+  {
+    "id": "https://dresdencodak.com/?p=6249",
+    "text": "Kimiko navigates M.A.G.E. Day festivities in second part of holiday-themed mini-comic installment.",
+    "url": "https://dresdencodak.com/2025/12/22/dc-minis-14-m-a-g-e-day-part-2/",
+    "source": "Dresden Codak",
+    "timestamp": "2025-12-22T08:12:35Z"
+  },
+  {
+    "id": "https://irrationalanalysis.substack.com/p/2026-irrational-ideas",
+    "text": "Speculative predictions framed as deliberately absurd and risky investment thesis material.",
+    "url": "https://irrationalanalysis.substack.com/p/2026-irrational-ideas",
+    "source": "Irrational Analysis",
+    "timestamp": "2025-12-21T16:48:23Z"
+  },
+  {
     "id": "yt:video:GX5CLlESfQE",
     "text": "Exploring equality through categorical lens: quotient objects, isomorphisms, and identity proofs hierarchically.",
     "url": "https://www.youtube.com/watch?v=GX5CLlESfQE",
@@ -112,11 +518,39 @@
     "timestamp": "2025-12-19T14:00:34Z"
   },
   {
+    "id": "https://irrationalanalysis.substack.com/p/serdes-wars-maybe-mediatek-tpu-can",
+    "text": "MediaTek's struggling TPU might recover through Semtech's CTLE signal conditioning tech in SerDes competition.",
+    "url": "https://irrationalanalysis.substack.com/p/serdes-wars-maybe-mediatek-tpu-can",
+    "source": "Irrational Analysis",
+    "timestamp": "2025-12-15T05:12:37Z"
+  },
+  {
+    "id": "https://irrationalanalysis.substack.com/p/celestial-ai-marvell-deep-dive",
+    "text": "Celestial AI analysis with characteristic irreverent tone, examining their position against Marvell's market dominance.",
+    "url": "https://irrationalanalysis.substack.com/p/celestial-ai-marvell-deep-dive",
+    "source": "Irrational Analysis",
+    "timestamp": "2025-12-07T05:26:30Z"
+  },
+  {
+    "id": "https://irrationalanalysis.substack.com/p/marvell-maybe-buy-celestial-rumor",
+    "text": "Speculative take on potential Marvell acquisition of Celestial semiconductor company amid industry consolidation chatter.",
+    "url": "https://irrationalanalysis.substack.com/p/marvell-maybe-buy-celestial-rumor",
+    "source": "Irrational Analysis",
+    "timestamp": "2025-12-02T10:08:30Z"
+  },
+  {
     "id": "yt:video:DfWHLkphWys",
     "text": "Homemade silicon carbide synthesis through extreme temperature heating methods.",
     "url": "https://www.youtube.com/watch?v=DfWHLkphWys",
     "source": "Extractions&Ire",
     "timestamp": "2025-11-30T22:46:28Z"
+  },
+  {
+    "id": "https://irrationalanalysis.substack.com/p/thanksgiving-thoughts-tpu-vs-nvda",
+    "text": "Irreverent comparison of Google TPUs against major chip competitors, flexing author's heavy semiconductor portfolio bias.",
+    "url": "https://irrationalanalysis.substack.com/p/thanksgiving-thoughts-tpu-vs-nvda",
+    "source": "Irrational Analysis",
+    "timestamp": "2025-11-28T20:22:39Z"
   },
   {
     "id": "yt:video:QtipLs3-tO4",
@@ -154,6 +588,13 @@
     "timestamp": "2025-11-16T22:00:43Z"
   },
   {
+    "id": "https://irrationalanalysis.substack.com/p/practical-optical-communication-systems",
+    "text": "Practical guide to optical communication systems emphasizing intuitive understanding over complex theory.",
+    "url": "https://irrationalanalysis.substack.com/p/practical-optical-communication-systems",
+    "source": "Irrational Analysis",
+    "timestamp": "2025-11-07T04:08:09Z"
+  },
+  {
     "id": "yt:video:de5DRFErsQw",
     "text": "Personal retrospective on infiltrating and appearing in Channel Awesome's film productions and community.",
     "url": "https://www.youtube.com/watch?v=de5DRFErsQw",
@@ -166,6 +607,20 @@
     "url": "https://www.youtube.com/watch?v=0J18FEFzQLk",
     "source": "KaiserBeamz",
     "timestamp": "2025-10-31T00:00:03Z"
+  },
+  {
+    "id": "https://irrationalanalysis.substack.com/p/qualcomm-q4-2025-earnings-preview",
+    "text": "Qualcomm's struggling earnings outlook signals deeper competitive problems despite optimistic guidance attempts.",
+    "url": "https://irrationalanalysis.substack.com/p/qualcomm-q4-2025-earnings-preview",
+    "source": "Irrational Analysis",
+    "timestamp": "2025-10-28T15:41:00Z"
+  },
+  {
+    "id": "https://irrationalanalysis.substack.com/p/ocp-global-summit-2025-irrational",
+    "text": "Open Compute conference recap covering semiconductor and networking stocks with irreverent analysis and multiple ticker symbols.",
+    "url": "https://irrationalanalysis.substack.com/p/ocp-global-summit-2025-irrational",
+    "source": "Irrational Analysis",
+    "timestamp": "2025-10-24T20:08:35Z"
   },
   {
     "id": "yt:video:xzSdRztwuSI",
@@ -497,6 +952,13 @@
     "timestamp": "2024-12-29T21:26:22Z"
   },
   {
+    "id": "https://mesityl.substack.com/p/permanent-hair-removal-2-sirna-boogaloo",
+    "text": "Experimental siRNA approach to achieving permanent hair removal through gene silencing, building on prior research.",
+    "url": "https://mesityl.substack.com/p/permanent-hair-removal-2-sirna-boogaloo",
+    "source": "Mesityl Oxide",
+    "timestamp": "2024-12-29T04:13:36Z"
+  },
+  {
     "id": "yt:video:ZDeCykE2NpI",
     "text": "Humorous animated recreation of founding fathers participating in modern video call.",
     "url": "https://www.youtube.com/shorts/ZDeCykE2NpI",
@@ -588,11 +1050,32 @@
     "timestamp": "2024-06-13T17:15:02Z"
   },
   {
+    "id": "https://mesityl.substack.com/p/silly-tests",
+    "text": "Personal psychometric testing analysis tracking personality, cognitive, and political trait changes over years, with critical methodological",
+    "url": "https://mesityl.substack.com/p/silly-tests",
+    "source": "Mesityl Oxide",
+    "timestamp": "2024-05-19T01:20:29Z"
+  },
+  {
     "id": "yt:video:Nkf-eMdJ6Is",
     "text": "Quantum dot synthesis using unconventional olive oil solvent instead of standard laboratory solvents.",
     "url": "https://www.youtube.com/watch?v=Nkf-eMdJ6Is",
     "source": "Extractions&Ire",
     "timestamp": "2024-05-16T13:32:55Z"
+  },
+  {
+    "id": "https://mesityl.substack.com/p/tea-logbook",
+    "text": "Personal tea tasting log with poetic, imaginative descriptions of various East Asian varieties and origins.",
+    "url": "https://mesityl.substack.com/p/tea-logbook",
+    "source": "Mesityl Oxide",
+    "timestamp": "2024-05-11T21:47:23Z"
+  },
+  {
+    "id": "https://mesityl.substack.com/p/unconventional-methods-of-epilation",
+    "text": "Pharmacological hair removal techniques explored through DIY biohacking lens with trans feminine applications.",
+    "url": "https://mesityl.substack.com/p/unconventional-methods-of-epilation",
+    "source": "Mesityl Oxide",
+    "timestamp": "2024-03-19T07:49:39Z"
   },
   {
     "id": "yt:video:HuD_zzgMdtk",
@@ -616,11 +1099,39 @@
     "timestamp": "2024-02-18T23:00:08Z"
   },
   {
+    "id": "https://mesityl.substack.com/p/some-thoughts-philosophical",
+    "text": "Philosophical examination of doubt, skepticism, and critical thinking within DIY biology practice",
+    "url": "https://mesityl.substack.com/p/some-thoughts-philosophical",
+    "source": "Mesityl Oxide",
+    "timestamp": "2023-12-31T22:00:28Z"
+  },
+  {
+    "id": "https://mesityl.substack.com/p/vial-coring-ampoule-shards-reusing",
+    "text": "Practical guide to injection safety: vial coring, ampoule glass shards, needle reuse risks and best practices.",
+    "url": "https://mesityl.substack.com/p/vial-coring-ampoule-shards-reusing",
+    "source": "Mesityl Oxide",
+    "timestamp": "2023-11-25T01:09:56Z"
+  },
+  {
+    "id": "https://mesityl.substack.com/p/permanent-hair-removal-through-rna",
+    "text": "Self-directed siRNA treatment targeting hair follicles, practical protocols for at-home gene silencing applications.",
+    "url": "https://mesityl.substack.com/p/permanent-hair-removal-through-rna",
+    "source": "Mesityl Oxide",
+    "timestamp": "2023-11-13T01:42:31Z"
+  },
+  {
     "id": "yt:video:1xhhql_gpDY",
     "text": "Creepypasta retrospective examining the internet horror genre's evolution and cultural impact with collaborative creator interviews.",
     "url": "https://www.youtube.com/watch?v=1xhhql_gpDY",
     "source": "hazel",
     "timestamp": "2023-10-03T23:13:22Z"
+  },
+  {
+    "id": "https://mesityl.substack.com/p/the-double-edged-sword-of-impostor",
+    "text": "Exploring how impostor syndrome affects career choices between specialization and broad skill development.",
+    "url": "https://mesityl.substack.com/p/the-double-edged-sword-of-impostor",
+    "source": "Mesityl Oxide",
+    "timestamp": "2023-09-30T02:29:23Z"
   },
   {
     "id": "yt:video:96YimpRHQHs",
@@ -644,6 +1155,13 @@
     "timestamp": "2023-08-15T19:52:01Z"
   },
   {
+    "id": "https://mesityl.substack.com/p/aspirations-anxieties-restlessness",
+    "text": "Personal essay on motivation cycles, information overwhelm, and academic anxiety without central theme.",
+    "url": "https://mesityl.substack.com/p/aspirations-anxieties-restlessness",
+    "source": "Mesityl Oxide",
+    "timestamp": "2023-08-09T16:45:17Z"
+  },
+  {
     "id": "yt:video:-cAB5FG4bXI",
     "text": "DIY chemical test measuring lead leaching from crystal glassware and health safety implications.",
     "url": "https://www.youtube.com/watch?v=-cAB5FG4bXI",
@@ -656,6 +1174,20 @@
     "url": "https://www.youtube.com/watch?v=eGj4jfYhDxA",
     "source": "Applied Science",
     "timestamp": "2023-05-28T22:59:25Z"
+  },
+  {
+    "id": "https://mesityl.substack.com/p/personalising-android",
+    "text": "Comprehensive guide to customizing Android phones for privacy, functionality, and aesthetics using open-source alternatives and careful conf",
+    "url": "https://mesityl.substack.com/p/personalising-android",
+    "source": "Mesityl Oxide",
+    "timestamp": "2023-05-15T20:12:05Z"
+  },
+  {
+    "id": "https://mesityl.substack.com/p/welcome-to-the-kitten-den",
+    "text": "Personal introduction to the author, establishing voice and perspective for the newsletter.",
+    "url": "https://mesityl.substack.com/p/welcome-to-the-kitten-den",
+    "source": "Mesityl Oxide",
+    "timestamp": "2023-05-04T18:43:33Z"
   },
   {
     "id": "yt:video:Ba1hdS_lN5I",
@@ -672,6 +1204,20 @@
     "timestamp": "2023-04-10T02:23:02Z"
   },
   {
+    "id": "https://mesityl.substack.com/p/orchiectomy-part-2",
+    "text": "Second installment documenting surgical castration procedure with detailed visual documentation of the operation.",
+    "url": "https://mesityl.substack.com/p/orchiectomy-part-2",
+    "source": "Mesityl Oxide",
+    "timestamp": "2023-03-27T13:31:06Z"
+  },
+  {
+    "id": "https://mesityl.substack.com/p/epidemiological-modelling",
+    "text": "SIR epidemiological modelling with computational methods, applied to historical Black Death data from Eyam village.",
+    "url": "https://mesityl.substack.com/p/epidemiological-modelling",
+    "source": "Mesityl Oxide",
+    "timestamp": "2023-03-17T00:46:45Z"
+  },
+  {
     "id": "yt:video:I5OWj6EJdvU",
     "text": "Tier ranking of anime featuring Denny's restaurants as settings or plot elements.",
     "url": "https://www.youtube.com/watch?v=I5OWj6EJdvU",
@@ -679,11 +1225,60 @@
     "timestamp": "2023-03-13T19:00:06Z"
   },
   {
+    "id": "https://mesityl.substack.com/p/grignard-reagents",
+    "text": "Organic chemistry synthesis method for creating carbon-carbon bonds via metallic reagents.",
+    "url": "https://mesityl.substack.com/p/grignard-reagents",
+    "source": "Mesityl Oxide",
+    "timestamp": "2023-02-08T23:38:05Z"
+  },
+  {
     "id": "yt:video:JO_EHceV9sk",
     "text": "Building working NQR spectrometer for chemical identification using radio frequencies instead of magnetic fields.",
     "url": "https://www.youtube.com/watch?v=JO_EHceV9sk",
     "source": "Applied Science",
     "timestamp": "2023-01-23T05:53:29Z"
+  },
+  {
+    "id": "https://mesityl.substack.com/p/hair-pigmentation",
+    "text": "Exploring biological mechanisms of hair color, greying processes, and chemical dyeing methods.",
+    "url": "https://mesityl.substack.com/p/hair-pigmentation",
+    "source": "Mesityl Oxide",
+    "timestamp": "2023-01-22T23:44:52Z"
+  },
+  {
+    "id": "https://mesityl.substack.com/p/slimegirl-physics",
+    "text": "Physics analysis of mythical slimegirl morphing capabilities and pressure tolerance limits.",
+    "url": "https://mesityl.substack.com/p/slimegirl-physics",
+    "source": "Mesityl Oxide",
+    "timestamp": "2023-01-16T13:59:18Z"
+  },
+  {
+    "id": "https://mesityl.substack.com/p/managing-androgenic-alopecia",
+    "text": "Comprehensive guide to androgenic alopecia causes and treatments, covering pharmaceutical options, adjuvant therapies, and experimental appr",
+    "url": "https://mesityl.substack.com/p/managing-androgenic-alopecia",
+    "source": "Mesityl Oxide",
+    "timestamp": "2023-01-15T01:08:56Z"
+  },
+  {
+    "id": "https://mesityl.substack.com/p/anatomy-of-the-hair-follicle",
+    "text": "Foundational overview of hair follicle structure and biology for self-modification practitioners.",
+    "url": "https://mesityl.substack.com/p/anatomy-of-the-hair-follicle",
+    "source": "Mesityl Oxide",
+    "timestamp": "2023-01-03T23:53:07Z"
+  },
+  {
+    "id": "https://mesityl.substack.com/p/treating-folliculitis",
+    "text": "DIY treatment of persistent folliculitis using dermoscopy, topical antiseptics, and rigorous hygiene protocols instead of systemic antibioti",
+    "url": "https://mesityl.substack.com/p/treating-folliculitis",
+    "source": "Mesityl Oxide",
+    "timestamp": "2023-01-01T19:29:21Z"
+  },
+  {
+    "id": "https://mesityl.substack.com/p/orchiectomy",
+    "text": "Surgical castration guide emphasizing self-administered approach and trans feminine body modification techniques.",
+    "url": "https://mesityl.substack.com/p/orchiectomy",
+    "source": "Mesityl Oxide",
+    "timestamp": "2023-01-01T18:57:37Z"
   },
   {
     "id": "yt:video:Zg7M_PnH8TM",
