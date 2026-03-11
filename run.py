@@ -34,11 +34,16 @@ def save_posts(posts: list[dict]) -> None:
 def main():
     # Load existing posts and build set of known IDs
     posts = load_posts()
+
+    # Drop posts from feeds no longer in feeds.opml
+    feed_urls = load_feed_urls()
+    active_feed_urls = {f["url"] for f in feed_urls}
+    posts = [p for p in posts if p.get("feed_url") in active_feed_urls]
+
     known_ids = {p["id"] for p in posts}
     print(f"Loaded {len(posts)} existing posts")
 
     # Fetch all feed items
-    feed_urls = load_feed_urls()
     print(f"Fetching {len(feed_urls)} feeds...")
     items = fetch_feeds(feed_urls)
     print(f"Found {len(items)} total items")
@@ -70,6 +75,7 @@ def main():
                 "text": text,
                 "url": item["url"],
                 "source": item["source"],
+                "feed_url": item["feed_url"],
                 "timestamp": item["timestamp"],
             })
             print(f"  [{item['source']}] {text[:50]}...")

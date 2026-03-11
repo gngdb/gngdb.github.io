@@ -95,6 +95,7 @@ def fetch_feeds(feed_urls: list[dict]) -> list[dict]:
                     "id": item_id,
                     "source": source_name,
                     "source_context": source_context,
+                    "feed_url": url,
                     "title": entry.get("title", ""),
                     "description": entry.get("summary", entry.get("description", "")),
                     "url": entry.get("link", ""),

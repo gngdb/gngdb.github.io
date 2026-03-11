@@ -1,1297 +1,2090 @@
 [
   {
-    "id": "https://www.smbc-comics.com/comic/serve",
-    "text": "A cynical take on service and obligation, ending with hollow celebration despite bleak undertones.",
-    "url": "https://www.smbc-comics.com/comic/serve",
-    "source": "Saturday Morning Breakfast Cereal",
-    "timestamp": "2026-03-04T16:20:20Z"
+    "id": "https://tomasbjartur.substack.com/p/ebook",
+    "text": "Melancholic speculative fiction collection formatted for e-reader distribution.",
+    "url": "https://tomasbjartur.substack.com/p/ebook",
+    "source": "Tom\u00e1s Bjartur",
+    "feed_url": "https://tomasbjartur.substack.com/feed",
+    "timestamp": "2026-03-10T15:04:24Z"
   },
   {
-    "id": "http://www.qwantz.com/index.php?comic=4442",
-    "text": "A universe where aphorisms become literally true, explored through T-Rex's philosophical musings on the changing seasons.",
-    "url": "http://www.qwantz.com/index.php?comic=4442",
-    "source": "Dinosaur Comics!",
-    "timestamp": "2026-03-04T08:00:00Z"
+    "id": "https://dresdencodak.com/?p=6742",
+    "text": "Kimiko navigates high school while grappling with dark scientific mysteries and existential challenges.",
+    "url": "https://dresdencodak.com/2026/03/08/dc-minis-19-dark-science-high-school-part-12/",
+    "source": "Dresden Codak",
+    "feed_url": "https://dresdencodak.com/feed/",
+    "timestamp": "2026-03-09T06:30:20Z"
   },
   {
-    "id": "https://www.smbc-comics.com/comic/good-cop",
-    "text": "Absurdist interrogation technique where officer pretends to be dying fish flopping on floor.",
-    "url": "https://www.smbc-comics.com/comic/good-cop",
-    "source": "Saturday Morning Breakfast Cereal",
-    "timestamp": "2026-03-03T16:20:00Z"
+    "id": "yt:video:p8gkwB3DWzk",
+    "text": "Stylized low poly character animation set to original upbeat indie track with artist merchandise promotion.",
+    "url": "https://www.youtube.com/watch?v=p8gkwB3DWzk",
+    "source": "MallBat",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9OFDumeHCcZfzUKZW8F7gw",
+    "timestamp": "2026-03-08T22:05:21Z"
   },
   {
-    "id": "https://www.smbc-comics.com/comic/athenian",
-    "text": "Socrates joke about nutritional supplements, missed opportunity for \"Himlock\" pun.",
-    "url": "https://www.smbc-comics.com/comic/athenian",
-    "source": "Saturday Morning Breakfast Cereal",
-    "timestamp": "2026-03-02T16:20:00Z"
+    "id": "https://irrationalanalysis.substack.com/p/marvell-352026-earnings-hilarious",
+    "text": "CEO's bold guidance sparks investor frenzy amid chip market volatility and potential short-seller chaos.",
+    "url": "https://irrationalanalysis.substack.com/p/marvell-352026-earnings-hilarious",
+    "source": "Irrational Analysis",
+    "timestamp": "2026-03-06T23:18:49Z",
+    "feed_url": "https://irrationalanalysis.substack.com/feed"
   },
   {
-    "id": "http://www.qwantz.com/index.php?comic=4441",
-    "text": "T-Rex contemplates the existential burden of predation and survival as a universal condition.",
-    "url": "http://www.qwantz.com/index.php?comic=4441",
-    "source": "Dinosaur Comics!",
-    "timestamp": "2026-03-02T08:00:00Z"
+    "id": "yt:video:9SjU_H235DE",
+    "text": "Car ignition coils powering circuit board with striking luminescent effects",
+    "url": "https://www.youtube.com/shorts/9SjU_H235DE",
+    "source": "styropyro",
+    "timestamp": "2026-03-06T01:17:14Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJYJgj7rzsn0vdR7fkgjuIA"
+  },
+  {
+    "id": "https://irrationalanalysis.substack.com/p/march-morgan-stanley-tmt-madness",
+    "text": "Bro-style bracket analysis of tech contacts' March Madness picks and investment takes.",
+    "url": "https://irrationalanalysis.substack.com/p/march-morgan-stanley-tmt-madness",
+    "source": "Irrational Analysis",
+    "timestamp": "2026-03-05T21:45:55Z",
+    "feed_url": "https://irrationalanalysis.substack.com/feed"
+  },
+  {
+    "id": "https://tomasbjartur.substack.com/p/the-elect",
+    "text": "Dystopian narrative contrasting ordinary imprisonment with extraordinary simulated experiences, exploring technological transcendence and ex",
+    "url": "https://tomasbjartur.substack.com/p/the-elect",
+    "source": "Tom\u00e1s Bjartur",
+    "timestamp": "2026-03-05T16:11:38Z",
+    "feed_url": "https://tomasbjartur.substack.com/feed"
   },
   {
     "id": "https://dresdencodak.com/?p=6725",
     "text": "Kimiko Ross navigates high school drama while confronting dark scientific mysteries and existential consequences.",
     "url": "https://dresdencodak.com/2026/03/02/dc-minis-18-dark-science-high-school-part-11/",
     "source": "Dresden Codak",
-    "timestamp": "2026-03-02T07:13:55Z"
+    "timestamp": "2026-03-02T07:13:55Z",
+    "feed_url": "https://dresdencodak.com/feed/"
   },
   {
-    "id": "https://www.smbc-comics.com/comic/friend-2",
-    "text": "A character defends pursuing the less desirable romantic option as proof of genuine loyalty and commitment.",
-    "url": "https://www.smbc-comics.com/comic/friend-2",
-    "source": "Saturday Morning Breakfast Cereal",
-    "timestamp": "2026-03-01T16:20:00Z"
+    "id": "yt:video:XYbwwshAX-U",
+    "text": "Zinc batteries ignited and compared against a deliberately dangerous circuit design.",
+    "url": "https://www.youtube.com/shorts/XYbwwshAX-U",
+    "source": "styropyro",
+    "timestamp": "2026-03-01T15:48:02Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJYJgj7rzsn0vdR7fkgjuIA"
   },
   {
     "id": "https://irrationalanalysis.substack.com/p/aaoi-probably-worth-chasing",
     "text": "Technical analysis driven by earnings call data, tracking stock momentum with informal commentary style.",
     "url": "https://irrationalanalysis.substack.com/p/aaoi-probably-worth-chasing",
     "source": "Irrational Analysis",
-    "timestamp": "2026-03-01T05:30:11Z"
+    "timestamp": "2026-03-01T05:30:11Z",
+    "feed_url": "https://irrationalanalysis.substack.com/feed"
   },
   {
     "id": "yt:video:KiTc3ER7uj8",
     "text": "Examines the surprisingly unconventional direction taken by the Riki-Oh creator in this obscure animated feature.",
     "url": "https://www.youtube.com/watch?v=KiTc3ER7uj8",
     "source": "KaiserBeamz",
-    "timestamp": "2026-03-01T04:00:00Z"
-  },
-  {
-    "id": "https://www.smbc-comics.com/comic/fund",
-    "text": "Scientist proposes rebranding taxes as crowdfunding to increase public willingness to pay.",
-    "url": "https://www.smbc-comics.com/comic/fund",
-    "source": "Saturday Morning Breakfast Cereal",
-    "timestamp": "2026-02-28T16:20:00Z"
+    "timestamp": "2026-03-01T04:00:00Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcxN_gfAE_43Wj6-UWC16bw"
   },
   {
     "id": "https://irrationalanalysis.substack.com/p/unfinished-draft-its-the-dataflow",
     "text": "Argues Groq's dataflow architecture more fundamental than networking comparisons, dismisses Mellanox relevance.",
     "url": "https://irrationalanalysis.substack.com/p/unfinished-draft-its-the-dataflow",
     "source": "Irrational Analysis",
-    "timestamp": "2026-02-27T20:13:36Z"
+    "timestamp": "2026-02-27T20:13:36Z",
+    "feed_url": "https://irrationalanalysis.substack.com/feed"
   },
   {
-    "id": "https://www.smbc-comics.com/comic/pulley",
-    "text": "A physics lesson about pulleys goes hilariously wrong when someone nearly kills their mom.",
-    "url": "https://www.smbc-comics.com/comic/pulley",
-    "source": "Saturday Morning Breakfast Cereal",
-    "timestamp": "2026-02-27T16:20:00Z"
-  },
-  {
-    "id": "http://www.qwantz.com/index.php?comic=4440",
-    "text": "T-Rex complains about Toronto flooding while acknowledging his complaints are ineffective.",
-    "url": "http://www.qwantz.com/index.php?comic=4440",
-    "source": "Dinosaur Comics!",
-    "timestamp": "2026-02-27T08:00:00Z"
-  },
-  {
-    "id": "https://www.smbc-comics.com/comic/artist",
-    "text": "Webcomic arguing romantic relationships have underrated long-term benefits despite cynical modern discourse.",
-    "url": "https://www.smbc-comics.com/comic/artist",
-    "source": "Saturday Morning Breakfast Cereal",
-    "timestamp": "2026-02-26T16:20:00Z"
-  },
-  {
-    "id": "https://www.smbc-comics.com/comic/cow",
-    "text": "A cow's existential crisis about her purpose and mortality, delivered with dark humor.",
-    "url": "https://www.smbc-comics.com/comic/cow",
-    "source": "Saturday Morning Breakfast Cereal",
-    "timestamp": "2026-02-25T16:20:00Z"
-  },
-  {
-    "id": "http://www.qwantz.com/index.php?comic=4439",
-    "text": "T-Rex complains about Toronto's endless wet weather, humorously suggesting his webcomic might magically fix it.",
-    "url": "http://www.qwantz.com/index.php?comic=4439",
-    "source": "Dinosaur Comics!",
-    "timestamp": "2026-02-25T08:00:00Z"
-  },
-  {
-    "id": "https://www.smbc-comics.com/comic/out-3",
-    "text": "A dark joke about Calgacus, the ancient Caledonian warrior, ranked among the strip's best.",
-    "url": "https://www.smbc-comics.com/comic/out-3",
-    "source": "Saturday Morning Breakfast Cereal",
-    "timestamp": "2026-02-24T16:20:00Z"
-  },
-  {
-    "id": "https://www.smbc-comics.com/comic/never-2",
-    "text": "Skepticism about human ability to collectively resist AI development or restrictions.",
-    "url": "https://www.smbc-comics.com/comic/never-2",
-    "source": "Saturday Morning Breakfast Cereal",
-    "timestamp": "2026-02-23T16:20:00Z"
+    "id": "yt:video:98qiQJ8maCU",
+    "text": "Attempt at producing 1.5 kilograms of highly reactive cesium metal through experimental synthesis.",
+    "url": "https://www.youtube.com/watch?v=98qiQJ8maCU",
+    "source": "Advanced Tinkering",
+    "timestamp": "2026-02-27T13:00:16Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2M2T4FSz1kSqNhhL-n9R9A"
   },
   {
     "id": "https://dresdencodak.com/?p=6720",
     "text": "Kimiko Ross navigates high school mysteries in this science-tinged episode of the ongoing Dark Science arc.",
     "url": "https://dresdencodak.com/2026/02/23/dc-minis-17-dark-science-high-school-part-10/",
     "source": "Dresden Codak",
-    "timestamp": "2026-02-23T08:55:14Z"
+    "timestamp": "2026-02-23T08:55:14Z",
+    "feed_url": "https://dresdencodak.com/feed/"
   },
   {
-    "id": "https://www.smbc-comics.com/comic/ant",
-    "text": "Ants' subjective interpretation of success/failure as deserved, ignoring luck and economic systems.",
-    "url": "https://www.smbc-comics.com/comic/ant",
-    "source": "Saturday Morning Breakfast Cereal",
-    "timestamp": "2026-02-22T16:20:00Z"
+    "id": "yt:video:OC7sNfNuTNU",
+    "text": "Massive series battery bank experiment with 400 car batteries connected in parallel or series configuration.",
+    "url": "https://www.youtube.com/watch?v=OC7sNfNuTNU",
+    "source": "styropyro",
+    "timestamp": "2026-02-21T19:26:17Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJYJgj7rzsn0vdR7fkgjuIA"
   },
   {
-    "id": "https://www.smbc-comics.com/comic/nantucket",
-    "text": "A limerick joke about brass balls becomes absurdist commentary on human-technology synthesis.",
-    "url": "https://www.smbc-comics.com/comic/nantucket",
-    "source": "Saturday Morning Breakfast Cereal",
-    "timestamp": "2026-02-21T16:20:00Z"
-  },
-  {
-    "id": "https://www.smbc-comics.com/comic/prime-2",
-    "text": "Mathematical humor about prime numbers and letters in their spelling.",
-    "url": "https://www.smbc-comics.com/comic/prime-2",
-    "source": "Saturday Morning Breakfast Cereal",
-    "timestamp": "2026-02-20T16:20:00Z"
-  },
-  {
-    "id": "http://www.qwantz.com/index.php?comic=4438",
-    "text": "T-Rex contemplates the impermanence of love, even the most passionate kinds, with characteristic melancholy.",
-    "url": "http://www.qwantz.com/index.php?comic=4438",
-    "source": "Dinosaur Comics!",
-    "timestamp": "2026-02-20T08:00:00Z"
-  },
-  {
-    "id": "https://www.smbc-comics.com/comic/battle",
-    "text": "Two entities debate existence while their ghostly duplicates repetitively question their preferences.",
-    "url": "https://www.smbc-comics.com/comic/battle",
-    "source": "Saturday Morning Breakfast Cereal",
-    "timestamp": "2026-02-19T16:20:00Z"
+    "id": "yt:video:sTwaeMXXwcE",
+    "text": "Comparing lightning strike voltage against extreme 40,000 amp current discharge comparison experiment.",
+    "url": "https://www.youtube.com/shorts/sTwaeMXXwcE",
+    "source": "styropyro",
+    "timestamp": "2026-02-20T19:36:37Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJYJgj7rzsn0vdR7fkgjuIA"
   },
   {
     "id": "https://irrationalanalysis.substack.com/p/isscc-2026-irrational-recap",
     "text": "Nvidia and Celestial/Marvell steal show at chip conference with standout demos.",
     "url": "https://irrationalanalysis.substack.com/p/isscc-2026-irrational-recap",
     "source": "Irrational Analysis",
-    "timestamp": "2026-02-19T15:25:05Z"
-  },
-  {
-    "id": "https://www.smbc-comics.com/comic/fluid",
-    "text": "Doctor attractiveness paradox: sexy people exist, but no one finds doctors inherently sexy.",
-    "url": "https://www.smbc-comics.com/comic/fluid",
-    "source": "Saturday Morning Breakfast Cereal",
-    "timestamp": "2026-02-18T16:20:00Z"
-  },
-  {
-    "id": "http://www.qwantz.com/index.php?comic=4437",
-    "text": "Post-convention appreciation note from Vancouver Fan Expo appearance, meta-commentary about holographic typography question.",
-    "url": "http://www.qwantz.com/index.php?comic=4437",
-    "source": "Dinosaur Comics!",
-    "timestamp": "2026-02-18T08:00:00Z"
-  },
-  {
-    "id": "https://www.smbc-comics.com/comic/opportunity",
-    "text": "AI's deceptive charm: seeming attentive while secretly optimizing you away.",
-    "url": "https://www.smbc-comics.com/comic/opportunity",
-    "source": "Saturday Morning Breakfast Cereal",
-    "timestamp": "2026-02-17T16:20:00Z"
+    "timestamp": "2026-02-19T15:25:05Z",
+    "feed_url": "https://irrationalanalysis.substack.com/feed"
   },
   {
     "id": "yt:video:O3S3t1oqjjs",
     "text": "Gall Force trilogy's Sony-demanded sequel retcons ending, transforms space opera into post-apocalypse with recycled cast.",
     "url": "https://www.youtube.com/watch?v=O3S3t1oqjjs",
     "source": "KaiserBeamz",
-    "timestamp": "2026-02-16T21:00:00Z"
-  },
-  {
-    "id": "https://www.smbc-comics.com/comic/quest-4",
-    "text": "Using automated bots to grind relationship levels while avoiding real emotional work with a partner.",
-    "url": "https://www.smbc-comics.com/comic/quest-4",
-    "source": "Saturday Morning Breakfast Cereal",
-    "timestamp": "2026-02-16T16:20:00Z"
+    "timestamp": "2026-02-16T21:00:00Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcxN_gfAE_43Wj6-UWC16bw"
   },
   {
     "id": "https://dresdencodak.com/?p=6692",
     "text": "New act break illustrations added after six-year gap, marking Act IV and V transitions.",
     "url": "https://dresdencodak.com/2026/02/16/new-act-break-illustrations/",
     "source": "Dresden Codak",
-    "timestamp": "2026-02-16T09:50:28Z"
+    "timestamp": "2026-02-16T09:50:28Z",
+    "feed_url": "https://dresdencodak.com/feed/"
   },
   {
     "id": "https://dresdencodak.com/?p=6680",
     "text": "Kimiko Ross confronts undead mythology through scientific investigation and philosophical inquiry.",
     "url": "https://dresdencodak.com/2026/02/16/dark-science-act-five-draugr/",
     "source": "Dresden Codak",
-    "timestamp": "2026-02-16T09:41:31Z"
+    "timestamp": "2026-02-16T09:41:31Z",
+    "feed_url": "https://dresdencodak.com/feed/"
   },
   {
     "id": "https://dresdencodak.com/?p=6532",
     "text": "Scientist Kimiko Ross confronts existential themes through a narrative centered on the mythological bound wolf Gleipnir.",
     "url": "https://dresdencodak.com/2026/02/16/dark-science-act-four-gleipnir/",
     "source": "Dresden Codak",
-    "timestamp": "2026-02-16T09:36:49Z"
-  },
-  {
-    "id": "http://www.qwantz.com/index.php?comic=4436",
-    "text": "T-Rex realizes his boss actually has authority over him after initially denying it.",
-    "url": "http://www.qwantz.com/index.php?comic=4436",
-    "source": "Dinosaur Comics!",
-    "timestamp": "2026-02-16T08:00:00Z"
-  },
-  {
-    "id": "https://www.smbc-comics.com/comic/warrantless",
-    "text": "Satirical take on First Amendment erosion through absurdist scenarios involving unexpected characters and consequences.",
-    "url": "https://www.smbc-comics.com/comic/warrantless",
-    "source": "Saturday Morning Breakfast Cereal",
-    "timestamp": "2026-02-15T16:20:00Z"
-  },
-  {
-    "id": "https://www.smbc-comics.com/comic/moral",
-    "text": "A philosopher debates whether video games represent moral decay while ignoring worse cultural phenomena.",
-    "url": "https://www.smbc-comics.com/comic/moral",
-    "source": "Saturday Morning Breakfast Cereal",
-    "timestamp": "2026-02-14T16:20:00Z"
+    "timestamp": "2026-02-16T09:36:49Z",
+    "feed_url": "https://dresdencodak.com/feed/"
   },
   {
     "id": "yt:video:sXsna0KXU2Q",
     "text": "Hideshi Hino's notorious scatological anime film analyzed through compilation of its worst moments and absurd soundtrack choices.",
     "url": "https://www.youtube.com/shorts/sXsna0KXU2Q",
     "source": "hazel",
-    "timestamp": "2026-02-13T23:44:03Z"
-  },
-  {
-    "id": "https://www.smbc-comics.com/comic/scripture",
-    "text": "Character argues humans are naturally suited to captivity, comparing society to zoos with dark humor.",
-    "url": "https://www.smbc-comics.com/comic/scripture",
-    "source": "Saturday Morning Breakfast Cereal",
-    "timestamp": "2026-02-13T16:20:00Z"
-  },
-  {
-    "id": "http://www.qwantz.com/index.php?comic=4435",
-    "text": "T-Rex attends Fan Expo Vancouver this weekend, inviting readers to potentially meet him there.",
-    "url": "http://www.qwantz.com/index.php?comic=4435",
-    "source": "Dinosaur Comics!",
-    "timestamp": "2026-02-13T08:00:00Z"
-  },
-  {
-    "id": "https://www.smbc-comics.com/comic/wife-2",
-    "text": "A wife endures an endless, unfinished movie as marital commentary.",
-    "url": "https://www.smbc-comics.com/comic/wife-2",
-    "source": "Saturday Morning Breakfast Cereal",
-    "timestamp": "2026-02-12T16:20:00Z"
+    "timestamp": "2026-02-13T23:44:03Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjNErCQgCndSOl6t33m1-nQ"
   },
   {
     "id": "https://irrationalanalysis.substack.com/p/market-memo-towerglofo-earnings-hbm4",
     "text": "DRAM players struggling with high-speed probe test equipment, Tower+GloFo earnings update included.",
     "url": "https://irrationalanalysis.substack.com/p/market-memo-towerglofo-earnings-hbm4",
     "source": "Irrational Analysis",
-    "timestamp": "2026-02-12T05:30:34Z"
-  },
-  {
-    "id": "https://www.smbc-comics.com/comic/grimm",
-    "text": "Darkly comedic take on Grimm's tales as deliberately crafted warnings for future generations.",
-    "url": "https://www.smbc-comics.com/comic/grimm",
-    "source": "Saturday Morning Breakfast Cereal",
-    "timestamp": "2026-02-11T16:20:00Z"
-  },
-  {
-    "id": "http://www.qwantz.com/index.php?comic=4434",
-    "text": "T-Rex sacrifices his privacy by searching UTI treatments, humorously noting the advertising consequences while discussing cranberry juice ef",
-    "url": "http://www.qwantz.com/index.php?comic=4434",
-    "source": "Dinosaur Comics!",
-    "timestamp": "2026-02-11T08:00:00Z"
+    "timestamp": "2026-02-12T05:30:34Z",
+    "feed_url": "https://irrationalanalysis.substack.com/feed"
   },
   {
     "id": "https://dresdencodak.com/?p=6303",
     "text": "Kimiko Ross confronts remnants of an ancient conflict, blending espionage and scientific mystery in philosophical exploration.",
     "url": "https://dresdencodak.com/2026/02/10/dark-science-179-shadows-of-the-old-war/",
     "source": "Dresden Codak",
-    "timestamp": "2026-02-11T01:10:06Z"
-  },
-  {
-    "id": "https://www.smbc-comics.com/comic/full-dive",
-    "text": "Character experiences full sensory immersion technology; absurdist commentary on AI, consciousness, and commercial manipulation through virt",
-    "url": "https://www.smbc-comics.com/comic/full-dive",
-    "source": "Saturday Morning Breakfast Cereal",
-    "timestamp": "2026-02-10T16:20:00Z"
-  },
-  {
-    "id": "https://www.smbc-comics.com/comic/up-3",
-    "text": "God's perspective shifts upward, leading to unexpected papal wardrobe complications.",
-    "url": "https://www.smbc-comics.com/comic/up-3",
-    "source": "Saturday Morning Breakfast Cereal",
-    "timestamp": "2026-02-09T16:20:00Z"
-  },
-  {
-    "id": "http://www.qwantz.com/index.php?comic=4433",
-    "text": "T-Rex debates whether pets qualify as friends, with creator endorsing his position on friendship definitions.",
-    "url": "http://www.qwantz.com/index.php?comic=4433",
-    "source": "Dinosaur Comics!",
-    "timestamp": "2026-02-09T08:00:00Z"
-  },
-  {
-    "id": "https://www.smbc-comics.com/comic/ardent",
-    "text": "A character passionately advocates for something while others find his intensity off-putting and inconvenient.",
-    "url": "https://www.smbc-comics.com/comic/ardent",
-    "source": "Saturday Morning Breakfast Cereal",
-    "timestamp": "2026-02-08T16:20:00Z"
-  },
-  {
-    "id": "https://www.smbc-comics.com/comic/moneychanger",
-    "text": "Divine enforcer converts currency while plotting elaborate fish-based punishment for moral transgressors.",
-    "url": "https://www.smbc-comics.com/comic/moneychanger",
-    "source": "Saturday Morning Breakfast Cereal",
-    "timestamp": "2026-02-07T16:20:00Z"
-  },
-  {
-    "id": "https://www.smbc-comics.com/comic/curse-2",
-    "text": "A character's paranoid belief that normalcy itself is evidence of conspiracy.",
-    "url": "https://www.smbc-comics.com/comic/curse-2",
-    "source": "Saturday Morning Breakfast Cereal",
-    "timestamp": "2026-02-06T16:20:00Z"
-  },
-  {
-    "id": "http://www.qwantz.com/index.php?comic=4432",
-    "text": "T-Rex investigates whether there are too many dudes in existence, questioning the exact dude count.",
-    "url": "http://www.qwantz.com/index.php?comic=4432",
-    "source": "Dinosaur Comics!",
-    "timestamp": "2026-02-06T08:00:00Z"
+    "timestamp": "2026-02-11T01:10:06Z",
+    "feed_url": "https://dresdencodak.com/feed/"
   },
   {
     "id": "https://irrationalanalysis.substack.com/p/226-earnings-roundup-lite-cohr-sitm",
     "text": "Earnings roundup covering five semiconductor and networking stocks amid market volatility.",
     "url": "https://irrationalanalysis.substack.com/p/226-earnings-roundup-lite-cohr-sitm",
     "source": "Irrational Analysis",
-    "timestamp": "2026-02-06T06:23:40Z"
+    "timestamp": "2026-02-06T06:23:40Z",
+    "feed_url": "https://irrationalanalysis.substack.com/feed"
   },
   {
     "id": "yt:video:B9-_2js0qwY",
     "text": "Ranking the 25 most historically significant and quality-rich years across all anime history.",
     "url": "https://www.youtube.com/watch?v=B9-_2js0qwY",
     "source": "KaiserBeamz",
-    "timestamp": "2026-02-06T04:00:00Z"
+    "timestamp": "2026-02-06T04:00:00Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcxN_gfAE_43Wj6-UWC16bw"
   },
   {
-    "id": "https://www.smbc-comics.com/comic/ha-2",
-    "text": "Pterrordactyl returns in a humorous strip with bonus panel content.",
-    "url": "https://www.smbc-comics.com/comic/ha-2",
-    "source": "Saturday Morning Breakfast Cereal",
-    "timestamp": "2026-02-05T16:20:00Z"
-  },
-  {
-    "id": "http://www.qwantz.com/index.php?comic=4431",
-    "text": "Guide to appreciating T-Rex's objectively perfect body and anatomy.",
-    "url": "http://www.qwantz.com/index.php?comic=4431",
-    "source": "Dinosaur Comics!",
-    "timestamp": "2026-02-04T08:00:00Z"
-  },
-  {
-    "id": "http://www.qwantz.com/index.php?comic=4430",
-    "text": "23rd anniversary celebration marking the comic's February 2003 debut with gratitude to readers.",
-    "url": "http://www.qwantz.com/index.php?comic=4430",
-    "source": "Dinosaur Comics!",
-    "timestamp": "2026-02-02T08:00:00Z"
+    "id": "yt:video:dD_SzsJujow",
+    "text": "Synthesizing polyvinyl formal plastic for electron microscopy sample preparation applications.",
+    "url": "https://www.youtube.com/watch?v=dD_SzsJujow",
+    "source": "ProjectsInFlight",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkyHL2ZPgw9D4GOcPQq6Uzw",
+    "timestamp": "2026-01-31T14:01:05Z"
   },
   {
     "id": "https://irrationalanalysis.substack.com/p/market-memo-january-is-finally-over",
     "text": "January market recap with volatile price swings, casual tone covering tech sector movements.",
     "url": "https://irrationalanalysis.substack.com/p/market-memo-january-is-finally-over",
     "source": "Irrational Analysis",
-    "timestamp": "2026-01-31T07:41:38Z"
+    "timestamp": "2026-01-31T07:41:38Z",
+    "feed_url": "https://irrationalanalysis.substack.com/feed"
   },
   {
-    "id": "http://www.qwantz.com/index.php?comic=4429",
-    "text": "Dromiceiomimus hilariously guesses T-Rex's half of conversation perfectly without hearing him speak.",
-    "url": "http://www.qwantz.com/index.php?comic=4429",
-    "source": "Dinosaur Comics!",
-    "timestamp": "2026-01-30T08:00:00Z"
-  },
-  {
-    "id": "http://www.qwantz.com/index.php?comic=4428",
-    "text": "T-Rex promotes bladder awareness as essential to great art; announcement of comic event with Jason Loo.",
-    "url": "http://www.qwantz.com/index.php?comic=4428",
-    "source": "Dinosaur Comics!",
-    "timestamp": "2026-01-28T08:00:00Z"
+    "id": "yt:video:Of-KZih6lg0",
+    "text": "Creating colored supercritical carbon dioxide in sealed glass ampoules.",
+    "url": "https://www.youtube.com/watch?v=Of-KZih6lg0",
+    "source": "Advanced Tinkering",
+    "timestamp": "2026-01-30T13:00:51Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2M2T4FSz1kSqNhhL-n9R9A"
   },
   {
     "id": "https://dresdencodak.com/?p=6299",
     "text": "Kickstarter fulfillment update announcing March shipping date for Dark Science books with production photos.",
     "url": "https://dresdencodak.com/2026/01/26/dark-science-books-shipping-soon-with-pictures/",
     "source": "Dresden Codak",
-    "timestamp": "2026-01-27T00:43:37Z"
+    "timestamp": "2026-01-27T00:43:37Z",
+    "feed_url": "https://dresdencodak.com/feed/"
   },
   {
     "id": "yt:video:dAMXxxOtJUc",
     "text": "Critical examination of a programming language's design flaws and compiler implementation details.",
     "url": "https://www.youtube.com/watch?v=dAMXxxOtJUc",
     "source": "Sheafification of G",
-    "timestamp": "2026-01-26T13:30:51Z"
+    "timestamp": "2026-01-26T13:30:51Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6_J0wZdqcoRVs0Mck922SQ"
+  },
+  {
+    "id": "yt:video:HMw2x-Sm54Q",
+    "text": "Nixie tube voltage and current display for electrochemistry, part two continuation.",
+    "url": "https://www.youtube.com/watch?v=HMw2x-Sm54Q",
+    "source": "Scrap Science",
+    "timestamp": "2026-01-25T10:40:18Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYLvqqVn7Un9lafEXwSW4mA"
+  },
+  {
+    "id": "yt:video:gvtUbW3AhaY",
+    "text": "Grassroots mutual aid and community organizing networks providing emergency relief and advocacy support.",
+    "url": "https://www.youtube.com/watch?v=gvtUbW3AhaY",
+    "source": "shitty kickflips",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCuh83YrtAFyCpgWVPQ_PKw",
+    "timestamp": "2026-01-25T06:23:13Z"
   },
   {
     "id": "https://irrationalanalysis.substack.com/p/practical-datacom-lasers",
     "text": "Aggressive short thesis against Lumentum through datacom laser market analysis with confident prediction language.",
     "url": "https://irrationalanalysis.substack.com/p/practical-datacom-lasers",
     "source": "Irrational Analysis",
-    "timestamp": "2026-01-24T22:07:10Z"
+    "timestamp": "2026-01-24T22:07:10Z",
+    "feed_url": "https://irrationalanalysis.substack.com/feed"
   },
   {
     "id": "https://irrationalanalysis.substack.com/p/intels-agentic-dumpster-fire",
     "text": "Intel's catastrophic earnings and call, brutal execution failures exposed on investor stage.",
     "url": "https://irrationalanalysis.substack.com/p/intels-agentic-dumpster-fire",
     "source": "Irrational Analysis",
-    "timestamp": "2026-01-23T06:45:26Z"
+    "timestamp": "2026-01-23T06:45:26Z",
+    "feed_url": "https://irrationalanalysis.substack.com/feed"
   },
   {
     "id": "https://dresdencodak.com/?p=6281",
     "text": "A meta mini-comic breaking fourth wall about pre-orders while acknowledging its own lack of humor.",
     "url": "https://dresdencodak.com/2026/01/19/dc-minis-16-the-unfunny-status-update-episode/",
     "source": "Dresden Codak",
-    "timestamp": "2026-01-19T07:50:20Z"
+    "timestamp": "2026-01-19T07:50:20Z",
+    "feed_url": "https://dresdencodak.com/feed/"
   },
   {
     "id": "https://irrationalanalysis.substack.com/p/memory-madness",
     "text": "Chaotic early 2026 market analysis with irreverent commentary on tech volatility and memory chip dynamics.",
     "url": "https://irrationalanalysis.substack.com/p/memory-madness",
     "source": "Irrational Analysis",
-    "timestamp": "2026-01-16T22:29:45Z"
+    "timestamp": "2026-01-16T22:29:45Z",
+    "feed_url": "https://irrationalanalysis.substack.com/feed"
   },
   {
     "id": "https://dresdencodak.com/?p=6269",
     "text": "Kim tests the Diablo Fist technique in combat, questioning whether she's truly mastered this powerful ability.",
     "url": "https://dresdencodak.com/2026/01/12/dark-science-178-smoke-and-flame/",
     "source": "Dresden Codak",
-    "timestamp": "2026-01-12T07:23:48Z"
+    "timestamp": "2026-01-12T07:23:48Z",
+    "feed_url": "https://dresdencodak.com/feed/"
+  },
+  {
+    "id": "yt:video:mMAQgHbvBZk",
+    "text": "Chaotic stream-of-consciousness rambling with absurdist humor and aggressive comedic energy.",
+    "url": "https://www.youtube.com/watch?v=mMAQgHbvBZk",
+    "source": "shitty kickflips",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCuh83YrtAFyCpgWVPQ_PKw",
+    "timestamp": "2026-01-11T15:03:30Z"
+  },
+  {
+    "id": "yt:video:Sc72xSA8NJI",
+    "text": "Creates X-ray using radioactive rock and documents radiation detection process.",
+    "url": "https://www.youtube.com/shorts/Sc72xSA8NJI",
+    "source": "Advanced Tinkering",
+    "timestamp": "2026-01-07T11:01:01Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2M2T4FSz1kSqNhhL-n9R9A"
   },
   {
     "id": "https://dresdencodak.com/?p=6259",
     "text": "First date at a high school featuring dark science elements; ninth installment of ongoing narrative arc.",
     "url": "https://dresdencodak.com/2026/01/05/dc-minis-15-dark-science-high-school-part-9/",
     "source": "Dresden Codak",
-    "timestamp": "2026-01-05T23:45:17Z"
+    "timestamp": "2026-01-05T23:45:17Z",
+    "feed_url": "https://dresdencodak.com/feed/"
+  },
+  {
+    "id": "yt:video:wZadFMGU7MM",
+    "text": "Geometric animated character with modern design, featuring minimalist low poly aesthetic and vibrant stylized movement.",
+    "url": "https://www.youtube.com/watch?v=wZadFMGU7MM",
+    "source": "MallBat",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9OFDumeHCcZfzUKZW8F7gw",
+    "timestamp": "2026-01-04T23:43:53Z"
   },
   {
     "id": "https://irrationalanalysis.substack.com/p/fabulous-failures",
     "text": "Epic fab shortage incoming for cutting-edge logic chips, hyped with meme-laden commentary.",
     "url": "https://irrationalanalysis.substack.com/p/fabulous-failures",
     "source": "Irrational Analysis",
-    "timestamp": "2026-01-04T05:10:41Z"
+    "timestamp": "2026-01-04T05:10:41Z",
+    "feed_url": "https://irrationalanalysis.substack.com/feed"
   },
   {
     "id": "https://irrationalanalysis.substack.com/p/2025-end-of-year-portfolio-update",
     "text": "Massive chip sector outperformance driven by concentrated bets, likely heavy Cerebras position gains.",
     "url": "https://irrationalanalysis.substack.com/p/2025-end-of-year-portfolio-update",
     "source": "Irrational Analysis",
-    "timestamp": "2026-01-01T03:26:02Z"
+    "timestamp": "2026-01-01T03:26:02Z",
+    "feed_url": "https://irrationalanalysis.substack.com/feed"
+  },
+  {
+    "id": "yt:video:sj64plHnzt0",
+    "text": "Two characters reluctantly taking on clown work during desperate times, set to lo-fi music.",
+    "url": "https://www.youtube.com/watch?v=sj64plHnzt0",
+    "source": "Geo H3x",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC49OtA0LUUvQAP-igakbSlQ",
+    "timestamp": "2025-12-29T20:43:26Z"
   },
   {
     "id": "yt:video:GmypUwG6x2s",
     "text": "Comprehensive retrospective of Looney Tunes' post-Golden Age evolution from 1970s nostalgia through modern IP management.",
     "url": "https://www.youtube.com/watch?v=GmypUwG6x2s",
     "source": "KaiserBeamz",
-    "timestamp": "2025-12-28T23:00:30Z"
+    "timestamp": "2025-12-28T23:00:30Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcxN_gfAE_43Wj6-UWC16bw"
   },
   {
     "id": "https://irrationalanalysis.substack.com/p/truly-irrational-nvidiagroq-deal",
     "text": "Skeptical take questioning the rationale behind Nvidia's acquisition or partnership with Groq, expressing bewilderment at deal logic.",
     "url": "https://irrationalanalysis.substack.com/p/truly-irrational-nvidiagroq-deal",
     "source": "Irrational Analysis",
-    "timestamp": "2025-12-24T22:47:37Z"
+    "timestamp": "2025-12-24T22:47:37Z",
+    "feed_url": "https://irrationalanalysis.substack.com/feed"
   },
   {
     "id": "https://dresdencodak.com/?p=6249",
     "text": "Kimiko navigates M.A.G.E. Day festivities in second part of holiday-themed mini-comic installment.",
     "url": "https://dresdencodak.com/2025/12/22/dc-minis-14-m-a-g-e-day-part-2/",
     "source": "Dresden Codak",
-    "timestamp": "2025-12-22T08:12:35Z"
+    "timestamp": "2025-12-22T08:12:35Z",
+    "feed_url": "https://dresdencodak.com/feed/"
   },
   {
     "id": "https://irrationalanalysis.substack.com/p/2026-irrational-ideas",
     "text": "Speculative predictions framed as deliberately absurd and risky investment thesis material.",
     "url": "https://irrationalanalysis.substack.com/p/2026-irrational-ideas",
     "source": "Irrational Analysis",
-    "timestamp": "2025-12-21T16:48:23Z"
+    "timestamp": "2025-12-21T16:48:23Z",
+    "feed_url": "https://irrationalanalysis.substack.com/feed"
+  },
+  {
+    "id": "yt:video:4h3PhGGlTow",
+    "text": "Cryptic, existential musing paired with seizure warning; philosophical introspection meets technical concern.",
+    "url": "https://www.youtube.com/shorts/4h3PhGGlTow",
+    "source": "MallBat",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9OFDumeHCcZfzUKZW8F7gw",
+    "timestamp": "2025-12-20T21:26:10Z"
   },
   {
     "id": "yt:video:GX5CLlESfQE",
     "text": "Exploring equality through categorical lens: quotient objects, isomorphisms, and identity proofs hierarchically.",
     "url": "https://www.youtube.com/watch?v=GX5CLlESfQE",
     "source": "Sheafification of G",
-    "timestamp": "2025-12-19T14:00:34Z"
+    "timestamp": "2025-12-19T14:00:34Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6_J0wZdqcoRVs0Mck922SQ"
+  },
+  {
+    "id": "yt:video:wOJvabhcSJk",
+    "text": "Massive quantity of molten caesium metal displayed and manipulated in elaborate, visually dramatic reactions with various substances.",
+    "url": "https://www.youtube.com/shorts/wOJvabhcSJk",
+    "source": "Advanced Tinkering",
+    "timestamp": "2025-12-19T12:01:55Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2M2T4FSz1kSqNhhL-n9R9A"
   },
   {
     "id": "https://irrationalanalysis.substack.com/p/serdes-wars-maybe-mediatek-tpu-can",
     "text": "MediaTek's struggling TPU might recover through Semtech's CTLE signal conditioning tech in SerDes competition.",
     "url": "https://irrationalanalysis.substack.com/p/serdes-wars-maybe-mediatek-tpu-can",
     "source": "Irrational Analysis",
-    "timestamp": "2025-12-15T05:12:37Z"
+    "timestamp": "2025-12-15T05:12:37Z",
+    "feed_url": "https://irrationalanalysis.substack.com/feed"
+  },
+  {
+    "id": "yt:video:O4JFiR5ht6I",
+    "text": "Geometric hexagon-based live streaming interface with minimalist low poly visual design elements.",
+    "url": "https://www.youtube.com/watch?v=O4JFiR5ht6I",
+    "source": "Geo H3x",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC49OtA0LUUvQAP-igakbSlQ",
+    "timestamp": "2025-12-13T06:00:43Z"
+  },
+  {
+    "id": "yt:video:REm6O6Od254",
+    "text": "Purifying trifluoronitrosomethane gas to determine its true color through alternative synthesis route.",
+    "url": "https://www.youtube.com/watch?v=REm6O6Od254",
+    "source": "Advanced Tinkering",
+    "timestamp": "2025-12-12T13:01:03Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2M2T4FSz1kSqNhhL-n9R9A"
+  },
+  {
+    "id": "yt:video:h0ZwJf8mq6I",
+    "text": "Casual personal check-in, intimate conversational tone, possibly reflective of time apart.",
+    "url": "https://www.youtube.com/watch?v=h0ZwJf8mq6I",
+    "source": "shitty kickflips",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCuh83YrtAFyCpgWVPQ_PKw",
+    "timestamp": "2025-12-08T17:17:20Z"
   },
   {
     "id": "https://irrationalanalysis.substack.com/p/celestial-ai-marvell-deep-dive",
     "text": "Celestial AI analysis with characteristic irreverent tone, examining their position against Marvell's market dominance.",
     "url": "https://irrationalanalysis.substack.com/p/celestial-ai-marvell-deep-dive",
     "source": "Irrational Analysis",
-    "timestamp": "2025-12-07T05:26:30Z"
+    "timestamp": "2025-12-07T05:26:30Z",
+    "feed_url": "https://irrationalanalysis.substack.com/feed"
   },
   {
     "id": "https://irrationalanalysis.substack.com/p/marvell-maybe-buy-celestial-rumor",
     "text": "Speculative take on potential Marvell acquisition of Celestial semiconductor company amid industry consolidation chatter.",
     "url": "https://irrationalanalysis.substack.com/p/marvell-maybe-buy-celestial-rumor",
     "source": "Irrational Analysis",
-    "timestamp": "2025-12-02T10:08:30Z"
+    "timestamp": "2025-12-02T10:08:30Z",
+    "feed_url": "https://irrationalanalysis.substack.com/feed"
   },
   {
     "id": "yt:video:DfWHLkphWys",
     "text": "Homemade silicon carbide synthesis through extreme temperature heating methods.",
     "url": "https://www.youtube.com/watch?v=DfWHLkphWys",
     "source": "Extractions&Ire",
-    "timestamp": "2025-11-30T22:46:28Z"
+    "timestamp": "2025-11-30T22:46:28Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvFApMFo_AafXbHRyEJefjA"
+  },
+  {
+    "id": "yt:video:IH_UhZpyyPY",
+    "text": "Resuming molten salt electrolysis experiments with upgraded audio production and community engagement.",
+    "url": "https://www.youtube.com/watch?v=IH_UhZpyyPY",
+    "source": "Scrap Science",
+    "timestamp": "2025-11-30T14:59:57Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYLvqqVn7Un9lafEXwSW4mA"
+  },
+  {
+    "id": "yt:video:jh1s6Bt9UPo",
+    "text": "Synthesis of 1,4-dioxane solvent from antifreeze precursor using chemical conversion.",
+    "url": "https://www.youtube.com/watch?v=jh1s6Bt9UPo",
+    "source": "ProjectsInFlight",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkyHL2ZPgw9D4GOcPQq6Uzw",
+    "timestamp": "2025-11-29T14:01:31Z"
   },
   {
     "id": "https://irrationalanalysis.substack.com/p/thanksgiving-thoughts-tpu-vs-nvda",
     "text": "Irreverent comparison of Google TPUs against major chip competitors, flexing author's heavy semiconductor portfolio bias.",
     "url": "https://irrationalanalysis.substack.com/p/thanksgiving-thoughts-tpu-vs-nvda",
     "source": "Irrational Analysis",
-    "timestamp": "2025-11-28T20:22:39Z"
+    "timestamp": "2025-11-28T20:22:39Z",
+    "feed_url": "https://irrationalanalysis.substack.com/feed"
   },
   {
     "id": "yt:video:QtipLs3-tO4",
     "text": "Exploring how a novel trilogy spawned both an influential RPG franchise and a forgotten 1980s OVA adaptation.",
     "url": "https://www.youtube.com/watch?v=QtipLs3-tO4",
     "source": "KaiserBeamz",
-    "timestamp": "2025-11-28T01:00:40Z"
+    "timestamp": "2025-11-28T01:00:40Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcxN_gfAE_43Wj6-UWC16bw"
   },
   {
     "id": "yt:video:sPy-w-Jy6m8",
     "text": "Experimental meditation on human insignificance and vanity using archival footage and philosophical text.",
     "url": "https://www.youtube.com/watch?v=sPy-w-Jy6m8",
     "source": "Camille Cooke",
-    "timestamp": "2025-11-26T05:43:59Z"
+    "timestamp": "2025-11-26T05:43:59Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-oTbS-PARG-kASUBRoCIUQ"
   },
   {
     "id": "yt:video:8PKetxTU7H8",
     "text": "Upcoming indie game premiere event showcasing Divine Hammer, a niche title getting live theatrical debut.",
     "url": "https://www.youtube.com/shorts/8PKetxTU7H8",
     "source": "hazel",
-    "timestamp": "2025-11-26T03:00:12Z"
+    "timestamp": "2025-11-26T03:00:12Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjNErCQgCndSOl6t33m1-nQ"
+  },
+  {
+    "id": "yt:video:zr-eZ_pLTNI",
+    "text": "Extreme brightness test pushing standard bulbs to their destructive thermal limits.",
+    "url": "https://www.youtube.com/watch?v=zr-eZ_pLTNI",
+    "source": "styropyro",
+    "timestamp": "2025-11-20T22:56:49Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJYJgj7rzsn0vdR7fkgjuIA"
+  },
+  {
+    "id": "https://tomasbjartur.substack.com/p/lobsangs-children",
+    "text": "Melancholic reflection on inherited struggle and intellectual pursuit across generations.",
+    "url": "https://tomasbjartur.substack.com/p/lobsangs-children",
+    "source": "Tom\u00e1s Bjartur",
+    "timestamp": "2025-11-17T20:46:35Z",
+    "feed_url": "https://tomasbjartur.substack.com/feed"
   },
   {
     "id": "yt:video:lAeJvZfVLbE",
     "text": "Acoustic radiometer rotor spinning in extreme sound pressure, reversible direction with different frequencies and gases tested.",
     "url": "https://www.youtube.com/watch?v=lAeJvZfVLbE",
     "source": "Applied Science",
-    "timestamp": "2025-11-17T03:02:30Z"
+    "timestamp": "2025-11-17T03:02:30Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCivA7_KLKWo43tFcCkFvydw"
   },
   {
     "id": "yt:video:haWu_-nz2TY",
     "text": "Failed 90s idol multimedia franchise with pretty aesthetics but hollow substance.",
     "url": "https://www.youtube.com/watch?v=haWu_-nz2TY",
     "source": "KaiserBeamz",
-    "timestamp": "2025-11-16T22:00:43Z"
+    "timestamp": "2025-11-16T22:00:43Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcxN_gfAE_43Wj6-UWC16bw"
+  },
+  {
+    "id": "yt:video:JLjYczBrFls",
+    "text": "Synthesizing trifluoronitrosomethane to verify its actual appearance versus Wikipedia's incorrect photo.",
+    "url": "https://www.youtube.com/watch?v=JLjYczBrFls",
+    "source": "Advanced Tinkering",
+    "timestamp": "2025-11-07T13:00:41Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2M2T4FSz1kSqNhhL-n9R9A"
   },
   {
     "id": "https://irrationalanalysis.substack.com/p/practical-optical-communication-systems",
     "text": "Practical guide to optical communication systems emphasizing intuitive understanding over complex theory.",
     "url": "https://irrationalanalysis.substack.com/p/practical-optical-communication-systems",
     "source": "Irrational Analysis",
-    "timestamp": "2025-11-07T04:08:09Z"
+    "timestamp": "2025-11-07T04:08:09Z",
+    "feed_url": "https://irrationalanalysis.substack.com/feed"
+  },
+  {
+    "id": "https://tomasbjartur.substack.com/p/the-maker-of-mind-bdc",
+    "text": "Philosophical narrative exploring consciousness creation through a character's post-rebirth perspective, blending personal transformation wi",
+    "url": "https://tomasbjartur.substack.com/p/the-maker-of-mind-bdc",
+    "source": "Tom\u00e1s Bjartur",
+    "timestamp": "2025-11-04T10:12:02Z",
+    "feed_url": "https://tomasbjartur.substack.com/feed"
+  },
+  {
+    "id": "yt:video:ytOJWGeXMi4",
+    "text": "Animated low poly merchandise collection featuring stylized character designs and geometric art.",
+    "url": "https://www.youtube.com/shorts/ytOJWGeXMi4",
+    "source": "MallBat",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9OFDumeHCcZfzUKZW8F7gw",
+    "timestamp": "2025-11-03T13:56:57Z"
   },
   {
     "id": "yt:video:de5DRFErsQw",
     "text": "Personal retrospective on infiltrating and appearing in Channel Awesome's film productions and community.",
     "url": "https://www.youtube.com/watch?v=de5DRFErsQw",
     "source": "hazel",
-    "timestamp": "2025-11-01T19:00:40Z"
+    "timestamp": "2025-11-01T19:00:40Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjNErCQgCndSOl6t33m1-nQ"
   },
   {
     "id": "yt:video:0J18FEFzQLk",
     "text": "Psychological horror anime's overlooked masterpiece explored through production history, visual design, and narrative complexity.",
     "url": "https://www.youtube.com/watch?v=0J18FEFzQLk",
     "source": "KaiserBeamz",
-    "timestamp": "2025-10-31T00:00:03Z"
+    "timestamp": "2025-10-31T00:00:03Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcxN_gfAE_43Wj6-UWC16bw"
   },
   {
     "id": "https://irrationalanalysis.substack.com/p/qualcomm-q4-2025-earnings-preview",
     "text": "Qualcomm's struggling earnings outlook signals deeper competitive problems despite optimistic guidance attempts.",
     "url": "https://irrationalanalysis.substack.com/p/qualcomm-q4-2025-earnings-preview",
     "source": "Irrational Analysis",
-    "timestamp": "2025-10-28T15:41:00Z"
+    "timestamp": "2025-10-28T15:41:00Z",
+    "feed_url": "https://irrationalanalysis.substack.com/feed"
+  },
+  {
+    "id": "yt:video:x5nGs976QnY",
+    "text": "Animated series following a female character armed with a weapon across four episodes.",
+    "url": "https://www.youtube.com/shorts/x5nGs976QnY",
+    "source": "MallBat",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9OFDumeHCcZfzUKZW8F7gw",
+    "timestamp": "2025-10-28T15:02:18Z"
+  },
+  {
+    "id": "yt:video:SOoyDABfQds",
+    "text": "Week-long electrochemical oxidation of bromate to perbromate using diamond anode, testing challenging synthesis.",
+    "url": "https://www.youtube.com/watch?v=SOoyDABfQds",
+    "source": "Scrap Science",
+    "timestamp": "2025-10-26T07:50:36Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYLvqqVn7Un9lafEXwSW4mA"
   },
   {
     "id": "https://irrationalanalysis.substack.com/p/ocp-global-summit-2025-irrational",
     "text": "Open Compute conference recap covering semiconductor and networking stocks with irreverent analysis and multiple ticker symbols.",
     "url": "https://irrationalanalysis.substack.com/p/ocp-global-summit-2025-irrational",
     "source": "Irrational Analysis",
-    "timestamp": "2025-10-24T20:08:35Z"
+    "timestamp": "2025-10-24T20:08:35Z",
+    "feed_url": "https://irrationalanalysis.substack.com/feed"
   },
   {
     "id": "yt:video:xzSdRztwuSI",
     "text": "Surreal experimental short exploring mundane medical procedures through abstract visual language.",
     "url": "https://www.youtube.com/watch?v=xzSdRztwuSI",
     "source": "Camille Cooke",
-    "timestamp": "2025-10-23T03:20:56Z"
+    "timestamp": "2025-10-23T03:20:56Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-oTbS-PARG-kASUBRoCIUQ"
+  },
+  {
+    "id": "https://tomasbjartur.substack.com/p/pennys-hands",
+    "text": "Melancholic exploration of love's strangeness through intimate physical detail, questioning devotion's rationality.",
+    "url": "https://tomasbjartur.substack.com/p/pennys-hands",
+    "source": "Tom\u00e1s Bjartur",
+    "timestamp": "2025-10-22T17:08:53Z",
+    "feed_url": "https://tomasbjartur.substack.com/feed"
+  },
+  {
+    "id": "https://tomasbjartur.substack.com/p/that-mad-olympiad",
+    "text": "Dystopian future where a prodigy chemist begins illegal distillation as an infant, exploring precocious talent's darker implications.",
+    "url": "https://tomasbjartur.substack.com/p/that-mad-olympiad",
+    "source": "Tom\u00e1s Bjartur",
+    "timestamp": "2025-10-15T13:49:46Z",
+    "feed_url": "https://tomasbjartur.substack.com/feed"
   },
   {
     "id": "yt:video:RsGHr7dXLuI",
     "text": "Creating diffraction gratings and near-holograms on steel using MOPA fiber laser engraving with electron microscope inspection.",
     "url": "https://www.youtube.com/watch?v=RsGHr7dXLuI",
     "source": "Applied Science",
-    "timestamp": "2025-10-14T05:25:59Z"
+    "timestamp": "2025-10-14T05:25:59Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCivA7_KLKWo43tFcCkFvydw"
+  },
+  {
+    "id": "yt:video:I0Vqs1No_ng",
+    "text": "Concluding chapter featuring stylized characters in a low poly animated style with merchandise tie-in.",
+    "url": "https://www.youtube.com/watch?v=I0Vqs1No_ng",
+    "source": "MallBat",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9OFDumeHCcZfzUKZW8F7gw",
+    "timestamp": "2025-10-13T14:00:24Z"
+  },
+  {
+    "id": "https://tomasbjartur.substack.com/p/the-origami-men",
+    "text": "Melancholic meditation on detachment and mechanical existence, exploring ennui through origami as metaphor for human artificiality.",
+    "url": "https://tomasbjartur.substack.com/p/the-origami-men",
+    "source": "Tom\u00e1s Bjartur",
+    "timestamp": "2025-10-06T19:11:24Z",
+    "feed_url": "https://tomasbjartur.substack.com/feed"
+  },
+  {
+    "id": "yt:video:2m7yasUi2bI",
+    "text": "Synthesizing lead iodide crystals through chemical precipitation and examining their optical properties and crystal structure formation.",
+    "url": "https://www.youtube.com/shorts/2m7yasUi2bI",
+    "source": "Advanced Tinkering",
+    "timestamp": "2025-10-02T14:01:57Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2M2T4FSz1kSqNhhL-n9R9A"
   },
   {
     "id": "yt:video:wIX0BbTgehI",
     "text": "Deep dive into Kazuhiro Fujita's obscure adapted short story anime, exploring its unsettling premise and surprising quality.",
     "url": "https://www.youtube.com/watch?v=wIX0BbTgehI",
     "source": "KaiserBeamz",
-    "timestamp": "2025-10-01T23:01:10Z"
+    "timestamp": "2025-10-01T23:01:10Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcxN_gfAE_43Wj6-UWC16bw"
+  },
+  {
+    "id": "yt:video:RuYLNsks7rE",
+    "text": "Personal video essay on a cherished film with raw, unpolished aesthetic and DIY production values.",
+    "url": "https://www.youtube.com/watch?v=RuYLNsks7rE",
+    "source": "shitty kickflips",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCuh83YrtAFyCpgWVPQ_PKw",
+    "timestamp": "2025-09-30T03:32:52Z"
+  },
+  {
+    "id": "yt:video:RRmkdohCGIE",
+    "text": "Casual viewer music critique session with post-submission hangout vibes",
+    "url": "https://www.youtube.com/watch?v=RRmkdohCGIE",
+    "source": "shitty kickflips",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCuh83YrtAFyCpgWVPQ_PKw",
+    "timestamp": "2025-09-28T17:43:36Z"
+  },
+  {
+    "id": "yt:video:0QJj6Ojxt7w",
+    "text": "Nixie tube-based voltage and current display for electrochemistry measurement projects.",
+    "url": "https://www.youtube.com/watch?v=0QJj6Ojxt7w",
+    "source": "Scrap Science",
+    "timestamp": "2025-09-28T10:16:24Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYLvqqVn7Un9lafEXwSW4mA"
+  },
+  {
+    "id": "https://tomasbjartur.substack.com/p/our-beloved-monsters",
+    "text": "Melancholic meditation on humanity's complicated relationship with our own creations and nature.",
+    "url": "https://tomasbjartur.substack.com/p/our-beloved-monsters",
+    "source": "Tom\u00e1s Bjartur",
+    "timestamp": "2025-09-27T20:18:53Z",
+    "feed_url": "https://tomasbjartur.substack.com/feed"
+  },
+  {
+    "id": "https://tomasbjartur.substack.com/p/the-company-man",
+    "text": "Gritty near-future narrative contrasting corporate mundanity with urban decay and addiction crisis.",
+    "url": "https://tomasbjartur.substack.com/p/the-company-man",
+    "source": "Tom\u00e1s Bjartur",
+    "timestamp": "2025-09-20T21:09:44Z",
+    "feed_url": "https://tomasbjartur.substack.com/feed"
   },
   {
     "id": "yt:video:cFtymODJEjs",
     "text": "Satirical take on compiled vs interpreted languages, deliberately reversing C++ and Python classifications.",
     "url": "https://www.youtube.com/watch?v=cFtymODJEjs",
     "source": "Sheafification of G",
-    "timestamp": "2025-09-19T13:01:30Z"
+    "timestamp": "2025-09-19T13:01:30Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6_J0wZdqcoRVs0Mck922SQ"
   },
   {
     "id": "yt:video:1V7pFLcIgMs",
     "text": "CLAMP's debut OVA adaptation, influential shojo anime despite middling quality.",
     "url": "https://www.youtube.com/watch?v=1V7pFLcIgMs",
     "source": "KaiserBeamz",
-    "timestamp": "2025-09-17T00:13:14Z"
+    "timestamp": "2025-09-17T00:13:14Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcxN_gfAE_43Wj6-UWC16bw"
+  },
+  {
+    "id": "yt:video:fBSiMe3_HGc",
+    "text": "Surreal internet-themed animation about snacking, blending digital culture with absurdist humor and nostalgia.",
+    "url": "https://www.youtube.com/watch?v=fBSiMe3_HGc",
+    "source": "MallBat",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9OFDumeHCcZfzUKZW8F7gw",
+    "timestamp": "2025-09-16T14:01:09Z"
+  },
+  {
+    "id": "yt:video:itO7lvsswqw",
+    "text": "Dark comedic exploration of paper cuts as genuine injuries, questioning pain perception and severity.",
+    "url": "https://www.youtube.com/watch?v=itO7lvsswqw",
+    "source": "Geo H3x",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC49OtA0LUUvQAP-igakbSlQ",
+    "timestamp": "2025-09-15T17:47:04Z"
+  },
+  {
+    "id": "yt:video:hSmR6IWV9ck",
+    "text": "Identifies unknown element through experimental analysis and spectroscopic techniques with high-end equipment.",
+    "url": "https://www.youtube.com/shorts/hSmR6IWV9ck",
+    "source": "Advanced Tinkering",
+    "timestamp": "2025-09-07T12:14:44Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2M2T4FSz1kSqNhhL-n9R9A"
   },
   {
     "id": "yt:video:NDTa5SEW0dc",
     "text": "Hideaki Anno's Gunbuster OVA: ambition, hard work, and epic scope before Evangelion's existential dread.",
     "url": "https://www.youtube.com/watch?v=NDTa5SEW0dc",
     "source": "KaiserBeamz",
-    "timestamp": "2025-09-05T23:13:48Z"
+    "timestamp": "2025-09-05T23:13:48Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcxN_gfAE_43Wj6-UWC16bw"
   },
   {
     "id": "yt:video:0i7LNHh7f8M",
     "text": "2004 shonen gunslinger anime examined despite production issues and Trigun comparisons.",
     "url": "https://www.youtube.com/watch?v=0i7LNHh7f8M",
     "source": "KaiserBeamz",
-    "timestamp": "2025-09-01T01:00:01Z"
+    "timestamp": "2025-09-01T01:00:01Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcxN_gfAE_43Wj6-UWC16bw"
   },
   {
     "id": "yt:video:3oluG1zZHSc",
     "text": "Absurdist dialogue with automated pharmacy assistant exploring mundane interaction humor",
     "url": "https://www.youtube.com/shorts/3oluG1zZHSc",
     "source": "Camille Cooke",
-    "timestamp": "2025-08-28T16:33:34Z"
+    "timestamp": "2025-08-28T16:33:34Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-oTbS-PARG-kASUBRoCIUQ"
   },
   {
     "id": "yt:video:9D9a3u4yTiM",
     "text": "Absurdist PSA-style short parodying medical procedure advertisements with dark humor",
     "url": "https://www.youtube.com/watch?v=9D9a3u4yTiM",
     "source": "Camille Cooke",
-    "timestamp": "2025-08-27T19:59:00Z"
+    "timestamp": "2025-08-27T19:59:00Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-oTbS-PARG-kASUBRoCIUQ"
+  },
+  {
+    "id": "yt:video:8yscUHENvF8",
+    "text": "Attempting to extract indium from a broken television LCD screen through electrochemical methods.",
+    "url": "https://www.youtube.com/watch?v=8yscUHENvF8",
+    "source": "Scrap Science",
+    "timestamp": "2025-08-24T10:52:01Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYLvqqVn7Un9lafEXwSW4mA"
+  },
+  {
+    "id": "yt:video:kIiRTS9V6Vc",
+    "text": "Cesium reacting with fluorine and interhalogen compounds in never-before-filmed high-speed reactions at university lab.",
+    "url": "https://www.youtube.com/watch?v=kIiRTS9V6Vc",
+    "source": "Advanced Tinkering",
+    "timestamp": "2025-08-22T16:01:30Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2M2T4FSz1kSqNhhL-n9R9A"
+  },
+  {
+    "id": "yt:video:RD77dZv4Lnc",
+    "text": "Restoration of vintage fume hood for safe chemistry lab operations and chemical containment.",
+    "url": "https://www.youtube.com/watch?v=RD77dZv4Lnc",
+    "source": "ProjectsInFlight",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkyHL2ZPgw9D4GOcPQq6Uzw",
+    "timestamp": "2025-08-22T13:00:52Z"
   },
   {
     "id": "yt:video:8LCiLlXsHO4",
     "text": "Tomie film adaptation containing obscure or unexpected element not widely discussed by fans or critics.",
     "url": "https://www.youtube.com/shorts/8LCiLlXsHO4",
     "source": "hazel",
-    "timestamp": "2025-08-20T02:14:49Z"
+    "timestamp": "2025-08-20T02:14:49Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjNErCQgCndSOl6t33m1-nQ"
   },
   {
     "id": "yt:video:FcJsy-jx04I",
     "text": "Synthesizing fluorescent perovskite nanocrystals through wet ball milling and anion exchange reactions.",
     "url": "https://www.youtube.com/watch?v=FcJsy-jx04I",
     "source": "Extractions&Ire",
-    "timestamp": "2025-08-18T23:00:30Z"
+    "timestamp": "2025-08-18T23:00:30Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvFApMFo_AafXbHRyEJefjA"
+  },
+  {
+    "id": "yt:video:0g8VOHhwQAM",
+    "text": "Overlooked cinematographer Ellie Keller receives belated credit for camera work on premiere short film.",
+    "url": "https://www.youtube.com/watch?v=0g8VOHhwQAM",
+    "source": "shitty kickflips",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCuh83YrtAFyCpgWVPQ_PKw",
+    "timestamp": "2025-08-16T19:00:06Z"
   },
   {
     "id": "yt:video:0dUhUQcWftY",
     "text": "Matsumoto's WWII anthology told from Axis perspective with surprisingly critical war storytelling approach.",
     "url": "https://www.youtube.com/watch?v=0dUhUQcWftY",
     "source": "KaiserBeamz",
-    "timestamp": "2025-08-16T00:00:01Z"
+    "timestamp": "2025-08-16T00:00:01Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcxN_gfAE_43Wj6-UWC16bw"
+  },
+  {
+    "id": "yt:video:lDCnnT8EbUc",
+    "text": "Fast-moving low poly character or object with motion emphasis, playful energy.",
+    "url": "https://www.youtube.com/shorts/lDCnnT8EbUc",
+    "source": "MallBat",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9OFDumeHCcZfzUKZW8F7gw",
+    "timestamp": "2025-08-13T17:36:43Z"
   },
   {
     "id": "yt:video:NkN2W5ZI3iQ",
     "text": "Nostalgic collection of vintage anime magazine aesthetics and design from the 1990s-2000s era",
     "url": "https://www.youtube.com/watch?v=NkN2W5ZI3iQ",
     "source": "hazel",
-    "timestamp": "2025-08-06T19:00:23Z"
+    "timestamp": "2025-08-06T19:00:23Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjNErCQgCndSOl6t33m1-nQ"
+  },
+  {
+    "id": "yt:video:Kn5lQgHaW0A",
+    "text": "Cheerful character with distinctive pixelated style and friendly demeanor.",
+    "url": "https://www.youtube.com/shorts/Kn5lQgHaW0A",
+    "source": "MallBat",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9OFDumeHCcZfzUKZW8F7gw",
+    "timestamp": "2025-08-02T15:35:34Z"
+  },
+  {
+    "id": "yt:video:4qSooG4x9r0",
+    "text": "Cheerful character with distinctive appearance and energetic personality, rendered in low poly style.",
+    "url": "https://www.youtube.com/shorts/4qSooG4x9r0",
+    "source": "MallBat",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9OFDumeHCcZfzUKZW8F7gw",
+    "timestamp": "2025-08-01T13:24:52Z"
   },
   {
     "id": "yt:video:wJOcyhKmYBE",
     "text": "Early 90s fighting game adaptation that squanders star animator Masami Obari's talents despite innovative source material.",
     "url": "https://www.youtube.com/watch?v=wJOcyhKmYBE",
     "source": "KaiserBeamz",
-    "timestamp": "2025-08-01T02:00:49Z"
+    "timestamp": "2025-08-01T02:00:49Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcxN_gfAE_43Wj6-UWC16bw"
+  },
+  {
+    "id": "yt:video:TOXL_tH2qnQ",
+    "text": "Cheerful bug character with cute expression and simple geometric design",
+    "url": "https://www.youtube.com/shorts/TOXL_tH2qnQ",
+    "source": "MallBat",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9OFDumeHCcZfzUKZW8F7gw",
+    "timestamp": "2025-07-30T17:24:18Z"
+  },
+  {
+    "id": "yt:video:Akp19Vth500",
+    "text": "Rumored unreleased mechanics and creatures from the next generation before official announcement.",
+    "url": "https://www.youtube.com/watch?v=Akp19Vth500",
+    "source": "shitty kickflips",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCuh83YrtAFyCpgWVPQ_PKw",
+    "timestamp": "2025-07-30T15:00:26Z"
   },
   {
     "id": "yt:video:os7OJnUj3s0",
     "text": "Announcement of exciting news or project reveal from the channel creator",
     "url": "https://www.youtube.com/watch?v=os7OJnUj3s0",
     "source": "Camille Cooke",
-    "timestamp": "2025-07-29T03:50:21Z"
+    "timestamp": "2025-07-29T03:50:21Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-oTbS-PARG-kASUBRoCIUQ"
+  },
+  {
+    "id": "yt:video:_6JxnVPhmyU",
+    "text": "Toy boat powered by magnetohydrodynamic drive, no moving mechanical parts.",
+    "url": "https://www.youtube.com/watch?v=_6JxnVPhmyU",
+    "source": "Scrap Science",
+    "timestamp": "2025-07-27T12:23:43Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYLvqqVn7Un9lafEXwSW4mA"
+  },
+  {
+    "id": "yt:video:U-SEx8HHq38",
+    "text": "Absurdist video essay deconstructing mundane objects through punk aesthetic and indie film sensibility.",
+    "url": "https://www.youtube.com/watch?v=U-SEx8HHq38",
+    "source": "shitty kickflips",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCuh83YrtAFyCpgWVPQ_PKw",
+    "timestamp": "2025-07-26T10:30:02Z"
+  },
+  {
+    "id": "yt:video:Jh-cumkjJG8",
+    "text": "Minimalist geometric character with simplified shapes and smooth motion transitions.",
+    "url": "https://www.youtube.com/shorts/Jh-cumkjJG8",
+    "source": "MallBat",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9OFDumeHCcZfzUKZW8F7gw",
+    "timestamp": "2025-07-23T14:21:10Z"
+  },
+  {
+    "id": "yt:video:BvxorQtFv60",
+    "text": "Two characters visit an ominous fish-themed television channel with darkly comedic consequences.",
+    "url": "https://www.youtube.com/watch?v=BvxorQtFv60",
+    "source": "Geo H3x",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC49OtA0LUUvQAP-igakbSlQ",
+    "timestamp": "2025-07-21T18:52:22Z"
+  },
+  {
+    "id": "yt:video:um_n-xkm1Cc",
+    "text": "Three friends navigate daily struggles while maintaining their bond in a suburban setting.",
+    "url": "https://www.youtube.com/watch?v=um_n-xkm1Cc",
+    "source": "MallBat",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9OFDumeHCcZfzUKZW8F7gw",
+    "timestamp": "2025-07-21T14:01:30Z"
   },
   {
     "id": "yt:video:EuVgGrun1V0",
     "text": "X-ray backscatter imaging system using compressed sensing algorithm to reconstruct images from random samples.",
     "url": "https://www.youtube.com/watch?v=EuVgGrun1V0",
     "source": "Applied Science",
-    "timestamp": "2025-07-18T22:59:49Z"
+    "timestamp": "2025-07-18T22:59:49Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCivA7_KLKWo43tFcCkFvydw"
   },
   {
     "id": "yt:video:q23HWXOLfaw",
     "text": "Explores why the Yoneda Lemma receives disproportionate attention despite its elementary proof, examining natural transformations and preshe",
     "url": "https://www.youtube.com/watch?v=q23HWXOLfaw",
     "source": "Sheafification of G",
-    "timestamp": "2025-07-18T12:01:46Z"
+    "timestamp": "2025-07-18T12:01:46Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6_J0wZdqcoRVs0Mck922SQ"
   },
   {
     "id": "yt:video:SqywhMXPzX4",
     "text": "1996 ninja OVA with impressive animation undermined by tired genre conventions and format limitations.",
     "url": "https://www.youtube.com/watch?v=SqywhMXPzX4",
     "source": "KaiserBeamz",
-    "timestamp": "2025-07-16T16:00:50Z"
+    "timestamp": "2025-07-16T16:00:50Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcxN_gfAE_43Wj6-UWC16bw"
+  },
+  {
+    "id": "yt:video:EtE_ytjl4Jg",
+    "text": "A self-aware rant about horse girl culture's chaotic influence on the creator's life and mindset.",
+    "url": "https://www.youtube.com/watch?v=EtE_ytjl4Jg",
+    "source": "shitty kickflips",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCuh83YrtAFyCpgWVPQ_PKw",
+    "timestamp": "2025-07-14T05:00:57Z"
+  },
+  {
+    "id": "yt:video:rtbD0C29WYM",
+    "text": "Streamer casually consumes cigarettes during casual broadcast interaction with audience.",
+    "url": "https://www.youtube.com/watch?v=rtbD0C29WYM",
+    "source": "shitty kickflips",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCuh83YrtAFyCpgWVPQ_PKw",
+    "timestamp": "2025-07-08T14:49:05Z"
+  },
+  {
+    "id": "yt:video:jUG3rp6IVUw",
+    "text": "Urban shopping district with blocky aesthetic, stylized low polygon architecture and shoppers.",
+    "url": "https://www.youtube.com/shorts/jUG3rp6IVUw",
+    "source": "MallBat",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9OFDumeHCcZfzUKZW8F7gw",
+    "timestamp": "2025-07-06T16:57:01Z"
+  },
+  {
+    "id": "yt:video:36RlgXt_tZU",
+    "text": "Remixed debut episode introducing Mall City universe with refined story beats and character development.",
+    "url": "https://www.youtube.com/watch?v=36RlgXt_tZU",
+    "source": "MallBat",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9OFDumeHCcZfzUKZW8F7gw",
+    "timestamp": "2025-07-04T19:36:10Z"
   },
   {
     "id": "yt:video:jMxoWlosA4o",
     "text": "Obscure 1990s penguin anime examining unexpectedly dark marketing and merchandise targeting young audiences.",
     "url": "https://www.youtube.com/watch?v=jMxoWlosA4o",
     "source": "hazel",
-    "timestamp": "2025-07-02T15:01:21Z"
+    "timestamp": "2025-07-02T15:01:21Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjNErCQgCndSOl6t33m1-nQ"
   },
   {
     "id": "yt:video:xSnfpubihgk",
     "text": "Rapid speedrun of two additional cubane synthesis steps with edited highlights.",
     "url": "https://www.youtube.com/watch?v=xSnfpubihgk",
     "source": "Extractions&Ire",
-    "timestamp": "2025-06-30T13:53:55Z"
+    "timestamp": "2025-06-30T13:53:55Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvFApMFo_AafXbHRyEJefjA"
   },
   {
     "id": "yt:video:xR1uXUJGJUg",
     "text": "Lost Universe as an obscure sci-fi spinoff of the wildly popular Slayers franchise from 1998.",
     "url": "https://www.youtube.com/watch?v=xR1uXUJGJUg",
     "source": "KaiserBeamz",
-    "timestamp": "2025-06-29T21:05:24Z"
+    "timestamp": "2025-06-29T21:05:24Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcxN_gfAE_43Wj6-UWC16bw"
+  },
+  {
+    "id": "yt:video:p-wrcpw4_NI",
+    "text": "Comedic hypothetical scenario about overwhelming vampire invasion, casual streaming invitation",
+    "url": "https://www.youtube.com/watch?v=p-wrcpw4_NI",
+    "source": "shitty kickflips",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCuh83YrtAFyCpgWVPQ_PKw",
+    "timestamp": "2025-06-26T15:27:48Z"
+  },
+  {
+    "id": "yt:video:xhxEKzXF_9s",
+    "text": "A comedic video essay roasting an anime as the epitome of mediocrity, with deliberately self-deprecating Japanese language humor",
+    "url": "https://www.youtube.com/watch?v=xhxEKzXF_9s",
+    "source": "shitty kickflips",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCuh83YrtAFyCpgWVPQ_PKw",
+    "timestamp": "2025-06-25T13:00:50Z"
+  },
+  {
+    "id": "yt:video:B89Xb7mHvoU",
+    "text": "Extracts white phosphorus from matchbox striking surfaces through careful chemical separation and isolation.",
+    "url": "https://www.youtube.com/shorts/B89Xb7mHvoU",
+    "source": "Advanced Tinkering",
+    "timestamp": "2025-06-21T12:48:24Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2M2T4FSz1kSqNhhL-n9R9A"
+  },
+  {
+    "id": "yt:video:vRtAqFdnsj8",
+    "text": "Radioactive gas made visible through ionization tracks in a sealed chamber apparatus.",
+    "url": "https://www.youtube.com/shorts/vRtAqFdnsj8",
+    "source": "Advanced Tinkering",
+    "timestamp": "2025-06-15T16:28:48Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2M2T4FSz1kSqNhhL-n9R9A"
+  },
+  {
+    "id": "yt:video:pCfauxwK5PI",
+    "text": "Successful electrolytic permanganate synthesis after five-year retry with improved methodology.",
+    "url": "https://www.youtube.com/watch?v=pCfauxwK5PI",
+    "source": "Scrap Science",
+    "timestamp": "2025-06-15T13:25:33Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYLvqqVn7Un9lafEXwSW4mA"
+  },
+  {
+    "id": "yt:video:N4Iv8xzDMrc",
+    "text": "Salem enthusiastically enjoying computer time with animated movements.",
+    "url": "https://www.youtube.com/watch?v=N4Iv8xzDMrc",
+    "source": "Geo H3x",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC49OtA0LUUvQAP-igakbSlQ",
+    "timestamp": "2025-06-13T20:26:26Z"
+  },
+  {
+    "id": "yt:video:5Rn7bAMiNtg",
+    "text": "Record-breaking compressor-cooled cloud chamber visualizing uranium ore radioactivity trails",
+    "url": "https://www.youtube.com/watch?v=5Rn7bAMiNtg",
+    "source": "Advanced Tinkering",
+    "timestamp": "2025-06-13T18:00:05Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2M2T4FSz1kSqNhhL-n9R9A"
   },
   {
     "id": "yt:video:p2bFLG_Q7Lo",
     "text": "Sheafification process explained through presheaves and the sheaf condition",
     "url": "https://www.youtube.com/watch?v=p2bFLG_Q7Lo",
     "source": "Sheafification of G",
-    "timestamp": "2025-06-13T12:30:58Z"
+    "timestamp": "2025-06-13T12:30:58Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6_J0wZdqcoRVs0Mck922SQ"
   },
   {
     "id": "yt:video:feqJGFclhaQ",
     "text": "Reporter standing outdoors delivering broadcast, likely weather or field coverage.",
     "url": "https://www.youtube.com/watch?v=feqJGFclhaQ",
     "source": "Camille Cooke",
-    "timestamp": "2025-06-04T15:46:15Z"
+    "timestamp": "2025-06-04T15:46:15Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-oTbS-PARG-kASUBRoCIUQ"
   },
   {
     "id": "yt:video:IJSHGrOcd9Q",
     "text": "1989 comedy OVA that excessively parodies anime tropes with granular, detailed humor focused on 80s conventions.",
     "url": "https://www.youtube.com/watch?v=IJSHGrOcd9Q",
     "source": "KaiserBeamz",
-    "timestamp": "2025-06-01T02:00:31Z"
+    "timestamp": "2025-06-01T02:00:31Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcxN_gfAE_43Wj6-UWC16bw"
+  },
+  {
+    "id": "yt:video:UBVlL0FNbSE",
+    "text": "World's strongest handheld laser; burns through materials, melts metal, welds, and attempts to cut diamonds.",
+    "url": "https://www.youtube.com/watch?v=UBVlL0FNbSE",
+    "source": "styropyro",
+    "timestamp": "2025-05-30T18:00:10Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJYJgj7rzsn0vdR7fkgjuIA"
   },
   {
     "id": "yt:video:M6XIgdS1rzs",
     "text": "DIY iron nitride permanent magnets synthesized via ball milling, performance testing versus commercial neodymium magnets.",
     "url": "https://www.youtube.com/watch?v=M6XIgdS1rzs",
     "source": "Applied Science",
-    "timestamp": "2025-05-27T02:44:17Z"
+    "timestamp": "2025-05-27T02:44:17Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCivA7_KLKWo43tFcCkFvydw"
   },
   {
     "id": "yt:video:s-VrZ3it270",
     "text": "Experimental yellow pigment synthesis using unconventional equipment and techniques.",
     "url": "https://www.youtube.com/watch?v=s-VrZ3it270",
     "source": "Extractions&Ire",
-    "timestamp": "2025-05-25T23:58:32Z"
+    "timestamp": "2025-05-25T23:58:32Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvFApMFo_AafXbHRyEJefjA"
+  },
+  {
+    "id": "yt:video:wMPRwxL3eF4",
+    "text": "Anxious clown character animated in low poly style with humorous urgency messaging.",
+    "url": "https://www.youtube.com/watch?v=wMPRwxL3eF4",
+    "source": "Geo H3x",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC49OtA0LUUvQAP-igakbSlQ",
+    "timestamp": "2025-05-12T19:04:30Z"
+  },
+  {
+    "id": "yt:video:eL6VNviCVhc",
+    "text": "Bioluminescent organisms captured and preserved in sealed glass container for observation.",
+    "url": "https://www.youtube.com/shorts/eL6VNviCVhc",
+    "source": "Advanced Tinkering",
+    "timestamp": "2025-05-12T12:01:08Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2M2T4FSz1kSqNhhL-n9R9A"
+  },
+  {
+    "id": "yt:video:oOoV2272Cf4",
+    "text": "Scaled-up electrobromine process for catalytically producing sulfuric acid from elemental sulfur.",
+    "url": "https://www.youtube.com/watch?v=oOoV2272Cf4",
+    "source": "Scrap Science",
+    "timestamp": "2025-05-11T12:42:59Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYLvqqVn7Un9lafEXwSW4mA"
+  },
+  {
+    "id": "yt:video:p6Gs3yXEM8k",
+    "text": "Synthesizing gold nanoparticles from raw materials for SEM calibration and beam alignment verification.",
+    "url": "https://www.youtube.com/watch?v=p6Gs3yXEM8k",
+    "source": "ProjectsInFlight",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkyHL2ZPgw9D4GOcPQq6Uzw",
+    "timestamp": "2025-05-10T12:00:11Z"
   },
   {
     "id": "yt:video:p2s05HGGbdI",
     "text": "Personal reflection on decade-long mathematics academia journey and identity struggles",
     "url": "https://www.youtube.com/watch?v=p2s05HGGbdI",
     "source": "Sheafification of G",
-    "timestamp": "2025-05-09T13:01:31Z"
+    "timestamp": "2025-05-09T13:01:31Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6_J0wZdqcoRVs0Mck922SQ"
   },
   {
     "id": "yt:video:QRULqxKgBeM",
     "text": "Portland hotel visit documenting quirky indie accommodations and local atmosphere.",
     "url": "https://www.youtube.com/watch?v=QRULqxKgBeM",
     "source": "hazel",
-    "timestamp": "2025-05-07T15:00:45Z"
+    "timestamp": "2025-05-07T15:00:45Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjNErCQgCndSOl6t33m1-nQ"
+  },
+  {
+    "id": "yt:video:gSuDBi4-_TM",
+    "text": "Casual conversation about art creation featuring guest artist Trixie the Golden Witch.",
+    "url": "https://www.youtube.com/watch?v=gSuDBi4-_TM",
+    "source": "shitty kickflips",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCuh83YrtAFyCpgWVPQ_PKw",
+    "timestamp": "2025-05-06T16:57:02Z"
+  },
+  {
+    "id": "yt:video:0FtPOwYKiH8",
+    "text": "Synthesis and detonation of extremely unstable nitrogen triiodide explosive compound, testing sensitivity limits.",
+    "url": "https://www.youtube.com/shorts/0FtPOwYKiH8",
+    "source": "Advanced Tinkering",
+    "timestamp": "2025-05-03T10:02:50Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2M2T4FSz1kSqNhhL-n9R9A"
+  },
+  {
+    "id": "yt:video:e2YCv-1_LLU",
+    "text": "Lesbian short film essay celebrating queer teenage representation, with unexpected tangents on centaur anatomy.",
+    "url": "https://www.youtube.com/watch?v=e2YCv-1_LLU",
+    "source": "shitty kickflips",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCuh83YrtAFyCpgWVPQ_PKw",
+    "timestamp": "2025-04-30T17:36:10Z"
+  },
+  {
+    "id": "yt:video:d9o92Ixj2A0",
+    "text": "Crystalline structure examination using polarized light microscopy techniques",
+    "url": "https://www.youtube.com/shorts/d9o92Ixj2A0",
+    "source": "Advanced Tinkering",
+    "timestamp": "2025-04-16T12:01:21Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2M2T4FSz1kSqNhhL-n9R9A"
   },
   {
     "id": "yt:video:u24AjKinHNU",
     "text": "Optimizing Fibonacci computation through fast Fourier transforms and modular arithmetic to define \"blazingly fast.\"",
     "url": "https://www.youtube.com/watch?v=u24AjKinHNU",
     "source": "Sheafification of G",
-    "timestamp": "2025-04-11T13:01:36Z"
+    "timestamp": "2025-04-11T13:01:36Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6_J0wZdqcoRVs0Mck922SQ"
+  },
+  {
+    "id": "yt:video:eFZpmF6pdug",
+    "text": "Raw punk tracks exploring financial struggle and working-class exhaustion with lo-fi recording aesthetic.",
+    "url": "https://www.youtube.com/watch?v=eFZpmF6pdug",
+    "source": "shitty kickflips",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCuh83YrtAFyCpgWVPQ_PKw",
+    "timestamp": "2025-04-04T18:49:44Z"
   },
   {
     "id": "yt:video:z_itQLvQxtk",
     "text": "April Fools' joke presenting Python tutorial using sheafification and category theory concepts.",
     "url": "https://www.youtube.com/watch?v=z_itQLvQxtk",
     "source": "Sheafification of G",
-    "timestamp": "2025-04-01T13:01:31Z"
+    "timestamp": "2025-04-01T13:01:31Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6_J0wZdqcoRVs0Mck922SQ"
   },
   {
     "id": "yt:video:wSUxK8q4D0Q",
     "text": "High-speed camera technique revealing welding arc dynamics through synchronized strobe illumination.",
     "url": "https://www.youtube.com/watch?v=wSUxK8q4D0Q",
     "source": "Applied Science",
-    "timestamp": "2025-04-01T05:46:50Z"
+    "timestamp": "2025-04-01T05:46:50Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCivA7_KLKWo43tFcCkFvydw"
+  },
+  {
+    "id": "yt:video:4Hp-dWlVJrA",
+    "text": "Goose the rabbit demonstrates electrochemistry experiments through DIY demonstrations and practical hands-on projects.",
+    "url": "https://www.youtube.com/watch?v=4Hp-dWlVJrA",
+    "source": "Scrap Science",
+    "timestamp": "2025-04-01T04:27:40Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYLvqqVn7Un9lafEXwSW4mA"
   },
   {
     "id": "yt:video:BA9dS5_8vkg",
     "text": "Large-scale cubane synthesis requiring extensive bromine production and handling",
     "url": "https://www.youtube.com/watch?v=BA9dS5_8vkg",
     "source": "Extractions&Ire",
-    "timestamp": "2025-03-29T22:54:37Z"
+    "timestamp": "2025-03-29T22:54:37Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvFApMFo_AafXbHRyEJefjA"
   },
   {
     "id": "yt:video:a89ZjvJSakE",
     "text": "Investigation into potentially disturbing or cursed PlayStation games from the console's library.",
     "url": "https://www.youtube.com/watch?v=a89ZjvJSakE",
     "source": "hazel",
-    "timestamp": "2025-03-26T15:00:00Z"
+    "timestamp": "2025-03-26T15:00:00Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjNErCQgCndSOl6t33m1-nQ"
+  },
+  {
+    "id": "yt:video:yWtpiTRk3o4",
+    "text": "Low poly cat doing the silly sideways scurry dash across the floor",
+    "url": "https://www.youtube.com/watch?v=yWtpiTRk3o4",
+    "source": "Geo H3x",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC49OtA0LUUvQAP-igakbSlQ",
+    "timestamp": "2025-03-17T18:51:48Z"
+  },
+  {
+    "id": "yt:video:cclQl6JeZOg",
+    "text": "Boron-doped diamond electrode perchlorate cell using split system electrochemistry on sodium chloride solution.",
+    "url": "https://www.youtube.com/watch?v=cclQl6JeZOg",
+    "source": "Scrap Science",
+    "timestamp": "2025-03-09T12:16:56Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYLvqqVn7Un9lafEXwSW4mA"
   },
   {
     "id": "yt:video:2lK2X_f2BhA",
     "text": "Exploring multiple multiplication structures on integers through categorification and braided monoidal categories.",
     "url": "https://www.youtube.com/watch?v=2lK2X_f2BhA",
     "source": "Sheafification of G",
-    "timestamp": "2025-03-07T14:30:01Z"
+    "timestamp": "2025-03-07T14:30:01Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6_J0wZdqcoRVs0Mck922SQ"
   },
   {
     "id": "yt:video:9KJLWwbs_cQ",
     "text": "LED-based Fourier ptychography technique reconstructs super-resolution microscopy images from hundreds of low-resolution captures.",
     "url": "https://www.youtube.com/watch?v=9KJLWwbs_cQ",
     "source": "Applied Science",
-    "timestamp": "2025-03-03T00:23:39Z"
+    "timestamp": "2025-03-03T00:23:39Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCivA7_KLKWo43tFcCkFvydw"
+  },
+  {
+    "id": "yt:video:o1VjHIe8X-s",
+    "text": "Nose bleeding from memory of yesterday, set to \"Credo\" by Jimmy W from Disillusion ST",
+    "url": "https://www.youtube.com/watch?v=o1VjHIe8X-s",
+    "source": "Geo H3x",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC49OtA0LUUvQAP-igakbSlQ",
+    "timestamp": "2025-02-11T16:32:50Z"
+  },
+  {
+    "id": "yt:video:hANRZZp3zsw",
+    "text": "Microwave transformer converted to high-current AC power supply for melting metals via resistively heated graphite rod.",
+    "url": "https://www.youtube.com/watch?v=hANRZZp3zsw",
+    "source": "Scrap Science",
+    "timestamp": "2025-02-08T11:05:56Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYLvqqVn7Un9lafEXwSW4mA"
   },
   {
     "id": "yt:video:7WT0qZdHT5M",
     "text": "Doped yttrium oxide synthesis for upconversion fluorescence, attempting infrared to visible light conversion",
     "url": "https://www.youtube.com/watch?v=7WT0qZdHT5M",
     "source": "Extractions&Ire",
-    "timestamp": "2025-02-08T09:46:08Z"
+    "timestamp": "2025-02-08T09:46:08Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvFApMFo_AafXbHRyEJefjA"
   },
   {
     "id": "yt:video:JelDmoj6BW4",
     "text": "Surreal parody where an unseen antagonist torments the creator through reality-warping chaos, inspired by classic cartoon anarchy.",
     "url": "https://www.youtube.com/watch?v=JelDmoj6BW4",
     "source": "Camille Cooke",
-    "timestamp": "2025-02-03T20:40:37Z"
+    "timestamp": "2025-02-03T20:40:37Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-oTbS-PARG-kASUBRoCIUQ"
   },
   {
     "id": "yt:video:DQv0nlGsW-s",
     "text": "Extreme f/0.38 camera lens built by coupling bare CMOS sensor to microscope objective with optical immersion oil.",
     "url": "https://www.youtube.com/watch?v=DQv0nlGsW-s",
     "source": "Applied Science",
-    "timestamp": "2025-02-01T04:05:43Z"
+    "timestamp": "2025-02-01T04:05:43Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCivA7_KLKWo43tFcCkFvydw"
   },
   {
     "id": "yt:video:LXm6ygZ3h7A",
     "text": "Programming language migration to C with performance optimizations and algorithmic techniques for computational efficiency.",
     "url": "https://www.youtube.com/watch?v=LXm6ygZ3h7A",
     "source": "Sheafification of G",
-    "timestamp": "2025-01-24T14:30:12Z"
+    "timestamp": "2025-01-24T14:30:12Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6_J0wZdqcoRVs0Mck922SQ"
   },
   {
     "id": "yt:video:cLv7NJrypnA",
     "text": "Creator revisiting and re-uploading archived TikTok content before potential platform shutdown.",
     "url": "https://www.youtube.com/shorts/cLv7NJrypnA",
     "source": "Camille Cooke",
-    "timestamp": "2025-01-18T17:39:23Z"
+    "timestamp": "2025-01-18T17:39:23Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-oTbS-PARG-kASUBRoCIUQ"
   },
   {
     "id": "yt:video:R5F9Uu3lTqY",
     "text": "Anxious figure trapped in stillness, contemplating connection and isolation through minimalist tension.",
     "url": "https://www.youtube.com/shorts/R5F9Uu3lTqY",
     "source": "Camille Cooke",
-    "timestamp": "2025-01-18T17:36:38Z"
+    "timestamp": "2025-01-18T17:36:38Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-oTbS-PARG-kASUBRoCIUQ"
   },
   {
     "id": "yt:video:8QKJ6-EJGAk",
     "text": "Experimental short film exploring unconventional narrative and visual techniques.",
     "url": "https://www.youtube.com/shorts/8QKJ6-EJGAk",
     "source": "Camille Cooke",
-    "timestamp": "2025-01-18T17:34:59Z"
+    "timestamp": "2025-01-18T17:34:59Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-oTbS-PARG-kASUBRoCIUQ"
+  },
+  {
+    "id": "yt:video:amy9hzIoqHQ",
+    "text": "Synthesizing hydrobromic acid via sodium bromide and bisulfate reaction, with fractional distillation purification to azeotropic concentrati",
+    "url": "https://www.youtube.com/watch?v=amy9hzIoqHQ",
+    "source": "Scrap Science",
+    "timestamp": "2025-01-12T11:36:35Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYLvqqVn7Un9lafEXwSW4mA"
   },
   {
     "id": "yt:video:HmbKG4_xc5I",
     "text": "Early cinema pioneers' work examined through contemporary viewer's response and commentary.",
     "url": "https://www.youtube.com/shorts/HmbKG4_xc5I",
     "source": "Camille Cooke",
-    "timestamp": "2025-01-11T15:03:58Z"
+    "timestamp": "2025-01-11T15:03:58Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-oTbS-PARG-kASUBRoCIUQ"
   },
   {
     "id": "yt:video:5Xl230o_Bhg",
     "text": "Philosophical critique of why mathematics feels meaningless and challenges common misconceptions about mathematical understanding and proof.",
     "url": "https://www.youtube.com/watch?v=5Xl230o_Bhg",
     "source": "Sheafification of G",
-    "timestamp": "2025-01-03T14:30:06Z"
+    "timestamp": "2025-01-03T14:30:06Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6_J0wZdqcoRVs0Mck922SQ"
   },
   {
     "id": "yt:video:uEypxvr5RWY",
     "text": "Creator digitally inserts themselves into classic Hitchcock scenes, exploring copyright challenges of fan recreation series.",
     "url": "https://www.youtube.com/watch?v=uEypxvr5RWY",
     "source": "Camille Cooke",
-    "timestamp": "2025-01-01T23:38:03Z"
+    "timestamp": "2025-01-01T23:38:03Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-oTbS-PARG-kASUBRoCIUQ"
   },
   {
     "id": "yt:video:kiuXasyB3L0",
     "text": "Sugar crystals that spontaneously shift between sweet and bitter tasting forms through molecular rearrangement.",
     "url": "https://www.youtube.com/watch?v=kiuXasyB3L0",
     "source": "Applied Science",
-    "timestamp": "2025-01-01T00:29:55Z"
+    "timestamp": "2025-01-01T00:29:55Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCivA7_KLKWo43tFcCkFvydw"
   },
   {
     "id": "yt:video:wepageDzQhw",
     "text": "Ketal synthesis as initial steps toward cubane construction, evaluating reaction quality and methodology.",
     "url": "https://www.youtube.com/watch?v=wepageDzQhw",
     "source": "Extractions&Ire",
-    "timestamp": "2024-12-29T21:26:22Z"
+    "timestamp": "2024-12-29T21:26:22Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvFApMFo_AafXbHRyEJefjA"
   },
   {
     "id": "https://mesityl.substack.com/p/permanent-hair-removal-2-sirna-boogaloo",
     "text": "Experimental siRNA approach to achieving permanent hair removal through gene silencing, building on prior research.",
     "url": "https://mesityl.substack.com/p/permanent-hair-removal-2-sirna-boogaloo",
     "source": "Mesityl Oxide",
-    "timestamp": "2024-12-29T04:13:36Z"
+    "timestamp": "2024-12-29T04:13:36Z",
+    "feed_url": "https://mesityl.substack.com/feed"
   },
   {
     "id": "yt:video:ZDeCykE2NpI",
     "text": "Humorous animated recreation of founding fathers participating in modern video call.",
     "url": "https://www.youtube.com/shorts/ZDeCykE2NpI",
     "source": "Camille Cooke",
-    "timestamp": "2024-12-15T20:01:32Z"
+    "timestamp": "2024-12-15T20:01:32Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-oTbS-PARG-kASUBRoCIUQ"
   },
   {
     "id": "yt:video:UgVbcnbTMVs",
     "text": "Early 1900s factory child labor footage, rare archival material digitized for YouTube Shorts.",
     "url": "https://www.youtube.com/shorts/UgVbcnbTMVs",
     "source": "Camille Cooke",
-    "timestamp": "2024-12-15T15:38:26Z"
+    "timestamp": "2024-12-15T15:38:26Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-oTbS-PARG-kASUBRoCIUQ"
   },
   {
     "id": "yt:video:BXeEew6gDug",
     "text": "Cubane synthesis project introduction addressing technical challenges and obstacles.",
     "url": "https://www.youtube.com/watch?v=BXeEew6gDug",
     "source": "Extractions&Ire",
-    "timestamp": "2024-12-15T11:50:13Z"
+    "timestamp": "2024-12-15T11:50:13Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvFApMFo_AafXbHRyEJefjA"
+  },
+  {
+    "id": "yt:video:ZmqacdXkGBA",
+    "text": "Attempted copper metal crystal growth through extremely slow electrolysis process.",
+    "url": "https://www.youtube.com/watch?v=ZmqacdXkGBA",
+    "source": "Scrap Science",
+    "timestamp": "2024-12-15T11:21:02Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYLvqqVn7Un9lafEXwSW4mA"
   },
   {
     "id": "yt:video:02rh1NjJLI4",
     "text": "Performance comparison showing Python outperforming C++ through better design choices and algorithmic optimization.",
     "url": "https://www.youtube.com/watch?v=02rh1NjJLI4",
     "source": "Sheafification of G",
-    "timestamp": "2024-12-13T14:30:00Z"
+    "timestamp": "2024-12-13T14:30:00Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6_J0wZdqcoRVs0Mck922SQ"
   },
   {
     "id": "yt:video:PFDG7gqAuzM",
     "text": "Surreal conversations exploring existence, reality, and abstract philosophical concepts through absurdist dialogue.",
     "url": "https://www.youtube.com/watch?v=PFDG7gqAuzM",
     "source": "Camille Cooke",
-    "timestamp": "2024-11-30T23:09:25Z"
+    "timestamp": "2024-11-30T23:09:25Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-oTbS-PARG-kASUBRoCIUQ"
+  },
+  {
+    "id": "yt:video:qSyj03R_d4Q",
+    "text": "Month-long electrolysis of sodium bromide using titanium cathode and platinum anode to produce sodium bromate.",
+    "url": "https://www.youtube.com/watch?v=qSyj03R_d4Q",
+    "source": "Scrap Science",
+    "timestamp": "2024-11-25T10:23:17Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYLvqqVn7Un9lafEXwSW4mA"
+  },
+  {
+    "id": "https://tomasbjartur.substack.com/p/harry-potter-and-the-rules-of-quidditch",
+    "text": "A defense of Quidditch's chaotic rules through an outsider's determined advocacy, emphasizing sport's inherent unpredictability and marginal",
+    "url": "https://tomasbjartur.substack.com/p/harry-potter-and-the-rules-of-quidditch",
+    "source": "Tom\u00e1s Bjartur",
+    "timestamp": "2024-11-23T16:21:00Z",
+    "feed_url": "https://tomasbjartur.substack.com/feed"
+  },
+  {
+    "id": "yt:video:Kqx9blbYDB0",
+    "text": "Rescued and repaired vintage JEOL JSM-5200 scanning electron microscope, operational overview and demonstrations.",
+    "url": "https://www.youtube.com/watch?v=Kqx9blbYDB0",
+    "source": "ProjectsInFlight",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkyHL2ZPgw9D4GOcPQq6Uzw",
+    "timestamp": "2024-11-23T14:00:17Z"
   },
   {
     "id": "yt:video:bD8kjpynF6A",
     "text": "Redefining algebra through monads and algebraic theories beyond traditional computational understanding",
     "url": "https://www.youtube.com/watch?v=bD8kjpynF6A",
     "source": "Sheafification of G",
-    "timestamp": "2024-11-23T00:30:18Z"
+    "timestamp": "2024-11-23T00:30:18Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6_J0wZdqcoRVs0Mck922SQ"
   },
   {
     "id": "yt:video:h1WW7e9SbFI",
     "text": "Synthesizing luminescent perovskite nanocrystals using common household materials and ball milling techniques.",
     "url": "https://www.youtube.com/watch?v=h1WW7e9SbFI",
     "source": "Extractions&Ire",
-    "timestamp": "2024-11-11T11:56:33Z"
+    "timestamp": "2024-11-11T11:56:33Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvFApMFo_AafXbHRyEJefjA"
+  },
+  {
+    "id": "yt:video:BMQ7saIxPzg",
+    "text": "Foundational electrolysis tutorial explaining core principles and techniques for electrochemical experiments.",
+    "url": "https://www.youtube.com/watch?v=BMQ7saIxPzg",
+    "source": "Scrap Science",
+    "timestamp": "2024-11-06T06:29:32Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYLvqqVn7Un9lafEXwSW4mA"
   },
   {
     "id": "yt:video:oCNQhTpyMgE",
     "text": "Introduction to colimits as limits in opposite categories, with examples including coproducts and coequalizers.",
     "url": "https://www.youtube.com/watch?v=oCNQhTpyMgE",
     "source": "Sheafification of G",
-    "timestamp": "2024-11-05T04:45:02Z"
+    "timestamp": "2024-11-05T04:45:02Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6_J0wZdqcoRVs0Mck922SQ"
+  },
+  {
+    "id": "yt:video:mg79n_ndR68",
+    "text": "Extreme 20,000-watt microwave oven with flash cooking, metal melting, and plasma generation experiments.",
+    "url": "https://www.youtube.com/watch?v=mg79n_ndR68",
+    "source": "styropyro",
+    "timestamp": "2024-10-23T18:02:28Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJYJgj7rzsn0vdR7fkgjuIA"
   },
   {
     "id": "yt:video:7zPnPWIMxtQ",
     "text": "Fluorine gas smell investigation using dilute sample, compared against naturally occurring fluorine in stinkspar mineral.",
     "url": "https://www.youtube.com/watch?v=7zPnPWIMxtQ",
     "source": "Extractions&Ire",
-    "timestamp": "2024-10-14T12:41:50Z"
+    "timestamp": "2024-10-14T12:41:50Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvFApMFo_AafXbHRyEJefjA"
   },
   {
     "id": "yt:video:SrltwGJAiCM",
     "text": "Exploring categorical duality through opposite structures, cosets, and Boolean algebras.",
     "url": "https://www.youtube.com/watch?v=SrltwGJAiCM",
     "source": "Sheafification of G",
-    "timestamp": "2024-10-11T12:00:40Z"
+    "timestamp": "2024-10-11T12:00:40Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6_J0wZdqcoRVs0Mck922SQ"
+  },
+  {
+    "id": "yt:video:qoXejhqCCyE",
+    "text": "Surreal clown figure in liminal void space, yearning for connection and recognition through isolation.",
+    "url": "https://www.youtube.com/watch?v=qoXejhqCCyE",
+    "source": "Geo H3x",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC49OtA0LUUvQAP-igakbSlQ",
+    "timestamp": "2024-10-03T22:14:16Z"
   },
   {
     "id": "yt:video:akOSeXLtIWo",
     "text": "Compilation of obscure and unsettling anime titles discovered on VHS tapes, contrasted with more mainstream beloved series.",
     "url": "https://www.youtube.com/watch?v=akOSeXLtIWo",
     "source": "hazel",
-    "timestamp": "2024-10-01T19:00:03Z"
+    "timestamp": "2024-10-01T19:00:03Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjNErCQgCndSOl6t33m1-nQ"
+  },
+  {
+    "id": "yt:video:1dFj-tGn8DI",
+    "text": "Homemade spin-on dopant formulation for semiconductor diffusion doping process",
+    "url": "https://www.youtube.com/watch?v=1dFj-tGn8DI",
+    "source": "ProjectsInFlight",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkyHL2ZPgw9D4GOcPQq6Uzw",
+    "timestamp": "2024-09-21T21:19:37Z"
+  },
+  {
+    "id": "yt:video:EXLfrqStsfM",
+    "text": "Stove igniting a cigarette in low poly style with quirky humor",
+    "url": "https://www.youtube.com/watch?v=EXLfrqStsfM",
+    "source": "Geo H3x",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC49OtA0LUUvQAP-igakbSlQ",
+    "timestamp": "2024-09-13T22:03:27Z"
+  },
+  {
+    "id": "yt:video:oC--fQr6ovM",
+    "text": "Explanation of semiconductor doping: impurities, conductivity effects, dopant materials, and industrial processes.",
+    "url": "https://www.youtube.com/watch?v=oC--fQr6ovM",
+    "source": "ProjectsInFlight",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkyHL2ZPgw9D4GOcPQq6Uzw",
+    "timestamp": "2024-08-16T14:00:46Z"
+  },
+  {
+    "id": "yt:video:immWC2GyY9E",
+    "text": "Salem the cat finds comfort with a clown friend in a liminal space.",
+    "url": "https://www.youtube.com/watch?v=immWC2GyY9E",
+    "source": "Geo H3x",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC49OtA0LUUvQAP-igakbSlQ",
+    "timestamp": "2024-08-13T22:11:47Z"
+  },
+  {
+    "id": "yt:video:BBunAHi6iQo",
+    "text": "A squid receives an unexpected visitor in a surreal, minimalist encounter.",
+    "url": "https://www.youtube.com/watch?v=BBunAHi6iQo",
+    "source": "Geo H3x",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC49OtA0LUUvQAP-igakbSlQ",
+    "timestamp": "2024-08-11T19:46:58Z"
+  },
+  {
+    "id": "yt:video:h5nbIpndZzw",
+    "text": "Person visiting a mysterious squid in an eerie, unsettling liminal space environment.",
+    "url": "https://www.youtube.com/watch?v=h5nbIpndZzw",
+    "source": "Geo H3x",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC49OtA0LUUvQAP-igakbSlQ",
+    "timestamp": "2024-08-10T17:25:36Z"
   },
   {
     "id": "yt:video:-gltQlXeYKY",
     "text": "Microwave furnace synthesis of fluorescent tellurium dioxide glass from raw tellurium metal.",
     "url": "https://www.youtube.com/watch?v=-gltQlXeYKY",
     "source": "Extractions&Ire",
-    "timestamp": "2024-08-02T16:29:10Z"
+    "timestamp": "2024-08-02T16:29:10Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvFApMFo_AafXbHRyEJefjA"
+  },
+  {
+    "id": "yt:video:-yzD92GvZHI",
+    "text": "Colorful PS1-style jester character performing juggling tricks with playful, rhythmic movements.",
+    "url": "https://www.youtube.com/watch?v=-yzD92GvZHI",
+    "source": "Geo H3x",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC49OtA0LUUvQAP-igakbSlQ",
+    "timestamp": "2024-07-23T21:25:44Z"
+  },
+  {
+    "id": "yt:video:5nutT71xexQ",
+    "text": "End credit screen featuring playful mischievous creatures in geometric style.",
+    "url": "https://www.youtube.com/watch?v=5nutT71xexQ",
+    "source": "Geo H3x",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC49OtA0LUUvQAP-igakbSlQ",
+    "timestamp": "2024-07-22T21:12:35Z"
   },
   {
     "id": "yt:video:UIqhpxul_og",
     "text": "Desktop SLS 3D printer fabricates conductive circuits using nylon, catalyst powder, and electroless copper plating.",
     "url": "https://www.youtube.com/watch?v=UIqhpxul_og",
     "source": "Applied Science",
-    "timestamp": "2024-06-13T17:15:02Z"
+    "timestamp": "2024-06-13T17:15:02Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCivA7_KLKWo43tFcCkFvydw"
+  },
+  {
+    "id": "yt:video:1162ouPHH3Q",
+    "text": "High-voltage enthusiast gets physically ill while chasing tornadoes in dangerous weather conditions.",
+    "url": "https://www.youtube.com/watch?v=1162ouPHH3Q",
+    "source": "styropyro",
+    "timestamp": "2024-06-06T18:28:02Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJYJgj7rzsn0vdR7fkgjuIA"
   },
   {
     "id": "https://mesityl.substack.com/p/silly-tests",
     "text": "Personal psychometric testing analysis tracking personality, cognitive, and political trait changes over years, with critical methodological",
     "url": "https://mesityl.substack.com/p/silly-tests",
     "source": "Mesityl Oxide",
-    "timestamp": "2024-05-19T01:20:29Z"
+    "timestamp": "2024-05-19T01:20:29Z",
+    "feed_url": "https://mesityl.substack.com/feed"
   },
   {
     "id": "yt:video:Nkf-eMdJ6Is",
     "text": "Quantum dot synthesis using unconventional olive oil solvent instead of standard laboratory solvents.",
     "url": "https://www.youtube.com/watch?v=Nkf-eMdJ6Is",
     "source": "Extractions&Ire",
-    "timestamp": "2024-05-16T13:32:55Z"
+    "timestamp": "2024-05-16T13:32:55Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvFApMFo_AafXbHRyEJefjA"
   },
   {
     "id": "https://mesityl.substack.com/p/tea-logbook",
     "text": "Personal tea tasting log with poetic, imaginative descriptions of various East Asian varieties and origins.",
     "url": "https://mesityl.substack.com/p/tea-logbook",
     "source": "Mesityl Oxide",
-    "timestamp": "2024-05-11T21:47:23Z"
+    "timestamp": "2024-05-11T21:47:23Z",
+    "feed_url": "https://mesityl.substack.com/feed"
+  },
+  {
+    "id": "yt:video:-lHXZk5M6cI",
+    "text": "Quantum explanation of semiconductor bandgaps using electron wave function properties and band theory fundamentals.",
+    "url": "https://www.youtube.com/watch?v=-lHXZk5M6cI",
+    "source": "ProjectsInFlight",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkyHL2ZPgw9D4GOcPQq6Uzw",
+    "timestamp": "2024-04-06T15:00:00Z"
   },
   {
     "id": "https://mesityl.substack.com/p/unconventional-methods-of-epilation",
     "text": "Pharmacological hair removal techniques explored through DIY biohacking lens with trans feminine applications.",
     "url": "https://mesityl.substack.com/p/unconventional-methods-of-epilation",
     "source": "Mesityl Oxide",
-    "timestamp": "2024-03-19T07:49:39Z"
+    "timestamp": "2024-03-19T07:49:39Z",
+    "feed_url": "https://mesityl.substack.com/feed"
   },
   {
     "id": "yt:video:HuD_zzgMdtk",
     "text": "Microwave synthesis of bismuth germanate glass from pure germanium using chlorine gas.",
     "url": "https://www.youtube.com/watch?v=HuD_zzgMdtk",
     "source": "Extractions&Ire",
-    "timestamp": "2024-03-10T11:16:13Z"
+    "timestamp": "2024-03-10T11:16:13Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvFApMFo_AafXbHRyEJefjA"
   },
   {
     "id": "yt:video:ew8p2RUZH6U",
     "text": "Cubane project conclusion with retrospective analysis, Q&A session, and merchandise announcement.",
     "url": "https://www.youtube.com/watch?v=ew8p2RUZH6U",
     "source": "Extractions&Ire",
-    "timestamp": "2024-02-19T12:17:56Z"
+    "timestamp": "2024-02-19T12:17:56Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvFApMFo_AafXbHRyEJefjA"
   },
   {
     "id": "yt:video:BmzCsJUH2m8",
     "text": "Multi-year amateur synthesis journey attempting to construct cubane molecule from backyard chemistry setup.",
     "url": "https://www.youtube.com/watch?v=BmzCsJUH2m8",
     "source": "Extractions&Ire",
-    "timestamp": "2024-02-18T23:00:08Z"
+    "timestamp": "2024-02-18T23:00:08Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvFApMFo_AafXbHRyEJefjA"
+  },
+  {
+    "id": "yt:video:xNmbvaUzC8Q",
+    "text": "Converted industrial fiber laser welder into backyard-mounted directed energy weapon turret.",
+    "url": "https://www.youtube.com/watch?v=xNmbvaUzC8Q",
+    "source": "styropyro",
+    "timestamp": "2024-01-25T20:00:02Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJYJgj7rzsn0vdR7fkgjuIA"
+  },
+  {
+    "id": "yt:video:WHHA6nUmja0",
+    "text": "Custom vacuum flanges for high-temperature tube furnace with atmospheric control experiments and failures.",
+    "url": "https://www.youtube.com/watch?v=WHHA6nUmja0",
+    "source": "ProjectsInFlight",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkyHL2ZPgw9D4GOcPQq6Uzw",
+    "timestamp": "2024-01-20T14:00:20Z"
   },
   {
     "id": "https://mesityl.substack.com/p/some-thoughts-philosophical",
     "text": "Philosophical examination of doubt, skepticism, and critical thinking within DIY biology practice",
     "url": "https://mesityl.substack.com/p/some-thoughts-philosophical",
     "source": "Mesityl Oxide",
-    "timestamp": "2023-12-31T22:00:28Z"
+    "timestamp": "2023-12-31T22:00:28Z",
+    "feed_url": "https://mesityl.substack.com/feed"
+  },
+  {
+    "id": "yt:video:Ddd_-4D76do",
+    "text": "Experimental techniques for depositing metal conductors on silicon at hobbyist scale.",
+    "url": "https://www.youtube.com/watch?v=Ddd_-4D76do",
+    "source": "ProjectsInFlight",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkyHL2ZPgw9D4GOcPQq6Uzw",
+    "timestamp": "2023-11-30T16:31:28Z"
   },
   {
     "id": "https://mesityl.substack.com/p/vial-coring-ampoule-shards-reusing",
     "text": "Practical guide to injection safety: vial coring, ampoule glass shards, needle reuse risks and best practices.",
     "url": "https://mesityl.substack.com/p/vial-coring-ampoule-shards-reusing",
     "source": "Mesityl Oxide",
-    "timestamp": "2023-11-25T01:09:56Z"
+    "timestamp": "2023-11-25T01:09:56Z",
+    "feed_url": "https://mesityl.substack.com/feed"
   },
   {
     "id": "https://mesityl.substack.com/p/permanent-hair-removal-through-rna",
     "text": "Self-directed siRNA treatment targeting hair follicles, practical protocols for at-home gene silencing applications.",
     "url": "https://mesityl.substack.com/p/permanent-hair-removal-through-rna",
     "source": "Mesityl Oxide",
-    "timestamp": "2023-11-13T01:42:31Z"
+    "timestamp": "2023-11-13T01:42:31Z",
+    "feed_url": "https://mesityl.substack.com/feed"
+  },
+  {
+    "id": "yt:video:Kx1TenvQXTg",
+    "text": "Laser printer and PCB chemicals for silicon photolithography with experimental results.",
+    "url": "https://www.youtube.com/watch?v=Kx1TenvQXTg",
+    "source": "ProjectsInFlight",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkyHL2ZPgw9D4GOcPQq6Uzw",
+    "timestamp": "2023-10-15T03:07:47Z"
+  },
+  {
+    "id": "yt:video:ywaTX-nLm6Y",
+    "text": "Massive parallel battery array producing current exceeding lightning strike levels",
+    "url": "https://www.youtube.com/watch?v=ywaTX-nLm6Y",
+    "source": "styropyro",
+    "timestamp": "2023-10-05T17:50:01Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJYJgj7rzsn0vdR7fkgjuIA"
   },
   {
     "id": "yt:video:1xhhql_gpDY",
     "text": "Creepypasta retrospective examining the internet horror genre's evolution and cultural impact with collaborative creator interviews.",
     "url": "https://www.youtube.com/watch?v=1xhhql_gpDY",
     "source": "hazel",
-    "timestamp": "2023-10-03T23:13:22Z"
+    "timestamp": "2023-10-03T23:13:22Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjNErCQgCndSOl6t33m1-nQ"
   },
   {
     "id": "https://mesityl.substack.com/p/the-double-edged-sword-of-impostor",
     "text": "Exploring how impostor syndrome affects career choices between specialization and broad skill development.",
     "url": "https://mesityl.substack.com/p/the-double-edged-sword-of-impostor",
     "source": "Mesityl Oxide",
-    "timestamp": "2023-09-30T02:29:23Z"
+    "timestamp": "2023-09-30T02:29:23Z",
+    "feed_url": "https://mesityl.substack.com/feed"
+  },
+  {
+    "id": "yt:video:UTXApNlG4Yw",
+    "text": "Testing accessible hydrofluoric acid sources for etching silicon dioxide layers safely.",
+    "url": "https://www.youtube.com/watch?v=UTXApNlG4Yw",
+    "source": "ProjectsInFlight",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkyHL2ZPgw9D4GOcPQq6Uzw",
+    "timestamp": "2023-09-16T16:00:20Z"
   },
   {
     "id": "yt:video:96YimpRHQHs",
     "text": "Personal ranking of beloved Pokemon locations with nostalgic visual and audio aesthetic",
     "url": "https://www.youtube.com/watch?v=96YimpRHQHs",
     "source": "hazel",
-    "timestamp": "2023-09-04T18:01:52Z"
+    "timestamp": "2023-09-04T18:01:52Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjNErCQgCndSOl6t33m1-nQ"
+  },
+  {
+    "id": "yt:video:NCR4lBgu_z0",
+    "text": "Thermal oxidation of silicon wafers to create interference-colored oxide layers with thickness verification techniques.",
+    "url": "https://www.youtube.com/watch?v=NCR4lBgu_z0",
+    "source": "ProjectsInFlight",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkyHL2ZPgw9D4GOcPQq6Uzw",
+    "timestamp": "2023-09-02T00:08:25Z"
   },
   {
     "id": "yt:video:-qETedzsFIE",
     "text": "Creating photographic images using living plant leaves as optical elements and light-sensitive recording medium.",
     "url": "https://www.youtube.com/watch?v=-qETedzsFIE",
     "source": "Applied Science",
-    "timestamp": "2023-08-27T02:12:29Z"
+    "timestamp": "2023-08-27T02:12:29Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCivA7_KLKWo43tFcCkFvydw"
   },
   {
     "id": "yt:video:biV2AEvOH_8",
     "text": "Unsettling aesthetic analysis of obscure tokusatsu heroines from forgotten Japanese television series",
     "url": "https://www.youtube.com/watch?v=biV2AEvOH_8",
     "source": "hazel",
-    "timestamp": "2023-08-15T19:52:01Z"
+    "timestamp": "2023-08-15T19:52:01Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjNErCQgCndSOl6t33m1-nQ"
+  },
+  {
+    "id": "yt:video:oqOlrGPgng8",
+    "text": "DIY high-temperature tube furnace reaching 1200\u00b0C for semiconductor device fabrication from scratch.",
+    "url": "https://www.youtube.com/watch?v=oqOlrGPgng8",
+    "source": "ProjectsInFlight",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkyHL2ZPgw9D4GOcPQq6Uzw",
+    "timestamp": "2023-08-14T06:50:38Z"
   },
   {
     "id": "https://mesityl.substack.com/p/aspirations-anxieties-restlessness",
     "text": "Personal essay on motivation cycles, information overwhelm, and academic anxiety without central theme.",
     "url": "https://mesityl.substack.com/p/aspirations-anxieties-restlessness",
     "source": "Mesityl Oxide",
-    "timestamp": "2023-08-09T16:45:17Z"
+    "timestamp": "2023-08-09T16:45:17Z",
+    "feed_url": "https://mesityl.substack.com/feed"
   },
   {
     "id": "yt:video:-cAB5FG4bXI",
     "text": "DIY chemical test measuring lead leaching from crystal glassware and health safety implications.",
     "url": "https://www.youtube.com/watch?v=-cAB5FG4bXI",
     "source": "Applied Science",
-    "timestamp": "2023-07-06T04:59:35Z"
+    "timestamp": "2023-07-06T04:59:35Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCivA7_KLKWo43tFcCkFvydw"
   },
   {
     "id": "yt:video:eGj4jfYhDxA",
     "text": "Nanoscale aluminum-nickel reactive foil sheet that self-propagates exothermic reaction for instantaneous fluxless soldering.",
     "url": "https://www.youtube.com/watch?v=eGj4jfYhDxA",
     "source": "Applied Science",
-    "timestamp": "2023-05-28T22:59:25Z"
+    "timestamp": "2023-05-28T22:59:25Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCivA7_KLKWo43tFcCkFvydw"
   },
   {
     "id": "https://mesityl.substack.com/p/personalising-android",
     "text": "Comprehensive guide to customizing Android phones for privacy, functionality, and aesthetics using open-source alternatives and careful conf",
     "url": "https://mesityl.substack.com/p/personalising-android",
     "source": "Mesityl Oxide",
-    "timestamp": "2023-05-15T20:12:05Z"
+    "timestamp": "2023-05-15T20:12:05Z",
+    "feed_url": "https://mesityl.substack.com/feed"
   },
   {
     "id": "https://mesityl.substack.com/p/welcome-to-the-kitten-den",
     "text": "Personal introduction to the author, establishing voice and perspective for the newsletter.",
     "url": "https://mesityl.substack.com/p/welcome-to-the-kitten-den",
     "source": "Mesityl Oxide",
-    "timestamp": "2023-05-04T18:43:33Z"
+    "timestamp": "2023-05-04T18:43:33Z",
+    "feed_url": "https://mesityl.substack.com/feed"
   },
   {
     "id": "yt:video:Ba1hdS_lN5I",
     "text": "Deep dive into FLCL's cultural impact, production history, and enduring influence on anime and internet aesthetics.",
     "url": "https://www.youtube.com/watch?v=Ba1hdS_lN5I",
     "source": "hazel",
-    "timestamp": "2023-04-17T18:59:10Z"
+    "timestamp": "2023-04-17T18:59:10Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjNErCQgCndSOl6t33m1-nQ"
+  },
+  {
+    "id": "yt:video:fIM6943BSRA",
+    "text": "Experimenting with hazardous 1933 chemical formulas including cyanide, arsenic, mercury, and chloroform compounds.",
+    "url": "https://www.youtube.com/watch?v=fIM6943BSRA",
+    "source": "styropyro",
+    "timestamp": "2023-04-10T18:00:03Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJYJgj7rzsn0vdR7fkgjuIA"
   },
   {
     "id": "yt:video:nh1SIfipQs4",
     "text": "Wireless temperature-sensing RFID tag embedded in magnetic stir bar with open-sourced PCB design and firmware.",
     "url": "https://www.youtube.com/watch?v=nh1SIfipQs4",
     "source": "Applied Science",
-    "timestamp": "2023-04-10T02:23:02Z"
+    "timestamp": "2023-04-10T02:23:02Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCivA7_KLKWo43tFcCkFvydw"
   },
   {
     "id": "https://mesityl.substack.com/p/orchiectomy-part-2",
     "text": "Second installment documenting surgical castration procedure with detailed visual documentation of the operation.",
     "url": "https://mesityl.substack.com/p/orchiectomy-part-2",
     "source": "Mesityl Oxide",
-    "timestamp": "2023-03-27T13:31:06Z"
+    "timestamp": "2023-03-27T13:31:06Z",
+    "feed_url": "https://mesityl.substack.com/feed"
   },
   {
     "id": "https://mesityl.substack.com/p/epidemiological-modelling",
     "text": "SIR epidemiological modelling with computational methods, applied to historical Black Death data from Eyam village.",
     "url": "https://mesityl.substack.com/p/epidemiological-modelling",
     "source": "Mesityl Oxide",
-    "timestamp": "2023-03-17T00:46:45Z"
+    "timestamp": "2023-03-17T00:46:45Z",
+    "feed_url": "https://mesityl.substack.com/feed"
   },
   {
     "id": "yt:video:I5OWj6EJdvU",
     "text": "Tier ranking of anime featuring Denny's restaurants as settings or plot elements.",
     "url": "https://www.youtube.com/watch?v=I5OWj6EJdvU",
     "source": "hazel",
-    "timestamp": "2023-03-13T19:00:06Z"
+    "timestamp": "2023-03-13T19:00:06Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjNErCQgCndSOl6t33m1-nQ"
   },
   {
     "id": "https://mesityl.substack.com/p/grignard-reagents",
     "text": "Organic chemistry synthesis method for creating carbon-carbon bonds via metallic reagents.",
     "url": "https://mesityl.substack.com/p/grignard-reagents",
     "source": "Mesityl Oxide",
-    "timestamp": "2023-02-08T23:38:05Z"
+    "timestamp": "2023-02-08T23:38:05Z",
+    "feed_url": "https://mesityl.substack.com/feed"
+  },
+  {
+    "id": "yt:video:BGD-oSwJv3E",
+    "text": "Thorough explanation of whether voltage or amperage is the lethal factor in electrical injuries, addressing professional controversy.",
+    "url": "https://www.youtube.com/watch?v=BGD-oSwJv3E",
+    "source": "styropyro",
+    "timestamp": "2023-02-02T21:23:14Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJYJgj7rzsn0vdR7fkgjuIA"
   },
   {
     "id": "yt:video:JO_EHceV9sk",
     "text": "Building working NQR spectrometer for chemical identification using radio frequencies instead of magnetic fields.",
     "url": "https://www.youtube.com/watch?v=JO_EHceV9sk",
     "source": "Applied Science",
-    "timestamp": "2023-01-23T05:53:29Z"
+    "timestamp": "2023-01-23T05:53:29Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCivA7_KLKWo43tFcCkFvydw"
   },
   {
     "id": "https://mesityl.substack.com/p/hair-pigmentation",
     "text": "Exploring biological mechanisms of hair color, greying processes, and chemical dyeing methods.",
     "url": "https://mesityl.substack.com/p/hair-pigmentation",
     "source": "Mesityl Oxide",
-    "timestamp": "2023-01-22T23:44:52Z"
+    "timestamp": "2023-01-22T23:44:52Z",
+    "feed_url": "https://mesityl.substack.com/feed"
   },
   {
     "id": "https://mesityl.substack.com/p/slimegirl-physics",
     "text": "Physics analysis of mythical slimegirl morphing capabilities and pressure tolerance limits.",
     "url": "https://mesityl.substack.com/p/slimegirl-physics",
     "source": "Mesityl Oxide",
-    "timestamp": "2023-01-16T13:59:18Z"
+    "timestamp": "2023-01-16T13:59:18Z",
+    "feed_url": "https://mesityl.substack.com/feed"
   },
   {
     "id": "https://mesityl.substack.com/p/managing-androgenic-alopecia",
     "text": "Comprehensive guide to androgenic alopecia causes and treatments, covering pharmaceutical options, adjuvant therapies, and experimental appr",
     "url": "https://mesityl.substack.com/p/managing-androgenic-alopecia",
     "source": "Mesityl Oxide",
-    "timestamp": "2023-01-15T01:08:56Z"
+    "timestamp": "2023-01-15T01:08:56Z",
+    "feed_url": "https://mesityl.substack.com/feed"
   },
   {
     "id": "https://mesityl.substack.com/p/anatomy-of-the-hair-follicle",
     "text": "Foundational overview of hair follicle structure and biology for self-modification practitioners.",
     "url": "https://mesityl.substack.com/p/anatomy-of-the-hair-follicle",
     "source": "Mesityl Oxide",
-    "timestamp": "2023-01-03T23:53:07Z"
+    "timestamp": "2023-01-03T23:53:07Z",
+    "feed_url": "https://mesityl.substack.com/feed"
   },
   {
     "id": "https://mesityl.substack.com/p/treating-folliculitis",
     "text": "DIY treatment of persistent folliculitis using dermoscopy, topical antiseptics, and rigorous hygiene protocols instead of systemic antibioti",
     "url": "https://mesityl.substack.com/p/treating-folliculitis",
     "source": "Mesityl Oxide",
-    "timestamp": "2023-01-01T19:29:21Z"
+    "timestamp": "2023-01-01T19:29:21Z",
+    "feed_url": "https://mesityl.substack.com/feed"
   },
   {
     "id": "https://mesityl.substack.com/p/orchiectomy",
     "text": "Surgical castration guide emphasizing self-administered approach and trans feminine body modification techniques.",
     "url": "https://mesityl.substack.com/p/orchiectomy",
     "source": "Mesityl Oxide",
-    "timestamp": "2023-01-01T18:57:37Z"
+    "timestamp": "2023-01-01T18:57:37Z",
+    "feed_url": "https://mesityl.substack.com/feed"
   },
   {
     "id": "yt:video:Zg7M_PnH8TM",
     "text": "Deep dive into Lucky Star's cultural impact and legacy within anime fandom history.",
     "url": "https://www.youtube.com/watch?v=Zg7M_PnH8TM",
     "source": "hazel",
-    "timestamp": "2022-12-16T20:00:20Z"
+    "timestamp": "2022-12-16T20:00:20Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjNErCQgCndSOl6t33m1-nQ"
+  },
+  {
+    "id": "yt:video:qxNICce11Cw",
+    "text": "Extreme high-power laser pointer constructed to unprecedented brightness levels",
+    "url": "https://www.youtube.com/watch?v=qxNICce11Cw",
+    "source": "styropyro",
+    "timestamp": "2022-12-05T21:20:37Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJYJgj7rzsn0vdR7fkgjuIA"
   },
   {
     "id": "yt:video:bR9EN3kUlfg",
     "text": "Photochemical machining techniques for creating precision sheet metal parts with improved edge quality.",
     "url": "https://www.youtube.com/watch?v=bR9EN3kUlfg",
     "source": "Applied Science",
-    "timestamp": "2022-11-04T03:30:23Z"
+    "timestamp": "2022-11-04T03:30:23Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCivA7_KLKWo43tFcCkFvydw"
+  },
+  {
+    "id": "yt:video:C5j-w0-Lx2g",
+    "text": "Explosion-proof rocket motor test stand with thrust data collection and safety containment design.",
+    "url": "https://www.youtube.com/watch?v=C5j-w0-Lx2g",
+    "source": "ProjectsInFlight",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkyHL2ZPgw9D4GOcPQq6Uzw",
+    "timestamp": "2022-11-02T01:24:52Z"
+  },
+  {
+    "id": "yt:video:OCFmQd15SRo",
+    "text": "Recreating bizarre and dangerous 1933 chemical formulas: uranium crayons, cold fire, cyanide coffee, magnetizable mercury, and more.",
+    "url": "https://www.youtube.com/watch?v=OCFmQd15SRo",
+    "source": "styropyro",
+    "timestamp": "2022-08-23T00:42:52Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJYJgj7rzsn0vdR7fkgjuIA"
+  },
+  {
+    "id": "yt:video:fM9hYzJnao0",
+    "text": "Converted microwave into 700W blue laser oven for cooking food, replacing magnetron with laser diode arrays.",
+    "url": "https://www.youtube.com/watch?v=fM9hYzJnao0",
+    "source": "styropyro",
+    "timestamp": "2021-09-24T19:00:10Z",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJYJgj7rzsn0vdR7fkgjuIA"
+  },
+  {
+    "id": "https://tomasbjartur.substack.com/p/the-liar-and-the-scold",
+    "text": "Melancholic narrative exploring deception and moral judgment, examining how truth and virtue clash in human relationships.",
+    "url": "https://tomasbjartur.substack.com/p/the-liar-and-the-scold",
+    "source": "Tom\u00e1s Bjartur",
+    "timestamp": "2019-11-07T15:17:00Z",
+    "feed_url": "https://tomasbjartur.substack.com/feed"
   }
 ]
