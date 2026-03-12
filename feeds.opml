@@ -27,6 +27,7 @@
       <outline type="rss" text="Tomás Bjartur" title="Tomás Bjartur" xmlUrl="https://tomasbjartur.substack.com/feed" htmlUrl="https://tomasbjartur.substack.com" description="Literary fiction and creative writing, described as 'the poet laureate of the EleutherAI discord server'. Writes melancholic, well-crafted pieces about the future. Unfortunately from a rationalist frame." />
       <outline type="rss" text="Irrational Analysis" title="Irrational Analysis" xmlUrl="https://irrationalanalysis.substack.com/feed" htmlUrl="https://irrationalanalysis.substack.com" description="Engineering-driven tech investment analysis, notable for detailed Cerebras coverage (which the reader needs to know). The writing is bro-ish, meme-heavy, and grating." />
       <outline type="rss" text="Mesityl Oxide" title="Mesityl Oxide" xmlUrl="https://mesityl.substack.com/feed" htmlUrl="https://mesityl.substack.com" description="DIY biology and biohacking substack by a UK trans woman, covering topics like siRNA, gene editing, and experimental self-modification with a trans feminine focus. Writes with scientific rigour. Shortcoming: links to rationalist blogs." />
+      <outline type="rss" text="Sam Kriss" title="Sam Kriss" xmlUrl="https://samkriss.substack.com/feed" htmlUrl="https://samkriss.substack.com" description="Essayist and critic writing about politics, culture, and technology with sharp wit and dark humour." />
     </outline>
   </body>
 </opml>
