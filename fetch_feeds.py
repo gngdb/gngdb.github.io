@@ -83,9 +83,8 @@ def fetch_feeds(feed_urls: list[dict]) -> list[dict]:
         url = feed_entry["url"]
         source_context = feed_entry.get("context", "")
         try:
-            feed = feedparser.parse(url, agent="Mozilla/5.0 (compatible; feed-reader/1.0)")
+            feed = feedparser.parse(url)
             source_name = feed.feed.get("title", url)
-            print(f"  {source_name}: {len(feed.entries)} entries")
 
             for entry in feed.entries:
                 item_id = entry.get("id") or entry.get("link") or entry.get("title")
