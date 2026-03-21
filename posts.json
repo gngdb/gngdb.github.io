@@ -1,5 +1,13 @@
 [
   {
+    "id": "https://tomasbjartur.substack.com/p/the-distaff-texts",
+    "text": "Reflective essay examining overlooked literary works valued purely for entertainment rather than didactic purpose or historical documentatio",
+    "url": "https://tomasbjartur.substack.com/p/the-distaff-texts",
+    "source": "Tom\u00e1s Bjartur",
+    "feed_url": "https://tomasbjartur.substack.com/feed",
+    "timestamp": "2026-03-20T15:00:18Z"
+  },
+  {
     "id": "https://nablatheta.substack.com/p/my-hobby-running-deranged-surveys",
     "text": "Surveys exploring quirky, unconventional questions posed directly to people for amusement",
     "url": "https://nablatheta.substack.com/p/my-hobby-running-deranged-surveys",
@@ -278,6 +286,14 @@
     "source": "Numb at the Lodge",
     "feed_url": "https://samkriss.substack.com/feed",
     "timestamp": "2026-02-09T23:26:17Z"
+  },
+  {
+    "id": "yt:video:xrAGA8u9b2E",
+    "text": "High-energy photon behavior using Radiacode detectors, Compton scattering, and coincidence measurements with Arduino.",
+    "url": "https://www.youtube.com/watch?v=xrAGA8u9b2E",
+    "source": "Huygens Optics",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC26YLK0OEbLB3TCYxGh8xVQ",
+    "timestamp": "2026-02-08T09:57:24Z"
   },
   {
     "id": "https://irrationalanalysis.substack.com/p/226-earnings-roundup-lite-cohr-sitm",
@@ -680,6 +696,14 @@
     "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcxN_gfAE_43Wj6-UWC16bw"
   },
   {
+    "id": "yt:video:hYyrgDEJLOA",
+    "text": "Alternative electron model proposing electrons as self-confined light structures rather than point particles.",
+    "url": "https://www.youtube.com/watch?v=hYyrgDEJLOA",
+    "source": "Huygens Optics",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC26YLK0OEbLB3TCYxGh8xVQ",
+    "timestamp": "2025-11-15T12:28:12Z"
+  },
+  {
     "id": "yt:video:JLjYczBrFls",
     "text": "Synthesizing trifluoronitrosomethane to verify its actual appearance versus Wikipedia's incorrect photo.",
     "url": "https://www.youtube.com/watch?v=JLjYczBrFls",
@@ -816,12 +840,36 @@
     "timestamp": "2025-10-13T14:00:24Z"
   },
   {
+    "id": "yt:video:eSds5I62nu0",
+    "text": "Monochromatic light diffraction pattern variations as single slit width changes from 1 to 10.5 wavelengths.",
+    "url": "https://www.youtube.com/shorts/eSds5I62nu0",
+    "source": "Huygens Optics",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC26YLK0OEbLB3TCYxGh8xVQ",
+    "timestamp": "2025-10-08T13:03:54Z"
+  },
+  {
+    "id": "yt:video:Rf2FBCmv0IU",
+    "text": "Young's 1801 card experiment producing colored interference bands in white light, not double slits.",
+    "url": "https://www.youtube.com/shorts/Rf2FBCmv0IU",
+    "source": "Huygens Optics",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC26YLK0OEbLB3TCYxGh8xVQ",
+    "timestamp": "2025-10-07T08:06:32Z"
+  },
+  {
     "id": "https://tomasbjartur.substack.com/p/the-origami-men",
     "text": "Melancholic meditation on detachment and mechanical existence, exploring ennui through origami as metaphor for human artificiality.",
     "url": "https://tomasbjartur.substack.com/p/the-origami-men",
     "source": "Tom\u00e1s Bjartur",
     "timestamp": "2025-10-06T19:11:24Z",
     "feed_url": "https://tomasbjartur.substack.com/feed"
+  },
+  {
+    "id": "yt:video:TPyQI7bJo6Q",
+    "text": "Constructing a functional deformable mirror using adaptive optics principles and zero-expansion glass ceramics, with interferometric measure",
+    "url": "https://www.youtube.com/watch?v=TPyQI7bJo6Q",
+    "source": "Huygens Optics",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC26YLK0OEbLB3TCYxGh8xVQ",
+    "timestamp": "2025-10-04T20:35:51Z"
   },
   {
     "id": "yt:video:2m7yasUi2bI",
@@ -1176,6 +1224,14 @@
     "timestamp": "2025-07-13T13:23:18Z"
   },
   {
+    "id": "yt:video:TVl6JNInP1Q",
+    "text": "Vacuum energy density distribution simulation across field frequencies using Python visualization.",
+    "url": "https://www.youtube.com/shorts/TVl6JNInP1Q",
+    "source": "Huygens Optics",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC26YLK0OEbLB3TCYxGh8xVQ",
+    "timestamp": "2025-07-12T10:49:48Z"
+  },
+  {
     "id": "yt:video:rtbD0C29WYM",
     "text": "Streamer casually consumes cigarettes during casual broadcast interaction with audience.",
     "url": "https://www.youtube.com/watch?v=rtbD0C29WYM",
@@ -1246,6 +1302,14 @@
     "source": "shitty kickflips",
     "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCuh83YrtAFyCpgWVPQ_PKw",
     "timestamp": "2025-06-25T13:00:50Z"
+  },
+  {
+    "id": "yt:video:r6fRT0FHgcc",
+    "text": "Crafting telescope mirrors from cooktop glass-ceramic through cutting, polishing, and optical testing techniques.",
+    "url": "https://www.youtube.com/watch?v=r6fRT0FHgcc",
+    "source": "Huygens Optics",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC26YLK0OEbLB3TCYxGh8xVQ",
+    "timestamp": "2025-06-23T12:16:18Z"
   },
   {
     "id": "yt:video:B89Xb7mHvoU",
@@ -1360,6 +1424,14 @@
     "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvFApMFo_AafXbHRyEJefjA"
   },
   {
+    "id": "yt:video:o8RQsg4OZts",
+    "text": "Single-layer anti-reflection coating mechanism using destructive interference with ideal versus real-world refractive indices.",
+    "url": "https://www.youtube.com/shorts/o8RQsg4OZts",
+    "source": "Huygens Optics",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC26YLK0OEbLB3TCYxGh8xVQ",
+    "timestamp": "2025-05-24T11:05:38Z"
+  },
+  {
     "id": "yt:video:wMPRwxL3eF4",
     "text": "Anxious clown character animated in low poly style with humorous urgency messaging.",
     "url": "https://www.youtube.com/watch?v=wMPRwxL3eF4",
@@ -1448,6 +1520,14 @@
     "timestamp": "2025-04-28T16:37:17Z"
   },
   {
+    "id": "yt:video:rAdT4NmESZg",
+    "text": "Reducing thermal expansion of glass-ceramics through thermal conversion techniques and tuning zero-expansion to specific temperatures.",
+    "url": "https://www.youtube.com/watch?v=rAdT4NmESZg",
+    "source": "Huygens Optics",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC26YLK0OEbLB3TCYxGh8xVQ",
+    "timestamp": "2025-04-20T22:50:03Z"
+  },
+  {
     "id": "yt:video:d9o92Ixj2A0",
     "text": "Crystalline structure examination using polarized light microscopy techniques",
     "url": "https://www.youtube.com/shorts/d9o92Ixj2A0",
@@ -1462,6 +1542,14 @@
     "source": "Sheafification of G",
     "timestamp": "2025-04-11T13:01:36Z",
     "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6_J0wZdqcoRVs0Mck922SQ"
+  },
+  {
+    "id": "yt:video:cabA93rgHcI",
+    "text": "Field visualization inside alternating-layer Bragg mirror structure showing reflection mechanism.",
+    "url": "https://www.youtube.com/shorts/cabA93rgHcI",
+    "source": "Huygens Optics",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC26YLK0OEbLB3TCYxGh8xVQ",
+    "timestamp": "2025-04-07T12:01:55Z"
   },
   {
     "id": "yt:video:eFZpmF6pdug",
@@ -1504,12 +1592,28 @@
     "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvFApMFo_AafXbHRyEJefjA"
   },
   {
+    "id": "yt:video:-WGIjO-F0pY",
+    "text": "Glass-ceramic thermal properties demonstration showcasing exceptional heat resistance and durability.",
+    "url": "https://www.youtube.com/shorts/-WGIjO-F0pY",
+    "source": "Huygens Optics",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC26YLK0OEbLB3TCYxGh8xVQ",
+    "timestamp": "2025-03-28T15:36:36Z"
+  },
+  {
     "id": "yt:video:a89ZjvJSakE",
     "text": "Investigation into potentially disturbing or cursed PlayStation games from the console's library.",
     "url": "https://www.youtube.com/watch?v=a89ZjvJSakE",
     "source": "hazel",
     "timestamp": "2025-03-26T15:00:00Z",
     "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjNErCQgCndSOl6t33m1-nQ"
+  },
+  {
+    "id": "yt:video:qi8jmEbWsxU",
+    "text": "Zero thermal expansion in glass-ceramics achieved through crystallization and nucleation processes.",
+    "url": "https://www.youtube.com/watch?v=qi8jmEbWsxU",
+    "source": "Huygens Optics",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC26YLK0OEbLB3TCYxGh8xVQ",
+    "timestamp": "2025-03-23T19:52:06Z"
   },
   {
     "id": "yt:video:yWtpiTRk3o4",
@@ -1632,6 +1736,14 @@
     "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-oTbS-PARG-kASUBRoCIUQ"
   },
   {
+    "id": "yt:video:tMP5Pbx8I4s",
+    "text": "Theoretical exploration of confining wave energy locally through non-linear vacuum medium to model particle formation.",
+    "url": "https://www.youtube.com/watch?v=tMP5Pbx8I4s",
+    "source": "Huygens Optics",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC26YLK0OEbLB3TCYxGh8xVQ",
+    "timestamp": "2025-01-11T11:48:38Z"
+  },
+  {
     "id": "yt:video:5Xl230o_Bhg",
     "text": "Philosophical critique of why mathematics feels meaningless and challenges common misconceptions about mathematical understanding and proof.",
     "url": "https://www.youtube.com/watch?v=5Xl230o_Bhg",
@@ -1752,6 +1864,14 @@
     "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6_J0wZdqcoRVs0Mck922SQ"
   },
   {
+    "id": "yt:video:uS5n2zfVdlw",
+    "text": "2D wave simulation demonstrating energy confinement through nonlinear medium elasticity, proposing mass as spatially confined wave energy.",
+    "url": "https://www.youtube.com/shorts/uS5n2zfVdlw",
+    "source": "Huygens Optics",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC26YLK0OEbLB3TCYxGh8xVQ",
+    "timestamp": "2024-11-12T14:40:31Z"
+  },
+  {
     "id": "yt:video:h1WW7e9SbFI",
     "text": "Synthesizing luminescent perovskite nanocrystals using common household materials and ball milling techniques.",
     "url": "https://www.youtube.com/watch?v=h1WW7e9SbFI",
@@ -1782,6 +1902,14 @@
     "source": "styropyro",
     "timestamp": "2024-10-23T18:02:28Z",
     "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJYJgj7rzsn0vdR7fkgjuIA"
+  },
+  {
+    "id": "yt:video:NVqT2Gbrvxs",
+    "text": "Measuring photon bunching with photomultipliers using Hanbury Brown & Twiss effect on incoherent light.",
+    "url": "https://www.youtube.com/watch?v=NVqT2Gbrvxs",
+    "source": "Huygens Optics",
+    "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC26YLK0OEbLB3TCYxGh8xVQ",
+    "timestamp": "2024-10-20T06:26:25Z"
   },
   {
     "id": "yt:video:7zPnPWIMxtQ",
