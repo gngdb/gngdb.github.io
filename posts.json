@@ -24,6 +24,22 @@
     "timestamp": "2026-04-13T16:04:12Z"
   },
   {
+    "id": "https://samkriss.substack.com/p/reading-is-magic",
+    "text": "Explores digital labor exploitation and technological feudalism reshaping modern economic hierarchies.",
+    "url": "https://samkriss.substack.com/p/reading-is-magic",
+    "source": "Numb at the Lodge",
+    "feed_url": "https://samkriss.substack.com/feed",
+    "timestamp": "2026-04-12T12:59:26Z"
+  },
+  {
+    "id": "https://nablatheta.substack.com/p/terrorism-is-bad-actually",
+    "text": "Critiques the absurd suggestion that AI safety advocates should commit violence to prove commitment to their cause.",
+    "url": "https://nablatheta.substack.com/p/terrorism-is-bad-actually",
+    "source": "nabla theta",
+    "feed_url": "https://nablatheta.substack.com/feed",
+    "timestamp": "2026-04-11T16:39:28Z"
+  },
+  {
     "id": "yt:video:qT5XLkATzSI",
     "text": "Detailed distillation process for producing ultra-pure cesium metal in sealed ampoules.",
     "url": "https://www.youtube.com/watch?v=qT5XLkATzSI",
@@ -38,6 +54,14 @@
     "source": "Dresden Codak",
     "feed_url": "https://dresdencodak.com/feed/",
     "timestamp": "2026-04-08T03:23:43Z"
+  },
+  {
+    "id": "https://samkriss.substack.com/p/is-my-writing-too-wet",
+    "text": "Witty defense of viscous, sloppy writing styles against purist criticism of excessive sentiment",
+    "url": "https://samkriss.substack.com/p/is-my-writing-too-wet",
+    "source": "Numb at the Lodge",
+    "feed_url": "https://samkriss.substack.com/feed",
+    "timestamp": "2026-04-05T10:33:52Z"
   },
   {
     "id": "yt:video:xMuZAkRHmNw",
@@ -88,12 +112,12 @@
     "timestamp": "2026-03-30T04:30:23Z"
   },
   {
-    "id": "https://irrationalanalysis.substack.com/p/ofc-2026-irrational-recap",
-    "text": "Conference recap celebrating AI chip startup wins, heavy on Cerebras analysis with casualized, meme-filled commentary throughout.",
-    "url": "https://irrationalanalysis.substack.com/p/ofc-2026-irrational-recap",
-    "source": "Irrational Analysis",
-    "feed_url": "https://irrationalanalysis.substack.com/feed",
-    "timestamp": "2026-03-27T20:52:45Z"
+    "id": "https://nablatheta.substack.com/p/know-your-insomnia-treatments",
+    "text": "Insomnia treatments overview, emphasizing sleep's critical importance for overall health",
+    "url": "https://nablatheta.substack.com/p/know-your-insomnia-treatments",
+    "source": "nabla theta",
+    "feed_url": "https://nablatheta.substack.com/feed",
+    "timestamp": "2026-03-30T00:50:15Z"
   },
   {
     "id": "https://nablatheta.substack.com/p/corporations-seem-evil-because-we",
@@ -102,14 +126,6 @@
     "source": "nabla theta",
     "feed_url": "https://nablatheta.substack.com/feed",
     "timestamp": "2026-03-27T01:31:41Z"
-  },
-  {
-    "id": "https://irrationalanalysis.substack.com/p/passing-liquified-gas",
-    "text": "Energy markets vacation piece with bro-ish tone and meme humor, likely covering LNG commodities and trading dynamics.",
-    "url": "https://irrationalanalysis.substack.com/p/passing-liquified-gas",
-    "source": "Irrational Analysis",
-    "feed_url": "https://irrationalanalysis.substack.com/feed",
-    "timestamp": "2026-03-24T04:34:35Z"
   },
   {
     "id": "https://dresdencodak.com/?p=6768",
@@ -184,14 +200,6 @@
     "timestamp": "2026-03-15T16:14:04Z"
   },
   {
-    "id": "https://irrationalanalysis.substack.com/p/citrini-3122026-optics-basket-comments",
-    "text": "Optics sector basket analysis with casual tone, light technical errors noted.",
-    "url": "https://irrationalanalysis.substack.com/p/citrini-3122026-optics-basket-comments",
-    "source": "Irrational Analysis",
-    "feed_url": "https://irrationalanalysis.substack.com/feed",
-    "timestamp": "2026-03-12T14:48:51Z"
-  },
-  {
     "id": "https://tomasbjartur.substack.com/p/ebook",
     "text": "Melancholic speculative fiction collection formatted for e-reader distribution.",
     "url": "https://tomasbjartur.substack.com/p/ebook",
@@ -224,28 +232,12 @@
     "timestamp": "2026-03-07T13:16:59Z"
   },
   {
-    "id": "https://irrationalanalysis.substack.com/p/marvell-352026-earnings-hilarious",
-    "text": "CEO's bold guidance sparks investor frenzy amid chip market volatility and potential short-seller chaos.",
-    "url": "https://irrationalanalysis.substack.com/p/marvell-352026-earnings-hilarious",
-    "source": "Irrational Analysis",
-    "timestamp": "2026-03-06T23:18:49Z",
-    "feed_url": "https://irrationalanalysis.substack.com/feed"
-  },
-  {
     "id": "yt:video:9SjU_H235DE",
     "text": "Car ignition coils powering circuit board with striking luminescent effects",
     "url": "https://www.youtube.com/shorts/9SjU_H235DE",
     "source": "styropyro",
     "timestamp": "2026-03-06T01:17:14Z",
     "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJYJgj7rzsn0vdR7fkgjuIA"
-  },
-  {
-    "id": "https://irrationalanalysis.substack.com/p/march-morgan-stanley-tmt-madness",
-    "text": "Bro-style bracket analysis of tech contacts' March Madness picks and investment takes.",
-    "url": "https://irrationalanalysis.substack.com/p/march-morgan-stanley-tmt-madness",
-    "source": "Irrational Analysis",
-    "timestamp": "2026-03-05T21:45:55Z",
-    "feed_url": "https://irrationalanalysis.substack.com/feed"
   },
   {
     "id": "https://tomasbjartur.substack.com/p/the-elect",
@@ -272,28 +264,12 @@
     "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJYJgj7rzsn0vdR7fkgjuIA"
   },
   {
-    "id": "https://irrationalanalysis.substack.com/p/aaoi-probably-worth-chasing",
-    "text": "Technical analysis driven by earnings call data, tracking stock momentum with informal commentary style.",
-    "url": "https://irrationalanalysis.substack.com/p/aaoi-probably-worth-chasing",
-    "source": "Irrational Analysis",
-    "timestamp": "2026-03-01T05:30:11Z",
-    "feed_url": "https://irrationalanalysis.substack.com/feed"
-  },
-  {
     "id": "yt:video:KiTc3ER7uj8",
     "text": "Examines the surprisingly unconventional direction taken by the Riki-Oh creator in this obscure animated feature.",
     "url": "https://www.youtube.com/watch?v=KiTc3ER7uj8",
     "source": "KaiserBeamz",
     "timestamp": "2026-03-01T04:00:00Z",
     "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcxN_gfAE_43Wj6-UWC16bw"
-  },
-  {
-    "id": "https://irrationalanalysis.substack.com/p/unfinished-draft-its-the-dataflow",
-    "text": "Argues Groq's dataflow architecture more fundamental than networking comparisons, dismisses Mellanox relevance.",
-    "url": "https://irrationalanalysis.substack.com/p/unfinished-draft-its-the-dataflow",
-    "source": "Irrational Analysis",
-    "timestamp": "2026-02-27T20:13:36Z",
-    "feed_url": "https://irrationalanalysis.substack.com/feed"
   },
   {
     "id": "yt:video:98qiQJ8maCU",
@@ -326,14 +302,6 @@
     "source": "styropyro",
     "timestamp": "2026-02-20T19:36:37Z",
     "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJYJgj7rzsn0vdR7fkgjuIA"
-  },
-  {
-    "id": "https://irrationalanalysis.substack.com/p/isscc-2026-irrational-recap",
-    "text": "Nvidia and Celestial/Marvell steal show at chip conference with standout demos.",
-    "url": "https://irrationalanalysis.substack.com/p/isscc-2026-irrational-recap",
-    "source": "Irrational Analysis",
-    "timestamp": "2026-02-19T15:25:05Z",
-    "feed_url": "https://irrationalanalysis.substack.com/feed"
   },
   {
     "id": "https://samkriss.substack.com/p/how-to-read-numb-at-the-lodge",
@@ -384,14 +352,6 @@
     "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjNErCQgCndSOl6t33m1-nQ"
   },
   {
-    "id": "https://irrationalanalysis.substack.com/p/market-memo-towerglofo-earnings-hbm4",
-    "text": "DRAM players struggling with high-speed probe test equipment, Tower+GloFo earnings update included.",
-    "url": "https://irrationalanalysis.substack.com/p/market-memo-towerglofo-earnings-hbm4",
-    "source": "Irrational Analysis",
-    "timestamp": "2026-02-12T05:30:34Z",
-    "feed_url": "https://irrationalanalysis.substack.com/feed"
-  },
-  {
     "id": "https://dresdencodak.com/?p=6303",
     "text": "Kimiko Ross confronts remnants of an ancient conflict, blending espionage and scientific mystery in philosophical exploration.",
     "url": "https://dresdencodak.com/2026/02/10/dark-science-179-shadows-of-the-old-war/",
@@ -416,14 +376,6 @@
     "timestamp": "2026-02-08T09:57:24Z"
   },
   {
-    "id": "https://irrationalanalysis.substack.com/p/226-earnings-roundup-lite-cohr-sitm",
-    "text": "Earnings roundup covering five semiconductor and networking stocks amid market volatility.",
-    "url": "https://irrationalanalysis.substack.com/p/226-earnings-roundup-lite-cohr-sitm",
-    "source": "Irrational Analysis",
-    "timestamp": "2026-02-06T06:23:40Z",
-    "feed_url": "https://irrationalanalysis.substack.com/feed"
-  },
-  {
     "id": "yt:video:B9-_2js0qwY",
     "text": "Ranking the 25 most historically significant and quality-rich years across all anime history.",
     "url": "https://www.youtube.com/watch?v=B9-_2js0qwY",
@@ -438,14 +390,6 @@
     "source": "ProjectsInFlight",
     "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkyHL2ZPgw9D4GOcPQq6Uzw",
     "timestamp": "2026-01-31T14:01:05Z"
-  },
-  {
-    "id": "https://irrationalanalysis.substack.com/p/market-memo-january-is-finally-over",
-    "text": "January market recap with volatile price swings, casual tone covering tech sector movements.",
-    "url": "https://irrationalanalysis.substack.com/p/market-memo-january-is-finally-over",
-    "source": "Irrational Analysis",
-    "timestamp": "2026-01-31T07:41:38Z",
-    "feed_url": "https://irrationalanalysis.substack.com/feed"
   },
   {
     "id": "yt:video:Of-KZih6lg0",
@@ -488,22 +432,6 @@
     "timestamp": "2026-01-25T06:23:13Z"
   },
   {
-    "id": "https://irrationalanalysis.substack.com/p/practical-datacom-lasers",
-    "text": "Aggressive short thesis against Lumentum through datacom laser market analysis with confident prediction language.",
-    "url": "https://irrationalanalysis.substack.com/p/practical-datacom-lasers",
-    "source": "Irrational Analysis",
-    "timestamp": "2026-01-24T22:07:10Z",
-    "feed_url": "https://irrationalanalysis.substack.com/feed"
-  },
-  {
-    "id": "https://irrationalanalysis.substack.com/p/intels-agentic-dumpster-fire",
-    "text": "Intel's catastrophic earnings and call, brutal execution failures exposed on investor stage.",
-    "url": "https://irrationalanalysis.substack.com/p/intels-agentic-dumpster-fire",
-    "source": "Irrational Analysis",
-    "timestamp": "2026-01-23T06:45:26Z",
-    "feed_url": "https://irrationalanalysis.substack.com/feed"
-  },
-  {
     "id": "https://dresdencodak.com/?p=6281",
     "text": "A meta mini-comic breaking fourth wall about pre-orders while acknowledging its own lack of humor.",
     "url": "https://dresdencodak.com/2026/01/19/dc-minis-16-the-unfunny-status-update-episode/",
@@ -518,14 +446,6 @@
     "source": "Numb at the Lodge",
     "feed_url": "https://samkriss.substack.com/feed",
     "timestamp": "2026-01-18T16:37:24Z"
-  },
-  {
-    "id": "https://irrationalanalysis.substack.com/p/memory-madness",
-    "text": "Chaotic early 2026 market analysis with irreverent commentary on tech volatility and memory chip dynamics.",
-    "url": "https://irrationalanalysis.substack.com/p/memory-madness",
-    "source": "Irrational Analysis",
-    "timestamp": "2026-01-16T22:29:45Z",
-    "feed_url": "https://irrationalanalysis.substack.com/feed"
   },
   {
     "id": "https://dresdencodak.com/?p=6269",
@@ -576,22 +496,6 @@
     "timestamp": "2026-01-04T23:43:53Z"
   },
   {
-    "id": "https://irrationalanalysis.substack.com/p/fabulous-failures",
-    "text": "Epic fab shortage incoming for cutting-edge logic chips, hyped with meme-laden commentary.",
-    "url": "https://irrationalanalysis.substack.com/p/fabulous-failures",
-    "source": "Irrational Analysis",
-    "timestamp": "2026-01-04T05:10:41Z",
-    "feed_url": "https://irrationalanalysis.substack.com/feed"
-  },
-  {
-    "id": "https://irrationalanalysis.substack.com/p/2025-end-of-year-portfolio-update",
-    "text": "Massive chip sector outperformance driven by concentrated bets, likely heavy Cerebras position gains.",
-    "url": "https://irrationalanalysis.substack.com/p/2025-end-of-year-portfolio-update",
-    "source": "Irrational Analysis",
-    "timestamp": "2026-01-01T03:26:02Z",
-    "feed_url": "https://irrationalanalysis.substack.com/feed"
-  },
-  {
     "id": "yt:video:sj64plHnzt0",
     "text": "Two characters reluctantly taking on clown work during desperate times, set to lo-fi music.",
     "url": "https://www.youtube.com/watch?v=sj64plHnzt0",
@@ -608,14 +512,6 @@
     "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcxN_gfAE_43Wj6-UWC16bw"
   },
   {
-    "id": "https://irrationalanalysis.substack.com/p/truly-irrational-nvidiagroq-deal",
-    "text": "Skeptical take questioning the rationale behind Nvidia's acquisition or partnership with Groq, expressing bewilderment at deal logic.",
-    "url": "https://irrationalanalysis.substack.com/p/truly-irrational-nvidiagroq-deal",
-    "source": "Irrational Analysis",
-    "timestamp": "2025-12-24T22:47:37Z",
-    "feed_url": "https://irrationalanalysis.substack.com/feed"
-  },
-  {
     "id": "https://samkriss.substack.com/p/do-you-believe-in-societys-lies",
     "text": "Examines shared delusions from childhood myths to systemic corruption, exploring how societies collectively accept convenient falsehoods.",
     "url": "https://samkriss.substack.com/p/do-you-believe-in-societys-lies",
@@ -630,14 +526,6 @@
     "source": "Dresden Codak",
     "timestamp": "2025-12-22T08:12:35Z",
     "feed_url": "https://dresdencodak.com/feed/"
-  },
-  {
-    "id": "https://irrationalanalysis.substack.com/p/2026-irrational-ideas",
-    "text": "Speculative predictions framed as deliberately absurd and risky investment thesis material.",
-    "url": "https://irrationalanalysis.substack.com/p/2026-irrational-ideas",
-    "source": "Irrational Analysis",
-    "timestamp": "2025-12-21T16:48:23Z",
-    "feed_url": "https://irrationalanalysis.substack.com/feed"
   },
   {
     "id": "yt:video:4h3PhGGlTow",
@@ -664,14 +552,6 @@
     "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2M2T4FSz1kSqNhhL-n9R9A"
   },
   {
-    "id": "https://irrationalanalysis.substack.com/p/serdes-wars-maybe-mediatek-tpu-can",
-    "text": "MediaTek's struggling TPU might recover through Semtech's CTLE signal conditioning tech in SerDes competition.",
-    "url": "https://irrationalanalysis.substack.com/p/serdes-wars-maybe-mediatek-tpu-can",
-    "source": "Irrational Analysis",
-    "timestamp": "2025-12-15T05:12:37Z",
-    "feed_url": "https://irrationalanalysis.substack.com/feed"
-  },
-  {
     "id": "yt:video:O4JFiR5ht6I",
     "text": "Geometric hexagon-based live streaming interface with minimalist low poly visual design elements.",
     "url": "https://www.youtube.com/watch?v=O4JFiR5ht6I",
@@ -696,22 +576,6 @@
     "timestamp": "2025-12-08T17:17:20Z"
   },
   {
-    "id": "https://irrationalanalysis.substack.com/p/celestial-ai-marvell-deep-dive",
-    "text": "Celestial AI analysis with characteristic irreverent tone, examining their position against Marvell's market dominance.",
-    "url": "https://irrationalanalysis.substack.com/p/celestial-ai-marvell-deep-dive",
-    "source": "Irrational Analysis",
-    "timestamp": "2025-12-07T05:26:30Z",
-    "feed_url": "https://irrationalanalysis.substack.com/feed"
-  },
-  {
-    "id": "https://irrationalanalysis.substack.com/p/marvell-maybe-buy-celestial-rumor",
-    "text": "Speculative take on potential Marvell acquisition of Celestial semiconductor company amid industry consolidation chatter.",
-    "url": "https://irrationalanalysis.substack.com/p/marvell-maybe-buy-celestial-rumor",
-    "source": "Irrational Analysis",
-    "timestamp": "2025-12-02T10:08:30Z",
-    "feed_url": "https://irrationalanalysis.substack.com/feed"
-  },
-  {
     "id": "yt:video:DfWHLkphWys",
     "text": "Homemade silicon carbide synthesis through extreme temperature heating methods.",
     "url": "https://www.youtube.com/watch?v=DfWHLkphWys",
@@ -734,14 +598,6 @@
     "source": "ProjectsInFlight",
     "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkyHL2ZPgw9D4GOcPQq6Uzw",
     "timestamp": "2025-11-29T14:01:31Z"
-  },
-  {
-    "id": "https://irrationalanalysis.substack.com/p/thanksgiving-thoughts-tpu-vs-nvda",
-    "text": "Irreverent comparison of Google TPUs against major chip competitors, flexing author's heavy semiconductor portfolio bias.",
-    "url": "https://irrationalanalysis.substack.com/p/thanksgiving-thoughts-tpu-vs-nvda",
-    "source": "Irrational Analysis",
-    "timestamp": "2025-11-28T20:22:39Z",
-    "feed_url": "https://irrationalanalysis.substack.com/feed"
   },
   {
     "id": "https://samkriss.substack.com/p/whats-the-point-of-words",
@@ -832,14 +688,6 @@
     "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2M2T4FSz1kSqNhhL-n9R9A"
   },
   {
-    "id": "https://irrationalanalysis.substack.com/p/practical-optical-communication-systems",
-    "text": "Practical guide to optical communication systems emphasizing intuitive understanding over complex theory.",
-    "url": "https://irrationalanalysis.substack.com/p/practical-optical-communication-systems",
-    "source": "Irrational Analysis",
-    "timestamp": "2025-11-07T04:08:09Z",
-    "feed_url": "https://irrationalanalysis.substack.com/feed"
-  },
-  {
     "id": "https://tomasbjartur.substack.com/p/the-maker-of-mind-bdc",
     "text": "Philosophical narrative exploring consciousness creation through a character's post-rebirth perspective, blending personal transformation wi",
     "url": "https://tomasbjartur.substack.com/p/the-maker-of-mind-bdc",
@@ -880,14 +728,6 @@
     "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcxN_gfAE_43Wj6-UWC16bw"
   },
   {
-    "id": "https://irrationalanalysis.substack.com/p/qualcomm-q4-2025-earnings-preview",
-    "text": "Qualcomm's struggling earnings outlook signals deeper competitive problems despite optimistic guidance attempts.",
-    "url": "https://irrationalanalysis.substack.com/p/qualcomm-q4-2025-earnings-preview",
-    "source": "Irrational Analysis",
-    "timestamp": "2025-10-28T15:41:00Z",
-    "feed_url": "https://irrationalanalysis.substack.com/feed"
-  },
-  {
     "id": "yt:video:x5nGs976QnY",
     "text": "Animated series following a female character armed with a weapon across four episodes.",
     "url": "https://www.youtube.com/shorts/x5nGs976QnY",
@@ -910,14 +750,6 @@
     "source": "Scrap Science",
     "timestamp": "2025-10-26T07:50:36Z",
     "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYLvqqVn7Un9lafEXwSW4mA"
-  },
-  {
-    "id": "https://irrationalanalysis.substack.com/p/ocp-global-summit-2025-irrational",
-    "text": "Open Compute conference recap covering semiconductor and networking stocks with irreverent analysis and multiple ticker symbols.",
-    "url": "https://irrationalanalysis.substack.com/p/ocp-global-summit-2025-irrational",
-    "source": "Irrational Analysis",
-    "timestamp": "2025-10-24T20:08:35Z",
-    "feed_url": "https://irrationalanalysis.substack.com/feed"
   },
   {
     "id": "yt:video:xzSdRztwuSI",
