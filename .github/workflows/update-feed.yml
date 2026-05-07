@@ -2,7 +2,7 @@ name: Update Feed
 
 on:
   schedule:
-    - cron: '0 * * * *'   # every hour
+    - cron: '17 * * * *'   # every hour
   workflow_dispatch:        # allow manual trigger from GitHub UI
 
 jobs:
