@@ -1,3 +1,11 @@
 # Ignore for now
 claude/
 .venv
+__pycache__/
+accidentally-vegan.html
+blog_scratch/
+dialogue-microblog.html
+feed-design-doc.md
+feeds-deprecated.opml
+films.html
+uptime.md
