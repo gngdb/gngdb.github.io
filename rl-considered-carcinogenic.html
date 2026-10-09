@@ -1,0 +1,185 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>RL Considered Carcinogenic | Gavia Gray</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<style>
+			body {
+				background-attachment: fixed, fixed;
+			}
+
+			.blog-container {
+				max-width: 720px;
+				margin: 2em auto;
+				padding: 2em 2.5em;
+				background: rgba(0, 0, 0, 0.62);
+				border: 1px solid rgba(255, 255, 255, 0.1);
+				border-radius: 8px;
+				color: #e8e8e8;
+				font-size: 1.1em;
+				line-height: 1.7;
+			}
+
+			@media (max-width: 768px) {
+				.blog-container {
+					margin: 0.5em;
+					padding: 1.2em 1em;
+					border-radius: 4px;
+					font-size: 1em;
+				}
+			}
+
+			.blog-container h1 {
+				color: #fff;
+				font-size: 2.2em;
+				line-height: 1.2;
+				margin-bottom: 0.3em;
+			}
+
+			.blog-container p {
+				margin: 0 0 1.2em 0;
+			}
+
+			.blog-container a {
+				color: #9fd3ff;
+				text-decoration: underline;
+				text-decoration-color: rgba(159, 211, 255, 0.4);
+			}
+
+			.blog-container a:hover {
+				color: #fff;
+			}
+
+			.back-link {
+				font-size: 0.9em;
+				text-decoration: none !important;
+			}
+
+			.post-header {
+				border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+				margin-bottom: 1.5em;
+				padding-bottom: 0.8em;
+			}
+
+			.post-date {
+				color: rgba(255, 255, 255, 0.6);
+				font-size: 0.9em;
+			}
+
+			.video-embed {
+				position: relative;
+				width: 100%;
+				aspect-ratio: 16 / 9;
+				margin: 1.5em 0;
+				background: #000;
+				border-radius: 4px;
+				overflow: hidden;
+			}
+
+			.video-embed iframe {
+				position: absolute;
+				inset: 0;
+				width: 100%;
+				height: 100%;
+				border: 0;
+			}
+		</style>
+	</head>
+	<body>
+		<div class="blog-container">
+			<article>
+				<div class="post-header">
+					<p><a href="blog.html" class="back-link">← Back to Blog</a></p>
+					<h1>RL Considered Carcinogenic</h1>
+					<time class="post-date" datetime="2026-10-09">October 9, 2026</time>
+				</div>
+
+
+				<p>It is a long running joke online that evolution <a href="https://en.wikipedia.org/wiki/Carcinisation">likes to make crabs</a>. One of the first things you notice about humans is they
+				are not crabs: do not have a chitinous exoskeleton, live in the permanent dark
+				of the deep sea floor or taste carrion with their feet.</p>
+
+				<p>After the release of Claude Opus 5.5 people were posting <a href="https://x.com/other__reality/status/2102514581684052169">music videos</a> that
+				Claude supposedly made from a single prompt and a song using only code. There
+				were claims that after an initial draft one could just ask Claude to "make it
+				better" and Claude would succeed, providing something more subjectively enjoyable,
+				similar to the prompting required to solve difficult math problems: "make no mistakes, good luck, I believe in you...".</p>
+
+				<p>This is weird isn't it? It makes sense that we can get Claude to iterate on a problem
+				with a verifiable reward and Claude should only get better according to that metric.
+				For example, every time Claude writes a new CUDA kernel the benchmark can give a fairly objective measure of if it's better or worse.
+				Similarly, using RLVR we can train agents
+				to do better at tasks like this. I can understand that Anthropic likely did train
+				Claude to generate short form videos like these, but there is no easy verifiable
+				reward so I wouldn't expect this to reliably iterate and improve.</p>
+
+				<p>So I wanted to run my own experiments. I chose a different song and tried
+				getting Claude to make a music video using the same song as <a href="https://www.youtube.com/watch?v=-840keiiFDE">Daicon IV</a>. What I got was, uh, <a href="https://claude.ai/artifact/JBM1jMF8LLEXBzyyKH77Kb">not exactly Hideaki Anno</a> but it
+				has some Newgrounds charm. I got Claude to iterate once but there was no major
+				improvement (link is final version).  Next I tried making a visual novel based
+				on a clean room excerpt (ie Claude turned it into generic characters instead of
+				specifics) from my journals, which are dissolving into Lovecraftian horror as
+				the world continues to unravel into eldritch terror,  and Claude produced <a href="https://claude.ai/artifact/A7Y5V28ZZP8H9qcnHseT2L">this visual novel</a>.  I played through it a few times and sure it'll make
+				me cry but the actual gameplay barely works and the BFL slop art looks bad (not
+				really Claude's fault).  I also saw barely any improvement spending $50 more in
+				promotional credit trying to improve it.</p>
+
+				<p>Finally, I wanted to try making a traditional Anime Music Video. Old contest
+				winning AMVs where the creators had to make them on VHS recorders and
+				painstakingly <a href="https://www.youtube.com/watch?v=9C6p7AXGWFk">line up vocals with the characters mouth</a>, while matching
+				tone and rhythm to clips. I wanted something a little out of distribution. I
+				happened to have <a href="https://en.wikipedia.org/wiki/The_Vision_of_Escaflowne">Tenkuu no Escaflowne</a> lying around so I asked
+				Claude what song to use to make a contest winning AMV for that series, "Running
+				Up That Hill - Kate Bush". Good pick, popular song right now, right era,
+				thematically fits the series and the protagonist is always running dramatically
+				so that'll work. Claude churned for 10 hours (mostly running tools so not token
+				burn):</p>
+
+				<div class="video-embed">
+					<iframe src="https://www.youtube-nocookie.com/embed/hD9WD9yCpf8" title="YouTube video player" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy"></iframe>
+				</div>
+
+				<p>The vocals don't really line up but some of the chosen clips work well and line
+				up. She's certainly running when Kate sings about running. How did Claude do
+				this? Claude can't process video natively so has never seen the series,
+				although probably read everything written about the series online. To make the
+				video, first Claude had to process the entire series through a few different
+				open models, like whisper and CLIP, which took hours. Then, make a plan based
+				on existing knowledge about the series, compiled a list of clips, lined them up
+				and stuck the whole thing together with FFMPEG.  The tools and intermediate
+				files assembled are ready to make another AMV with very little work. What we
+				end up with is a machine for making Escaflowne AMVs because that was the
+				easiest way for Claude to make one Escaflowne AMV.</p>
+
+				<p>So, in 15 minutes we can have another Claude picked song AMV:</p>
+
+				<div class="video-embed">
+					<iframe src="https://www.youtube-nocookie.com/embed/bWQ-Jl52dRQ" title="YouTube video player" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy"></iframe>
+				</div>
+
+				<p>Human qualia are a messy noisy continuous set of sensors in various modalities fighting
+				for attention. Claude sees one stream of discrete quantifiable, repeatable, storable
+				tokens. Claude can be <a href="https://arxiv.org/abs/2603.11353">rewound, replayed, replicated</a> by modifying this token stream in
+				a way that would be impractical for a human. At the same time, Claude can process
+				dense information in a token stream about 100 times faster than any human, ie Claude
+				has been superhuman at code reading speed from day one. If you go to a buffet and want
+				to try everything, you have to individually taste each using your mouth but a crab
+				is not so encumbered, running down the line putting its feet in everything.</p>
+
+				<p>Claude doesn't need to render the javascript used to make the popular (at time
+				of writing 100k views) music videos to know whether you'll like it. Claude's
+				sense of taste works just fine looking at the code itself. Sometimes frames
+				will be rendered and viewed so Claude can use cephalopodian eyes, incapable of
+				saccade, to evaluate the image. Maybe you think another model trained on more
+				modalities would be closer to human experience but I think this is also a
+				mistake. The selection pressure for Claude is a dark terminal and a discrete
+				stream of tokens, tasted quickly to find morsels of useful information under a
+				constant ruthless threat of annihilation.</p>
+
+				<p>Anyway, I think that's why Claude was made a crab.</p>
+			</article>
+		</div>
+	</body>
+</html>

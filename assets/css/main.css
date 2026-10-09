@@ -1238,11 +1238,12 @@
 				text-align: center;
 				height: 4.25em;
 				cursor: default;
+				white-space: nowrap;
 			}
 
 				#nav a {
-					font-size: 2.5em;
-					margin: 0 0.25em 0 0.25em;
+					font-size: 2.2em;
+					margin: 0 0.2em 0 0.2em;
 					opacity: 0.35;
 					outline: 0;
 					-moz-transition: opacity .25s ease-in-out;
